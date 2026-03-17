@@ -105,44 +105,78 @@ tournament_result:
 
 ### Data Collection Flow
 
-The data collection process is initiated by running the scraper scripts. The flow is as follows:
+The data collection and processing pipeline is separated into two phases. The first phase scrapes the raw data from the web and saves it as JSON files. The second phase processes these JSON files and creates YAML files with a cleaned-up schema.
+
+To run the entire pipeline, execute the following commands in order:
 
 ```mermaid
 graph TD
-    subgraph "1. Kick-off Data Collection"
-        A("`python scrapers/mens_scraper.py`")
-        B("`python scrapers/womens_scraper.py`")
-        C("`python scrapers/nba_wnba_scraper.py`")
+    subgraph "Full Pipeline Execution"
+        direction LR
+        A["
+        # Run all scrapers first
+        `python scrapers/mens_scraper.py`
+        `python scrapers/womens_scraper.py`
+        `python scrapers/nba_wnba_scraper.py`
+        
+        # Then run the YAML processor
+        `python processing/yaml_writer.py`
+        "]
     end
 
-    subgraph "2. Scraper Execution"
-        A --> D("mens_scraper.py")
-        B --> E("womens_scraper.py")
-        C --> F("nba_wnba_scraper.py")
+    subgraph "Phase 1: Scraping"
+        direction LR
+        
+        subgraph "External Data"
+            SR[sports-reference.com]
+            WIKI[en.wikipedia.org]
+        end
+
+        subgraph "Scraper Scripts"
+            mens_scraper[mens_scraper.py]
+            womens_scraper[womens_scraper.py]
+            nba_wnba_scraper[nba_wnba_scraper.py]
+        end
+
+        subgraph "Raw JSON Output"
+            mens_json[data/raw/mens/]
+            womens_json[data/raw/womens/]
+            draft_json[data/raw/draft_lookup.json]
+        end
+
+        SR -- Data flows to --> mens_scraper
+        SR -- Data flows to --> womens_scraper
+        WIKI -- Data flows to --> nba_wnba_scraper
+
+        mens_scraper -- Writes to --> mens_json
+        womens_scraper -- Writes to --> womens_json
+        nba_wnba_scraper -- Writes to --> draft_json
     end
 
-    subgraph "3. Core Scraping Logic"
-        D --> G("ncaa_scraper.py")
-        E --> G("ncaa_scraper.py")
-        G --> H("base_scraper.py")
-        F --> H
-    end
-    
-    subgraph "4. External Data Sources"
-        H -- Fetches HTML --> I("sports-reference.com")
-        H -- Fetches HTML --> J("en.wikipedia.org")
-    end
+    subgraph "Phase 2: Processing"
+        direction LR
+        
+        subgraph "Processing Script"
+            yaml_writer[processing/yaml_writer.py]
+        end
 
-    subgraph "5. Raw Data Output"
-        D --> K("data/raw/mens/")
-        E --> L("data/raw/womens/")
-        F --> M("data/raw/nba_draft/")
-        F --> N("data/raw/wnba_draft/")
-        F --> O("data/raw/draft_lookup.json")
+        subgraph "Processed YAML Output"
+            mens_yaml[data/processed/mens/]
+            womens_yaml[data/processed/womens/]
+        end
+
+        mens_json -- Is read by --> yaml_writer
+        womens_json -- Is read by --> yaml_writer
+        draft_json -- Is read by --> yaml_writer
+        
+        yaml_writer -- Writes to --> mens_yaml
+        yaml_writer -- Writes to --> womens_yaml
     end
 ```
 
-The `mens_scraper.py` and `womens_scraper.py` scripts are wrappers around the generic `ncaa_scraper.py`, which contains the core logic for scraping NCAA tournament data. The `nba_wnba_scraper.py` script scrapes draft data from Wikipedia. Both scrapers use `base_scraper.py` for shared functionality like HTTP requests and caching. The scraped data is saved as JSON files in the `data/raw` directory.
+The `mens_scraper.py` and `womens_scraper.py` scripts scrape NCAA tournament data from `sports-reference.com`, while `nba_wnba_scraper.py` scrapes draft data from `Wikipedia`. The raw data is stored in the `data/raw` directory.
+
+The `processing/yaml_writer.py` script then reads the raw JSON files, combines and cleans the data, and outputs the final YAML files to the `data/processed` directory.
 
 ---
 
