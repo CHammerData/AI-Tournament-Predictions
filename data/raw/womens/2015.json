@@ -1,0 +1,2818 @@
+{
+  "Alabama State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Alabama State",
+    "seed": 15,
+    "region": "greensboro",
+    "conference": "SWAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "17-15",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": -12.79
+    },
+    "advanced": {
+      "srs": -14.93,
+      "offensive_rating": 87.6,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.41,
+      "tov_pct": 22.3,
+      "orb_pct": 36.6,
+      "ft_rate": 0.411
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Albany (NY)": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Albany (NY)",
+    "seed": 13,
+    "region": "spokane",
+    "conference": "AmEast",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "24-9",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": -3.95
+    },
+    "advanced": {
+      "srs": 9.72,
+      "offensive_rating": 99.7,
+      "defensive_rating": null,
+      "pace": 69.1,
+      "efg_pct": 0.492,
+      "tov_pct": 19.7,
+      "orb_pct": 39.4,
+      "ft_rate": 0.384
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "American": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "American",
+    "seed": 14,
+    "region": "oklahomacity",
+    "conference": "Patriot",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "24-9",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": -0.68
+    },
+    "advanced": {
+      "srs": 5.02,
+      "offensive_rating": 95.4,
+      "defensive_rating": null,
+      "pace": 66.3,
+      "efg_pct": 0.486,
+      "tov_pct": 16.9,
+      "orb_pct": 24.7,
+      "ft_rate": 0.292
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arizona State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Arizona State",
+    "seed": 3,
+    "region": "greensboro",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "29-6",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 10.94
+    },
+    "advanced": {
+      "srs": 22.8,
+      "offensive_rating": 100.3,
+      "defensive_rating": null,
+      "pace": 67.0,
+      "efg_pct": 0.482,
+      "tov_pct": 17.6,
+      "orb_pct": 36.8,
+      "ft_rate": 0.333
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arkansas": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Arkansas",
+    "seed": 10,
+    "region": "oklahomacity",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "18-14",
+      "conference": "6-10"
+    },
+    "strength_of_schedule": {
+      "rating": 11.93
+    },
+    "advanced": {
+      "srs": 15.68,
+      "offensive_rating": 89.8,
+      "defensive_rating": null,
+      "pace": 66.2,
+      "efg_pct": 0.409,
+      "tov_pct": 16.3,
+      "orb_pct": 34.8,
+      "ft_rate": 0.372
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Baylor": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Baylor",
+    "seed": 2,
+    "region": "oklahomacity",
+    "conference": "Big 12",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "33-4",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 10.96
+    },
+    "advanced": {
+      "srs": 31.45,
+      "offensive_rating": 107.0,
+      "defensive_rating": null,
+      "pace": 74.3,
+      "efg_pct": 0.505,
+      "tov_pct": 15.5,
+      "orb_pct": 39.5,
+      "ft_rate": 0.35
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Boise State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Boise State",
+    "seed": 15,
+    "region": "spokane",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "22-11",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": -2.52
+    },
+    "advanced": {
+      "srs": 4.77,
+      "offensive_rating": 99.9,
+      "defensive_rating": null,
+      "pace": 69.9,
+      "efg_pct": 0.481,
+      "tov_pct": 19.5,
+      "orb_pct": 39.7,
+      "ft_rate": 0.277
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "BYU": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "BYU",
+    "seed": 14,
+    "region": "albany",
+    "conference": "WCC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 2.9
+    },
+    "advanced": {
+      "srs": 5.62,
+      "offensive_rating": 99.9,
+      "defensive_rating": null,
+      "pace": 67.4,
+      "efg_pct": 0.492,
+      "tov_pct": 18.5,
+      "orb_pct": 26.4,
+      "ft_rate": 0.336
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "CSUN": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "CSUN",
+    "seed": 13,
+    "region": "oklahomacity",
+    "conference": "Big West",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "11-5"
+    },
+    "strength_of_schedule": {
+      "rating": -0.26
+    },
+    "advanced": {
+      "srs": 7.96,
+      "offensive_rating": 93.1,
+      "defensive_rating": null,
+      "pace": 71.9,
+      "efg_pct": 0.445,
+      "tov_pct": 16.9,
+      "orb_pct": 33.2,
+      "ft_rate": 0.263
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "California": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "California",
+    "seed": 4,
+    "region": "albany",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "24-10",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 11.96
+    },
+    "advanced": {
+      "srs": 19.13,
+      "offensive_rating": 94.6,
+      "defensive_rating": null,
+      "pace": 73.5,
+      "efg_pct": 0.483,
+      "tov_pct": 18.2,
+      "orb_pct": 30.8,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Chattanooga": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Chattanooga",
+    "seed": 7,
+    "region": "spokane",
+    "conference": "Southern",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "29-4",
+      "conference": "14-0"
+    },
+    "strength_of_schedule": {
+      "rating": -0.54
+    },
+    "advanced": {
+      "srs": 11.55,
+      "offensive_rating": 97.8,
+      "defensive_rating": null,
+      "pace": 63.8,
+      "efg_pct": 0.499,
+      "tov_pct": 17.6,
+      "orb_pct": 30.8,
+      "ft_rate": 0.26
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UConn": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "UConn",
+    "seed": 1,
+    "region": "albany",
+    "conference": "AAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "38-1",
+      "conference": "18-0"
+    },
+    "strength_of_schedule": {
+      "rating": 11.0
+    },
+    "advanced": {
+      "srs": 51.64,
+      "offensive_rating": 123.4,
+      "defensive_rating": null,
+      "pace": 72.1,
+      "efg_pct": 0.605,
+      "tov_pct": 14.3,
+      "orb_pct": 41.1,
+      "ft_rate": 0.241
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Champion",
+      "wins": 6,
+      "losses": 0,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Dayton": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Dayton",
+    "seed": 7,
+    "region": "albany",
+    "conference": "A-10",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "28-7",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": 7.56
+    },
+    "advanced": {
+      "srs": 18.48,
+      "offensive_rating": 101.5,
+      "defensive_rating": null,
+      "pace": 75.4,
+      "efg_pct": 0.496,
+      "tov_pct": 18.0,
+      "orb_pct": 34.5,
+      "ft_rate": 0.364
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "DePaul": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "DePaul",
+    "seed": 9,
+    "region": "oklahomacity",
+    "conference": "Big East",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 5.39
+    },
+    "advanced": {
+      "srs": 21.19,
+      "offensive_rating": 106.8,
+      "defensive_rating": null,
+      "pace": 79.1,
+      "efg_pct": 0.502,
+      "tov_pct": 12.8,
+      "orb_pct": 32.5,
+      "ft_rate": 0.224
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Duke": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Duke",
+    "seed": 4,
+    "region": "spokane",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-11",
+      "conference": "11-5"
+    },
+    "strength_of_schedule": {
+      "rating": 14.22
+    },
+    "advanced": {
+      "srs": 24.84,
+      "offensive_rating": 96.3,
+      "defensive_rating": null,
+      "pace": 72.0,
+      "efg_pct": 0.479,
+      "tov_pct": 20.7,
+      "orb_pct": 41.9,
+      "ft_rate": 0.348
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Florida Gulf Coast": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Florida Gulf Coast",
+    "seed": 7,
+    "region": "greensboro",
+    "conference": "A-Sun",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "31-3",
+      "conference": "14-0"
+    },
+    "strength_of_schedule": {
+      "rating": -0.49
+    },
+    "advanced": {
+      "srs": 16.87,
+      "offensive_rating": 105.9,
+      "defensive_rating": null,
+      "pace": 67.4,
+      "efg_pct": 0.517,
+      "tov_pct": 14.1,
+      "orb_pct": 26.5,
+      "ft_rate": 0.307
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Florida State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Florida State",
+    "seed": 2,
+    "region": "greensboro",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "32-5",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": 9.12
+    },
+    "advanced": {
+      "srs": 27.37,
+      "offensive_rating": 103.0,
+      "defensive_rating": null,
+      "pace": 73.1,
+      "efg_pct": 0.496,
+      "tov_pct": 18.8,
+      "orb_pct": 44.5,
+      "ft_rate": 0.309
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "George Washington": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "George Washington",
+    "seed": 6,
+    "region": "spokane",
+    "conference": "A-10",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "29-4",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": 3.15
+    },
+    "advanced": {
+      "srs": 16.68,
+      "offensive_rating": 97.1,
+      "defensive_rating": null,
+      "pace": 74.9,
+      "efg_pct": 0.455,
+      "tov_pct": 18.8,
+      "orb_pct": 42.9,
+      "ft_rate": 0.277
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Gonzaga": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Gonzaga",
+    "seed": 11,
+    "region": "spokane",
+    "conference": "WCC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "26-8",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 3.1
+    },
+    "advanced": {
+      "srs": 13.07,
+      "offensive_rating": 103.1,
+      "defensive_rating": null,
+      "pace": 68.3,
+      "efg_pct": 0.488,
+      "tov_pct": 19.4,
+      "orb_pct": 41.1,
+      "ft_rate": 0.354
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Green Bay": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Green Bay",
+    "seed": 9,
+    "region": "spokane",
+    "conference": "Horizon",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "28-5",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": 3.7
+    },
+    "advanced": {
+      "srs": 16.86,
+      "offensive_rating": 101.5,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.494,
+      "tov_pct": 16.4,
+      "orb_pct": 32.3,
+      "ft_rate": 0.302
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Iowa",
+    "seed": 3,
+    "region": "oklahomacity",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "26-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 14.08
+    },
+    "advanced": {
+      "srs": 20.96,
+      "offensive_rating": 104.1,
+      "defensive_rating": null,
+      "pace": 75.8,
+      "efg_pct": 0.52,
+      "tov_pct": 15.5,
+      "orb_pct": 26.8,
+      "ft_rate": 0.293
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Iowa State",
+    "seed": 10,
+    "region": "albany",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "18-13",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 9.3
+    },
+    "advanced": {
+      "srs": 15.04,
+      "offensive_rating": 100.2,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.479,
+      "tov_pct": 15.2,
+      "orb_pct": 27.9,
+      "ft_rate": 0.306
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "James Madison": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "James Madison",
+    "seed": 12,
+    "region": "greensboro",
+    "conference": "CAA",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "29-4",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": 0.96
+    },
+    "advanced": {
+      "srs": 16.75,
+      "offensive_rating": 101.2,
+      "defensive_rating": null,
+      "pace": 74.8,
+      "efg_pct": 0.463,
+      "tov_pct": 15.1,
+      "orb_pct": 38.9,
+      "ft_rate": 0.326
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kentucky": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Kentucky",
+    "seed": 2,
+    "region": "albany",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "24-10",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": 13.55
+    },
+    "advanced": {
+      "srs": 20.2,
+      "offensive_rating": 92.7,
+      "defensive_rating": null,
+      "pace": 80.6,
+      "efg_pct": 0.432,
+      "tov_pct": 16.8,
+      "orb_pct": 35.8,
+      "ft_rate": 0.398
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Liberty": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Liberty",
+    "seed": 13,
+    "region": "greensboro",
+    "conference": "Big South",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "26-7",
+      "conference": "19-1"
+    },
+    "strength_of_schedule": {
+      "rating": -7.82
+    },
+    "advanced": {
+      "srs": 1.55,
+      "offensive_rating": 95.9,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.451,
+      "tov_pct": 19.1,
+      "orb_pct": 43.6,
+      "ft_rate": 0.329
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Little Rock": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Little Rock",
+    "seed": 11,
+    "region": "greensboro",
+    "conference": "Sun Belt",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "29-5",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": -1.02
+    },
+    "advanced": {
+      "srs": 12.57,
+      "offensive_rating": 97.1,
+      "defensive_rating": null,
+      "pace": 67.0,
+      "efg_pct": 0.483,
+      "tov_pct": 17.7,
+      "orb_pct": 33.9,
+      "ft_rate": 0.341
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "LSU": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "LSU",
+    "seed": 11,
+    "region": "albany",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "17-14",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": 10.29
+    },
+    "advanced": {
+      "srs": 13.07,
+      "offensive_rating": 88.5,
+      "defensive_rating": null,
+      "pace": 70.7,
+      "efg_pct": 0.431,
+      "tov_pct": 19.7,
+      "orb_pct": 37.5,
+      "ft_rate": 0.301
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Louisville": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Louisville",
+    "seed": 3,
+    "region": "albany",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "27-7",
+      "conference": "12-4"
+    },
+    "strength_of_schedule": {
+      "rating": 11.02
+    },
+    "advanced": {
+      "srs": 25.69,
+      "offensive_rating": 99.6,
+      "defensive_rating": null,
+      "pace": 73.2,
+      "efg_pct": 0.466,
+      "tov_pct": 16.0,
+      "orb_pct": 38.3,
+      "ft_rate": 0.348
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Maryland": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Maryland",
+    "seed": 1,
+    "region": "spokane",
+    "conference": "Big Ten",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "34-3",
+      "conference": "18-0"
+    },
+    "strength_of_schedule": {
+      "rating": 13.64
+    },
+    "advanced": {
+      "srs": 31.15,
+      "offensive_rating": 108.2,
+      "defensive_rating": null,
+      "pace": 72.7,
+      "efg_pct": 0.513,
+      "tov_pct": 17.4,
+      "orb_pct": 42.3,
+      "ft_rate": 0.319
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Miami": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Miami",
+    "seed": 11,
+    "region": "oklahomacity",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "20-13",
+      "conference": "8-8"
+    },
+    "strength_of_schedule": {
+      "rating": 10.38
+    },
+    "advanced": {
+      "srs": 16.93,
+      "offensive_rating": 92.9,
+      "defensive_rating": null,
+      "pace": 72.6,
+      "efg_pct": 0.446,
+      "tov_pct": 16.3,
+      "orb_pct": 32.0,
+      "ft_rate": 0.309
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Minnesota": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Minnesota",
+    "seed": 8,
+    "region": "oklahomacity",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.19
+    },
+    "advanced": {
+      "srs": 14.43,
+      "offensive_rating": 97.7,
+      "defensive_rating": null,
+      "pace": 76.8,
+      "efg_pct": 0.479,
+      "tov_pct": 17.3,
+      "orb_pct": 33.0,
+      "ft_rate": 0.297
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Mississippi St.": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Mississippi St.",
+    "seed": 5,
+    "region": "spokane",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "27-7",
+      "conference": "11-5"
+    },
+    "strength_of_schedule": {
+      "rating": 5.56
+    },
+    "advanced": {
+      "srs": 21.15,
+      "offensive_rating": 97.2,
+      "defensive_rating": null,
+      "pace": 73.9,
+      "efg_pct": 0.445,
+      "tov_pct": 17.6,
+      "orb_pct": 40.2,
+      "ft_rate": 0.39
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Montana": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Montana",
+    "seed": 16,
+    "region": "oklahomacity",
+    "conference": "Big Sky",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "24-9",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -1.23
+    },
+    "advanced": {
+      "srs": 5.12,
+      "offensive_rating": 96.6,
+      "defensive_rating": null,
+      "pace": 66.6,
+      "efg_pct": 0.44,
+      "tov_pct": 15.7,
+      "orb_pct": 34.1,
+      "ft_rate": 0.285
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Nebraska": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Nebraska",
+    "seed": 9,
+    "region": "greensboro",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "21-11",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 12.48
+    },
+    "advanced": {
+      "srs": 18.7,
+      "offensive_rating": 92.3,
+      "defensive_rating": null,
+      "pace": 72.4,
+      "efg_pct": 0.451,
+      "tov_pct": 16.1,
+      "orb_pct": 27.1,
+      "ft_rate": 0.252
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "New Mexico State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "New Mexico State",
+    "seed": 16,
+    "region": "spokane",
+    "conference": "WAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "22-8",
+      "conference": "13-1"
+    },
+    "strength_of_schedule": {
+      "rating": -6.48
+    },
+    "advanced": {
+      "srs": -1.12,
+      "offensive_rating": 99.5,
+      "defensive_rating": null,
+      "pace": 71.2,
+      "efg_pct": 0.478,
+      "tov_pct": 18.2,
+      "orb_pct": 34.1,
+      "ft_rate": 0.293
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UNC": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "UNC",
+    "seed": 4,
+    "region": "greensboro",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "26-9",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": 12.01
+    },
+    "advanced": {
+      "srs": 22.07,
+      "offensive_rating": 96.1,
+      "defensive_rating": null,
+      "pace": 77.3,
+      "efg_pct": 0.463,
+      "tov_pct": 16.6,
+      "orb_pct": 33.8,
+      "ft_rate": 0.324
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Northwestern": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Northwestern",
+    "seed": 7,
+    "region": "oklahomacity",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-9",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 11.17
+    },
+    "advanced": {
+      "srs": 20.23,
+      "offensive_rating": 94.6,
+      "defensive_rating": null,
+      "pace": 74.7,
+      "efg_pct": 0.485,
+      "tov_pct": 17.6,
+      "orb_pct": 26.4,
+      "ft_rate": 0.296
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Northwestern State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Northwestern State",
+    "seed": 15,
+    "region": "oklahomacity",
+    "conference": "Southland",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "19-15",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": -6.18
+    },
+    "advanced": {
+      "srs": -10.72,
+      "offensive_rating": 98.0,
+      "defensive_rating": null,
+      "pace": 61.3,
+      "efg_pct": 0.441,
+      "tov_pct": 16.9,
+      "orb_pct": 27.5,
+      "ft_rate": 0.336
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Notre Dame": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Notre Dame",
+    "seed": 1,
+    "region": "oklahomacity",
+    "conference": "ACC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "36-3",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": 16.62
+    },
+    "advanced": {
+      "srs": 36.7,
+      "offensive_rating": 108.0,
+      "defensive_rating": null,
+      "pace": 73.7,
+      "efg_pct": 0.531,
+      "tov_pct": 17.1,
+      "orb_pct": 36.8,
+      "ft_rate": 0.337
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Championship Game",
+      "wins": 5,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Ohio": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Ohio",
+    "seed": 14,
+    "region": "greensboro",
+    "conference": "MAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "27-5",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": -1.89
+    },
+    "advanced": {
+      "srs": 11.39,
+      "offensive_rating": 96.7,
+      "defensive_rating": null,
+      "pace": 72.1,
+      "efg_pct": 0.492,
+      "tov_pct": 16.9,
+      "orb_pct": 27.1,
+      "ft_rate": 0.342
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Ohio State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Ohio State",
+    "seed": 5,
+    "region": "greensboro",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "24-11",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 12.74
+    },
+    "advanced": {
+      "srs": 22.0,
+      "offensive_rating": 100.4,
+      "defensive_rating": null,
+      "pace": 79.3,
+      "efg_pct": 0.496,
+      "tov_pct": 15.2,
+      "orb_pct": 26.7,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oklahoma": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Oklahoma",
+    "seed": 5,
+    "region": "oklahomacity",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "21-12",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 13.46
+    },
+    "advanced": {
+      "srs": 19.67,
+      "offensive_rating": 97.1,
+      "defensive_rating": null,
+      "pace": 75.5,
+      "efg_pct": 0.493,
+      "tov_pct": 18.9,
+      "orb_pct": 31.8,
+      "ft_rate": 0.343
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oklahoma State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Oklahoma State",
+    "seed": 10,
+    "region": "greensboro",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "20-12",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 9.85
+    },
+    "advanced": {
+      "srs": 16.92,
+      "offensive_rating": 92.4,
+      "defensive_rating": null,
+      "pace": 69.4,
+      "efg_pct": 0.452,
+      "tov_pct": 16.9,
+      "orb_pct": 33.1,
+      "ft_rate": 0.273
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oregon State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Oregon State",
+    "seed": 3,
+    "region": "spokane",
+    "conference": "Pac-12",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "27-5",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 9.64
+    },
+    "advanced": {
+      "srs": 23.96,
+      "offensive_rating": 105.4,
+      "defensive_rating": null,
+      "pace": 69.1,
+      "efg_pct": 0.524,
+      "tov_pct": 17.1,
+      "orb_pct": 35.6,
+      "ft_rate": 0.255
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Pitt": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Pitt",
+    "seed": 10,
+    "region": "spokane",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "20-12",
+      "conference": "9-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.15
+    },
+    "advanced": {
+      "srs": 16.37,
+      "offensive_rating": 92.1,
+      "defensive_rating": null,
+      "pace": 71.1,
+      "efg_pct": 0.447,
+      "tov_pct": 16.5,
+      "orb_pct": 29.9,
+      "ft_rate": 0.273
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Princeton": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Princeton",
+    "seed": 8,
+    "region": "spokane",
+    "conference": "Ivy",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "31-1",
+      "conference": "14-0"
+    },
+    "strength_of_schedule": {
+      "rating": 0.44
+    },
+    "advanced": {
+      "srs": 23.63,
+      "offensive_rating": 108.3,
+      "defensive_rating": null,
+      "pace": 69.9,
+      "efg_pct": 0.544,
+      "tov_pct": 17.4,
+      "orb_pct": 36.5,
+      "ft_rate": 0.295
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Quinnipiac": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Quinnipiac",
+    "seed": 12,
+    "region": "oklahomacity",
+    "conference": "MAAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "31-4",
+      "conference": "20-0"
+    },
+    "strength_of_schedule": {
+      "rating": -2.45
+    },
+    "advanced": {
+      "srs": 11.55,
+      "offensive_rating": 102.5,
+      "defensive_rating": null,
+      "pace": 76.3,
+      "efg_pct": 0.48,
+      "tov_pct": 14.6,
+      "orb_pct": 33.7,
+      "ft_rate": 0.334
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Rutgers": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Rutgers",
+    "seed": 8,
+    "region": "albany",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 13.32
+    },
+    "advanced": {
+      "srs": 20.84,
+      "offensive_rating": 91.9,
+      "defensive_rating": null,
+      "pace": 74.2,
+      "efg_pct": 0.453,
+      "tov_pct": 17.6,
+      "orb_pct": 33.2,
+      "ft_rate": 0.253
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Savannah State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Savannah State",
+    "seed": 16,
+    "region": "greensboro",
+    "conference": "MEAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "21-11",
+      "conference": "13-3"
+    },
+    "strength_of_schedule": {
+      "rating": -6.0
+    },
+    "advanced": {
+      "srs": -6.48,
+      "offensive_rating": 88.7,
+      "defensive_rating": null,
+      "pace": 71.4,
+      "efg_pct": 0.44,
+      "tov_pct": 20.4,
+      "orb_pct": 35.3,
+      "ft_rate": 0.298
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Seton Hall": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Seton Hall",
+    "seed": 9,
+    "region": "albany",
+    "conference": "Big East",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "28-6",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 3.24
+    },
+    "advanced": {
+      "srs": 13.83,
+      "offensive_rating": 99.1,
+      "defensive_rating": null,
+      "pace": 75.9,
+      "efg_pct": 0.471,
+      "tov_pct": 13.7,
+      "orb_pct": 31.0,
+      "ft_rate": 0.291
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "South Carolina": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "South Carolina",
+    "seed": 1,
+    "region": "greensboro",
+    "conference": "SEC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "34-3",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": 12.42
+    },
+    "advanced": {
+      "srs": 34.15,
+      "offensive_rating": 110.7,
+      "defensive_rating": null,
+      "pace": 68.5,
+      "efg_pct": 0.524,
+      "tov_pct": 16.8,
+      "orb_pct": 40.6,
+      "ft_rate": 0.365
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "South Dakota State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "South Dakota State",
+    "seed": 14,
+    "region": "spokane",
+    "conference": "Summit",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "24-9",
+      "conference": "12-4"
+    },
+    "strength_of_schedule": {
+      "rating": 0.1
+    },
+    "advanced": {
+      "srs": 10.07,
+      "offensive_rating": 100.8,
+      "defensive_rating": null,
+      "pace": 71.3,
+      "efg_pct": 0.479,
+      "tov_pct": 17.3,
+      "orb_pct": 33.7,
+      "ft_rate": 0.352
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "South Florida": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "South Florida",
+    "seed": 6,
+    "region": "albany",
+    "conference": "AAC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 10.26
+    },
+    "advanced": {
+      "srs": 21.92,
+      "offensive_rating": 98.3,
+      "defensive_rating": null,
+      "pace": 72.3,
+      "efg_pct": 0.469,
+      "tov_pct": 16.9,
+      "orb_pct": 36.8,
+      "ft_rate": 0.319
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "St. Francis (NY)": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "St. Francis (NY)",
+    "seed": 16,
+    "region": "albany",
+    "conference": "NEC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "15-19",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": -6.91
+    },
+    "advanced": {
+      "srs": -8.38,
+      "offensive_rating": 90.4,
+      "defensive_rating": null,
+      "pace": 65.1,
+      "efg_pct": 0.46,
+      "tov_pct": 19.0,
+      "orb_pct": 25.7,
+      "ft_rate": 0.274
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Stanford": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Stanford",
+    "seed": 4,
+    "region": "oklahomacity",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "26-10",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 13.1
+    },
+    "advanced": {
+      "srs": 21.85,
+      "offensive_rating": 101.6,
+      "defensive_rating": null,
+      "pace": 67.5,
+      "efg_pct": 0.494,
+      "tov_pct": 15.2,
+      "orb_pct": 32.8,
+      "ft_rate": 0.316
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Syracuse": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Syracuse",
+    "seed": 8,
+    "region": "greensboro",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "22-10",
+      "conference": "11-5"
+    },
+    "strength_of_schedule": {
+      "rating": 10.69
+    },
+    "advanced": {
+      "srs": 18.38,
+      "offensive_rating": 93.8,
+      "defensive_rating": null,
+      "pace": 74.1,
+      "efg_pct": 0.424,
+      "tov_pct": 15.2,
+      "orb_pct": 37.0,
+      "ft_rate": 0.32
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Tennessee": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Tennessee",
+    "seed": 2,
+    "region": "spokane",
+    "conference": "SEC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "30-6",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": 13.04
+    },
+    "advanced": {
+      "srs": 28.04,
+      "offensive_rating": 101.3,
+      "defensive_rating": null,
+      "pace": 70.2,
+      "efg_pct": 0.464,
+      "tov_pct": 16.4,
+      "orb_pct": 41.0,
+      "ft_rate": 0.318
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Tennessee State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Tennessee State",
+    "seed": 15,
+    "region": "albany",
+    "conference": "OVC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "18-13",
+      "conference": "12-4"
+    },
+    "strength_of_schedule": {
+      "rating": -4.23
+    },
+    "advanced": {
+      "srs": -5.55,
+      "offensive_rating": 87.6,
+      "defensive_rating": null,
+      "pace": 75.2,
+      "efg_pct": 0.421,
+      "tov_pct": 18.6,
+      "orb_pct": 35.0,
+      "ft_rate": 0.315
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Texas",
+    "seed": 5,
+    "region": "albany",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "24-11",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 13.28
+    },
+    "advanced": {
+      "srs": 20.82,
+      "offensive_rating": 94.7,
+      "defensive_rating": null,
+      "pace": 70.5,
+      "efg_pct": 0.455,
+      "tov_pct": 18.8,
+      "orb_pct": 37.9,
+      "ft_rate": 0.312
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Texas A&M": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Texas A&M",
+    "seed": 6,
+    "region": "greensboro",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": 9.04
+    },
+    "advanced": {
+      "srs": 18.07,
+      "offensive_rating": 95.2,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.453,
+      "tov_pct": 17.2,
+      "orb_pct": 35.5,
+      "ft_rate": 0.332
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Tulane": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Tulane",
+    "seed": 12,
+    "region": "spokane",
+    "conference": "AAC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "22-11",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 7.71
+    },
+    "advanced": {
+      "srs": 13.41,
+      "offensive_rating": 92.1,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.462,
+      "tov_pct": 19.7,
+      "orb_pct": 33.0,
+      "ft_rate": 0.312
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Washington": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Washington",
+    "seed": 6,
+    "region": "oklahomacity",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "field_size": 64,
+    "record": {
+      "overall": "23-10",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 9.38
+    },
+    "advanced": {
+      "srs": 18.16,
+      "offensive_rating": 102.3,
+      "defensive_rating": null,
+      "pace": 73.3,
+      "efg_pct": 0.495,
+      "tov_pct": 14.2,
+      "orb_pct": 24.8,
+      "ft_rate": 0.339
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Western Kentucky": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Western Kentucky",
+    "seed": 12,
+    "region": "albany",
+    "conference": "CUSA",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "30-5",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 0.73
+    },
+    "advanced": {
+      "srs": 14.5,
+      "offensive_rating": 102.5,
+      "defensive_rating": null,
+      "pace": 73.3,
+      "efg_pct": 0.497,
+      "tov_pct": 16.6,
+      "orb_pct": 36.4,
+      "ft_rate": 0.33
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Wichita State": {
+    "year": 2015,
+    "tournament": "womens",
+    "team": "Wichita State",
+    "seed": 13,
+    "region": "albany",
+    "conference": "MVC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "field_size": 64,
+    "record": {
+      "overall": "29-5",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": -2.06
+    },
+    "advanced": {
+      "srs": 10.62,
+      "offensive_rating": 98.4,
+      "defensive_rating": null,
+      "pace": 65.5,
+      "efg_pct": 0.474,
+      "tov_pct": 16.4,
+      "orb_pct": 33.4,
+      "ft_rate": 0.236
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "wnba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  }
+}

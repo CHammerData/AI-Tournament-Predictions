@@ -1,0 +1,512 @@
+[
+  {
+    "player": "Zion Williamson",
+    "college": "Duke",
+    "draft_year": 2019
+  },
+  {
+    "player": "Ja Morant",
+    "college": "Murray State",
+    "draft_year": 2019
+  },
+  {
+    "player": "RJ Barrett",
+    "college": "Duke",
+    "draft_year": 2019
+  },
+  {
+    "player": "De'Andre Hunter",
+    "college": "Virginia",
+    "draft_year": 2019
+  },
+  {
+    "player": "Darius Garland",
+    "college": "Vanderbilt",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jarrett Culver",
+    "college": "Texas Tech",
+    "draft_year": 2019
+  },
+  {
+    "player": "Coby White",
+    "college": "UNC",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jaxson Hayes",
+    "college": "Texas",
+    "draft_year": 2019
+  },
+  {
+    "player": "Rui Hachimura",
+    "college": "Gonzaga",
+    "draft_year": 2019
+  },
+  {
+    "player": "Cam Reddish",
+    "college": "Duke",
+    "draft_year": 2019
+  },
+  {
+    "player": "Cameron Johnson",
+    "college": "UNC",
+    "draft_year": 2019
+  },
+  {
+    "player": "P. J. Washington",
+    "college": "Kentucky",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tyler Herro",
+    "college": "Kentucky",
+    "draft_year": 2019
+  },
+  {
+    "player": "Romeo Langford",
+    "college": "Indiana",
+    "draft_year": 2019
+  },
+  {
+    "player": "Chuma Okeke",
+    "college": "Auburn",
+    "draft_year": 2019
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "college": "Virginia Tech",
+    "draft_year": 2019
+  },
+  {
+    "player": "Luka \u0160amani\u0107",
+    "college": "Olimpija Ljubljana",
+    "draft_year": 2019
+  },
+  {
+    "player": "Matisse Thybulle",
+    "college": "Washington",
+    "draft_year": 2019
+  },
+  {
+    "player": "Brandon Clarke",
+    "college": "Gonzaga",
+    "draft_year": 2019
+  },
+  {
+    "player": "Grant Williams",
+    "college": "Tennessee",
+    "draft_year": 2019
+  },
+  {
+    "player": "Darius Bazley",
+    "college": "Princeton HS (Sharonville, Ohio; HS Sr.)",
+    "draft_year": 2019
+  },
+  {
+    "player": "Ty Jerome",
+    "college": "Virginia",
+    "draft_year": 2019
+  },
+  {
+    "player": "Nassir Little",
+    "college": "UNC",
+    "draft_year": 2019
+  },
+  {
+    "player": "Dylan Windler",
+    "college": "Belmont",
+    "draft_year": 2019
+  },
+  {
+    "player": "Mfiondu Kabengele",
+    "college": "Florida State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jordan Poole",
+    "college": "Michigan",
+    "draft_year": 2019
+  },
+  {
+    "player": "Keldon Johnson",
+    "college": "Kentucky",
+    "draft_year": 2019
+  },
+  {
+    "player": "Kevin Porter Jr.",
+    "college": "USC",
+    "draft_year": 2019
+  },
+  {
+    "player": "Nic Claxton",
+    "college": "Georgia",
+    "draft_year": 2019
+  },
+  {
+    "player": "KZ Okpala",
+    "college": "Stanford",
+    "draft_year": 2019
+  },
+  {
+    "player": "Carsen Edwards",
+    "college": "Purdue",
+    "draft_year": 2019
+  },
+  {
+    "player": "Bruno Fernando",
+    "college": "Maryland",
+    "draft_year": 2019
+  },
+  {
+    "player": "Cody Martin",
+    "college": "Nevada",
+    "draft_year": 2019
+  },
+  {
+    "player": "Daniel Gafford",
+    "college": "Arkansas",
+    "draft_year": 2019
+  },
+  {
+    "player": "Justin James",
+    "college": "Wyoming",
+    "draft_year": 2019
+  },
+  {
+    "player": "Eric Paschall",
+    "college": "Villanova",
+    "draft_year": 2019
+  },
+  {
+    "player": "Admiral Schofield",
+    "college": "Tennessee",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jaylen Nowell",
+    "college": "Washington",
+    "draft_year": 2019
+  },
+  {
+    "player": "Bol Bol",
+    "college": "Oregon",
+    "draft_year": 2019
+  },
+  {
+    "player": "Isaiah Roby",
+    "college": "Nebraska",
+    "draft_year": 2019
+  },
+  {
+    "player": "Talen Horton-Tucker",
+    "college": "Iowa State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Ignas Brazdeikis",
+    "college": "Michigan",
+    "draft_year": 2019
+  },
+  {
+    "player": "Terance Mann",
+    "college": "Florida State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Quinndary Weatherspoon",
+    "college": "Mississippi St.",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jarrell Brantley",
+    "college": "College of Charleston",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tremont Waters",
+    "college": "LSU",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jalen McDaniels",
+    "college": "San Diego State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Justin Wright-Foreman",
+    "college": "Hofstra",
+    "draft_year": 2019
+  },
+  {
+    "player": "Marial Shayok",
+    "college": "Iowa State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Kyle Guy",
+    "college": "Virginia",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jaylen Hands",
+    "college": "UCLA",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jordan Bone",
+    "college": "Tennessee",
+    "draft_year": 2019
+  },
+  {
+    "player": "Miye Oni",
+    "college": "Yale",
+    "draft_year": 2019
+  },
+  {
+    "player": "Dewan Hernandez",
+    "college": "Miami",
+    "draft_year": 2019
+  },
+  {
+    "player": "Kyle Alexander",
+    "college": "Tennessee",
+    "draft_year": 2019
+  },
+  {
+    "player": "Keljin Blevins",
+    "college": "Montana State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Marques Bolden",
+    "college": "Duke",
+    "draft_year": 2019
+  },
+  {
+    "player": "Ky Bowman",
+    "college": "Boston College",
+    "draft_year": 2019
+  },
+  {
+    "player": "Oshae Brissett",
+    "college": "Syracuse",
+    "draft_year": 2019
+  },
+  {
+    "player": "Armoni Brooks",
+    "college": "Houston",
+    "draft_year": 2019
+  },
+  {
+    "player": "Charlie Brown Jr.",
+    "college": "Saint Joseph's",
+    "draft_year": 2019
+  },
+  {
+    "player": "Moses Brown",
+    "college": "UCLA",
+    "draft_year": 2019
+  },
+  {
+    "player": "Shaq Buchanan",
+    "college": "Murray State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Devontae Cacok",
+    "college": "UNC Wilmington",
+    "draft_year": 2019
+  },
+  {
+    "player": "Devin Cannady",
+    "college": "Princeton",
+    "draft_year": 2019
+  },
+  {
+    "player": "Ahmad Caver",
+    "college": "Old Dominion",
+    "draft_year": 2019
+  },
+  {
+    "player": "Zylan Cheatham",
+    "college": "Arizona State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Chris Clemons",
+    "college": "Campbell",
+    "draft_year": 2019
+  },
+  {
+    "player": "Amir Coffey",
+    "college": "Minnesota",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tyler Cook",
+    "college": "Iowa",
+    "draft_year": 2019
+  },
+  {
+    "player": "Terence Davis",
+    "college": "Ole Miss",
+    "draft_year": 2019
+  },
+  {
+    "player": "Luguentz Dort",
+    "college": "Arizona State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tacko Fall",
+    "college": "UCF",
+    "draft_year": 2019
+  },
+  {
+    "player": "Robert Franks",
+    "college": "Washington State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Hassani Gravett",
+    "college": "South Carolina",
+    "draft_year": 2019
+  },
+  {
+    "player": "Donta Hall",
+    "college": "Alabama",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tyler Hall",
+    "college": "Montana State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jared Harper",
+    "college": "Auburn",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jaylen Hoard",
+    "college": "Wake Forest",
+    "draft_year": 2019
+  },
+  {
+    "player": "DaQuan Jeffries",
+    "college": "Tulsa",
+    "draft_year": 2019
+  },
+  {
+    "player": "Louis King",
+    "college": "Oregon",
+    "draft_year": 2019
+  },
+  {
+    "player": "John Konchar",
+    "college": "Purdue Fort Wayne",
+    "draft_year": 2019
+  },
+  {
+    "player": "Vic Law",
+    "college": "Northwestern",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jalen Lecque",
+    "college": "Brewster Academy (Wolfeboro, New Hampshire; HS Pg.)",
+    "draft_year": 2019
+  },
+  {
+    "player": "Caleb Martin",
+    "college": "Nevada",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jeremiah Martin",
+    "college": "Memphis",
+    "draft_year": 2019
+  },
+  {
+    "player": "Garrison Mathews",
+    "college": "Lipscomb",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jack McVeigh",
+    "college": "Nebraska",
+    "draft_year": 2019
+  },
+  {
+    "player": "Matt Mooney",
+    "college": "Texas Tech",
+    "draft_year": 2019
+  },
+  {
+    "player": "Juwan Morgan",
+    "college": "Indiana",
+    "draft_year": 2019
+  },
+  {
+    "player": "Zach Norvell Jr.",
+    "college": "Gonzaga",
+    "draft_year": 2019
+  },
+  {
+    "player": "Tariq Owens",
+    "college": "Texas Tech",
+    "draft_year": 2019
+  },
+  {
+    "player": "Shamorie Ponds",
+    "college": "St. John's",
+    "draft_year": 2019
+  },
+  {
+    "player": "Jontay Porter",
+    "college": "Missouri",
+    "draft_year": 2019
+  },
+  {
+    "player": "Josh Reaves",
+    "college": "Penn State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Naz Reid",
+    "college": "LSU",
+    "draft_year": 2019
+  },
+  {
+    "player": "Justin Robinson",
+    "college": "Virginia Tech",
+    "draft_year": 2019
+  },
+  {
+    "player": "Chris Silva",
+    "college": "South Carolina",
+    "draft_year": 2019
+  },
+  {
+    "player": "Max Strus",
+    "college": "DePaul",
+    "draft_year": 2019
+  },
+  {
+    "player": "Rayjon Tucker",
+    "college": "Little Rock",
+    "draft_year": 2019
+  },
+  {
+    "player": "Dean Wade",
+    "college": "Kansas State",
+    "draft_year": 2019
+  },
+  {
+    "player": "Lindell Wigginton",
+    "college": "Iowa State",
+    "draft_year": 2019
+  }
+]

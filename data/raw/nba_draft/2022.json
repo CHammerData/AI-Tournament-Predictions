@@ -1,0 +1,437 @@
+[
+  {
+    "player": "Paolo Banchero",
+    "college": "Duke",
+    "draft_year": 2022
+  },
+  {
+    "player": "Chet Holmgren",
+    "college": "Gonzaga",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jabari Smith Jr.",
+    "college": "Auburn",
+    "draft_year": 2022
+  },
+  {
+    "player": "Keegan Murray",
+    "college": "Iowa",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jaden Ivey",
+    "college": "Purdue",
+    "draft_year": 2022
+  },
+  {
+    "player": "Bennedict Mathurin",
+    "college": "Arizona",
+    "draft_year": 2022
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "college": "Kentucky",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jeremy Sochan",
+    "college": "Baylor",
+    "draft_year": 2022
+  },
+  {
+    "player": "Johnny Davis",
+    "college": "Wisconsin",
+    "draft_year": 2022
+  },
+  {
+    "player": "Ousmane Dieng",
+    "college": "New Zealand Breakers (New Zealand)",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jalen Williams",
+    "college": "Santa Clara",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jalen Duren",
+    "college": "Memphis",
+    "draft_year": 2022
+  },
+  {
+    "player": "Ochai Agbaji",
+    "college": "Kansas",
+    "draft_year": 2022
+  },
+  {
+    "player": "Mark Williams",
+    "college": "Duke",
+    "draft_year": 2022
+  },
+  {
+    "player": "AJ Griffin",
+    "college": "Duke",
+    "draft_year": 2022
+  },
+  {
+    "player": "Tari Eason",
+    "college": "LSU",
+    "draft_year": 2022
+  },
+  {
+    "player": "Dalen Terry",
+    "college": "Arizona",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jake LaRavia",
+    "college": "Wake Forest",
+    "draft_year": 2022
+  },
+  {
+    "player": "Malaki Branham",
+    "college": "Ohio State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Christian Braun",
+    "college": "Kansas",
+    "draft_year": 2022
+  },
+  {
+    "player": "Walker Kessler",
+    "college": "Auburn",
+    "draft_year": 2022
+  },
+  {
+    "player": "David Roddy",
+    "college": "Colorado State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Blake Wesley",
+    "college": "Notre Dame",
+    "draft_year": 2022
+  },
+  {
+    "player": "Wendell Moore Jr.",
+    "college": "Duke",
+    "draft_year": 2022
+  },
+  {
+    "player": "Patrick Baldwin Jr.",
+    "college": "Milwaukee",
+    "draft_year": 2022
+  },
+  {
+    "player": "TyTy Washington Jr.",
+    "college": "Kentucky",
+    "draft_year": 2022
+  },
+  {
+    "player": "Peyton Watson",
+    "college": "UCLA",
+    "draft_year": 2022
+  },
+  {
+    "player": "Andrew Nembhard",
+    "college": "Gonzaga",
+    "draft_year": 2022
+  },
+  {
+    "player": "Caleb Houstan",
+    "college": "Michigan",
+    "draft_year": 2022
+  },
+  {
+    "player": "Christian Koloko",
+    "college": "Arizona",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jaylin Williams",
+    "college": "Arkansas",
+    "draft_year": 2022
+  },
+  {
+    "player": "Max Christie",
+    "college": "Michigan State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Gabriele Procida",
+    "college": "Fortitudo Bologna",
+    "draft_year": 2022
+  },
+  {
+    "player": "Kennedy Chandler",
+    "college": "Tennessee",
+    "draft_year": 2022
+  },
+  {
+    "player": "Bryce McGowens",
+    "college": "Nebraska",
+    "draft_year": 2022
+  },
+  {
+    "player": "E. J. Liddell",
+    "college": "Ohio State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Trevor Keels",
+    "college": "Duke",
+    "draft_year": 2022
+  },
+  {
+    "player": "Moussa Diabat\u00e9",
+    "college": "Michigan",
+    "draft_year": 2022
+  },
+  {
+    "player": "Ryan Rollins",
+    "college": "Toledo",
+    "draft_year": 2022
+  },
+  {
+    "player": "Josh Minott",
+    "college": "Memphis",
+    "draft_year": 2022
+  },
+  {
+    "player": "Vince Williams Jr.",
+    "college": "VCU",
+    "draft_year": 2022
+  },
+  {
+    "player": "Kendall Brown",
+    "college": "Baylor",
+    "draft_year": 2022
+  },
+  {
+    "player": "Isaiah Mobley",
+    "college": "USC",
+    "draft_year": 2022
+  },
+  {
+    "player": "Matteo Spagnolo",
+    "college": "Vanoli Cremona",
+    "draft_year": 2022
+  },
+  {
+    "player": "Tyrese Martin",
+    "college": "UConn",
+    "draft_year": 2022
+  },
+  {
+    "player": "JD Davison",
+    "college": "Alabama",
+    "draft_year": 2022
+  },
+  {
+    "player": "Milwaukee Bucks (forfeited due to tampering violation)[3]",
+    "college": "Milwaukee Bucks (forfeited due to tampering violation)[3]",
+    "draft_year": 2022
+  },
+  {
+    "player": "Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation)[3]",
+    "college": "Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation)[3]",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jabari Walker",
+    "college": "Colorado",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jules Bernard",
+    "college": "UCLA",
+    "draft_year": 2022
+  },
+  {
+    "player": "Buddy Boeheim",
+    "college": "Syracuse",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jamaree Bouyea",
+    "college": "San Francisco",
+    "draft_year": 2022
+  },
+  {
+    "player": "Izaiah Brockington",
+    "college": "Iowa State",
+    "draft_year": 2022
+  },
+  {
+    "player": "John Butler Jr.",
+    "college": "Florida State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jamal Cain",
+    "college": "Oakland",
+    "draft_year": 2022
+  },
+  {
+    "player": "Julian Champagnie",
+    "college": "St. John's",
+    "draft_year": 2022
+  },
+  {
+    "player": "Darius Days",
+    "college": "LSU",
+    "draft_year": 2022
+  },
+  {
+    "player": "Henri Drell",
+    "college": "Victoria Libertas Pesaro",
+    "draft_year": 2022
+  },
+  {
+    "player": "Keon Ellis",
+    "college": "Alabama",
+    "draft_year": 2022
+  },
+  {
+    "player": "Tyson Etienne",
+    "college": "Wichita State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Javon Freeman-Liberty",
+    "college": "DePaul",
+    "draft_year": 2022
+  },
+  {
+    "player": "Collin Gillespie",
+    "college": "Villanova",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jacob Gilyard",
+    "college": "Richmond",
+    "draft_year": 2022
+  },
+  {
+    "player": "A. J. Green",
+    "college": "Northern Iowa",
+    "draft_year": 2022
+  },
+  {
+    "player": "Mouhamadou Gueye",
+    "college": "Pitt",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jordan Hall",
+    "college": "St. Joseph's",
+    "draft_year": 2022
+  },
+  {
+    "player": "Ron Harper Jr.",
+    "college": "Rutgers",
+    "draft_year": 2022
+  },
+  {
+    "player": "Trevor Hudgins",
+    "college": "Northwest Missouri State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Quenton Jackson",
+    "college": "Texas A&M",
+    "draft_year": 2022
+  },
+  {
+    "player": "Johnny Juzang",
+    "college": "UCLA",
+    "draft_year": 2022
+  },
+  {
+    "player": "Kenneth Lofton Jr.",
+    "college": "Louisiana Tech",
+    "draft_year": 2022
+  },
+  {
+    "player": "Justin Minaya",
+    "college": "Providence",
+    "draft_year": 2022
+  },
+  {
+    "player": "Taz\u00e9 Moore",
+    "college": "Houston",
+    "draft_year": 2022
+  },
+  {
+    "player": "Scotty Pippen Jr.",
+    "college": "Vanderbilt",
+    "draft_year": 2022
+  },
+  {
+    "player": "Daeqwon Plowden",
+    "college": "Bowling Green",
+    "draft_year": 2022
+  },
+  {
+    "player": "Lester Qui\u00f1ones",
+    "college": "Memphis",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jared Rhoden",
+    "college": "Seton Hall",
+    "draft_year": 2022
+  },
+  {
+    "player": "Orlando Robinson",
+    "college": "Fresno State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jermaine Samuels",
+    "college": "Villanova",
+    "draft_year": 2022
+  },
+  {
+    "player": "Dereon Seabron",
+    "college": "NC State",
+    "draft_year": 2022
+  },
+  {
+    "player": "Jaylen Sims",
+    "college": "UNC Wilmington",
+    "draft_year": 2022
+  },
+  {
+    "player": "Cole Swider",
+    "college": "Syracuse",
+    "draft_year": 2022
+  },
+  {
+    "player": "Stanley Umude",
+    "college": "Arkansas",
+    "draft_year": 2022
+  },
+  {
+    "player": "Alondes Williams",
+    "college": "Wake Forest",
+    "draft_year": 2022
+  },
+  {
+    "player": "Donovan Williams",
+    "college": "UNLV",
+    "draft_year": 2022
+  },
+  {
+    "player": "Malik Williams",
+    "college": "Louisville",
+    "draft_year": 2022
+  },
+  {
+    "player": "Nate Williams",
+    "college": "Buffalo",
+    "draft_year": 2022
+  }
+]

@@ -1,0 +1,2711 @@
+{
+  "Akron": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Akron",
+    "seed": 13,
+    "region": "East",
+    "conference": "MAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": -3.75
+    },
+    "advanced": {
+      "srs": 3.22,
+      "offensive_rating": 115.4,
+      "defensive_rating": null,
+      "pace": 72.5,
+      "efg_pct": 0.552,
+      "tov_pct": 14.0,
+      "orb_pct": 32.7,
+      "ft_rate": 0.261
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Alabama": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Alabama",
+    "seed": 2,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "28-9",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 16.14
+    },
+    "advanced": {
+      "srs": 25.54,
+      "offensive_rating": 118.5,
+      "defensive_rating": null,
+      "pace": 76.0,
+      "efg_pct": 0.566,
+      "tov_pct": 14.3,
+      "orb_pct": 33.7,
+      "ft_rate": 0.393
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Alabama State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Alabama State",
+    "seed": 16,
+    "region": "South",
+    "conference": "SWAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "20-16",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": -8.19
+    },
+    "advanced": {
+      "srs": -8.99,
+      "offensive_rating": 104.7,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.475,
+      "tov_pct": 11.1,
+      "orb_pct": 28.7,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arizona": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Arizona",
+    "seed": 4,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-13",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 13.72
+    },
+    "advanced": {
+      "srs": 22.94,
+      "offensive_rating": 116.3,
+      "defensive_rating": null,
+      "pace": 70.4,
+      "efg_pct": 0.533,
+      "tov_pct": 13.7,
+      "orb_pct": 36.0,
+      "ft_rate": 0.358
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arkansas": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Arkansas",
+    "seed": 10,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-14",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 11.7
+    },
+    "advanced": {
+      "srs": 17.09,
+      "offensive_rating": 108.5,
+      "defensive_rating": null,
+      "pace": 70.3,
+      "efg_pct": 0.522,
+      "tov_pct": 14.3,
+      "orb_pct": 28.1,
+      "ft_rate": 0.356
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Auburn": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Auburn",
+    "seed": 1,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "32-6",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 15.13
+    },
+    "advanced": {
+      "srs": 28.68,
+      "offensive_rating": 119.6,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.549,
+      "tov_pct": 11.7,
+      "orb_pct": 34.2,
+      "ft_rate": 0.339
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Baylor": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Baylor",
+    "seed": 9,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-15",
+      "conference": "10-10"
+    },
+    "strength_of_schedule": {
+      "rating": 13.86
+    },
+    "advanced": {
+      "srs": 18.77,
+      "offensive_rating": 113.6,
+      "defensive_rating": null,
+      "pace": 65.8,
+      "efg_pct": 0.514,
+      "tov_pct": 13.5,
+      "orb_pct": 36.6,
+      "ft_rate": 0.301
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "BYU": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "BYU",
+    "seed": 6,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-10",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 10.21
+    },
+    "advanced": {
+      "srs": 19.07,
+      "offensive_rating": 117.6,
+      "defensive_rating": null,
+      "pace": 68.1,
+      "efg_pct": 0.57,
+      "tov_pct": 14.9,
+      "orb_pct": 33.7,
+      "ft_rate": 0.304
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Bryant": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Bryant",
+    "seed": 15,
+    "region": "South",
+    "conference": "AmEast",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-12",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": -6.93
+    },
+    "advanced": {
+      "srs": -1.99,
+      "offensive_rating": 111.0,
+      "defensive_rating": null,
+      "pace": 73.4,
+      "efg_pct": 0.516,
+      "tov_pct": 13.7,
+      "orb_pct": 34.5,
+      "ft_rate": 0.293
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Clemson": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Clemson",
+    "seed": 5,
+    "region": "Midwest",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-7",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 7.51
+    },
+    "advanced": {
+      "srs": 17.81,
+      "offensive_rating": 114.4,
+      "defensive_rating": null,
+      "pace": 65.0,
+      "efg_pct": 0.534,
+      "tov_pct": 13.6,
+      "orb_pct": 33.7,
+      "ft_rate": 0.283
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Colorado State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Colorado State",
+    "seed": 12,
+    "region": "West",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-10",
+      "conference": "16-4"
+    },
+    "strength_of_schedule": {
+      "rating": 6.05
+    },
+    "advanced": {
+      "srs": 13.94,
+      "offensive_rating": 112.3,
+      "defensive_rating": null,
+      "pace": 66.3,
+      "efg_pct": 0.555,
+      "tov_pct": 15.3,
+      "orb_pct": 27.0,
+      "ft_rate": 0.316
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "UConn": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "UConn",
+    "seed": 8,
+    "region": "West",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-11",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.87
+    },
+    "advanced": {
+      "srs": 17.87,
+      "offensive_rating": 117.6,
+      "defensive_rating": null,
+      "pace": 64.6,
+      "efg_pct": 0.55,
+      "tov_pct": 14.5,
+      "orb_pct": 35.5,
+      "ft_rate": 0.308
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Creighton": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Creighton",
+    "seed": 9,
+    "region": "South",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-11",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 11.04
+    },
+    "advanced": {
+      "srs": 16.49,
+      "offensive_rating": 110.7,
+      "defensive_rating": null,
+      "pace": 67.7,
+      "efg_pct": 0.561,
+      "tov_pct": 16.0,
+      "orb_pct": 26.4,
+      "ft_rate": 0.286
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Drake": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Drake",
+    "seed": 11,
+    "region": "West",
+    "conference": "MVC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-4",
+      "conference": "17-3"
+    },
+    "strength_of_schedule": {
+      "rating": 1.27
+    },
+    "advanced": {
+      "srs": 9.6,
+      "offensive_rating": 114.0,
+      "defensive_rating": null,
+      "pace": 60.2,
+      "efg_pct": 0.547,
+      "tov_pct": 15.5,
+      "orb_pct": 35.5,
+      "ft_rate": 0.423
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Duke": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Duke",
+    "seed": 1,
+    "region": "East",
+    "conference": "ACC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "35-4",
+      "conference": "19-1"
+    },
+    "strength_of_schedule": {
+      "rating": 10.26
+    },
+    "advanced": {
+      "srs": 30.72,
+      "offensive_rating": 125.0,
+      "defensive_rating": null,
+      "pace": 66.6,
+      "efg_pct": 0.579,
+      "tov_pct": 12.1,
+      "orb_pct": 34.0,
+      "ft_rate": 0.329
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Florida": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Florida",
+    "seed": 1,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "36-4",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 12.6
+    },
+    "advanced": {
+      "srs": 27.78,
+      "offensive_rating": 120.1,
+      "defensive_rating": null,
+      "pace": 70.6,
+      "efg_pct": 0.549,
+      "tov_pct": 13.2,
+      "orb_pct": 38.5,
+      "ft_rate": 0.349
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Champion",
+      "wins": 6,
+      "losses": 0,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Georgia": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Georgia",
+    "seed": 9,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-13",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 10.94
+    },
+    "advanced": {
+      "srs": 16.36,
+      "offensive_rating": 109.8,
+      "defensive_rating": null,
+      "pace": 68.6,
+      "efg_pct": 0.521,
+      "tov_pct": 16.1,
+      "orb_pct": 36.0,
+      "ft_rate": 0.401
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Gonzaga": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Gonzaga",
+    "seed": 8,
+    "region": "Midwest",
+    "conference": "WCC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-9",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 7.27
+    },
+    "advanced": {
+      "srs": 23.75,
+      "offensive_rating": 121.5,
+      "defensive_rating": null,
+      "pace": 70.4,
+      "efg_pct": 0.56,
+      "tov_pct": 11.6,
+      "orb_pct": 32.5,
+      "ft_rate": 0.307
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Grand Canyon": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Grand Canyon",
+    "seed": 13,
+    "region": "West",
+    "conference": "WAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-8",
+      "conference": "13-3"
+    },
+    "strength_of_schedule": {
+      "rating": -2.63
+    },
+    "advanced": {
+      "srs": 4.97,
+      "offensive_rating": 107.5,
+      "defensive_rating": null,
+      "pace": 72.5,
+      "efg_pct": 0.509,
+      "tov_pct": 15.7,
+      "orb_pct": 32.6,
+      "ft_rate": 0.439
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "High Point": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "High Point",
+    "seed": 13,
+    "region": "Midwest",
+    "conference": "Big South",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "29-6",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": -5.19
+    },
+    "advanced": {
+      "srs": 5.3,
+      "offensive_rating": 121.3,
+      "defensive_rating": null,
+      "pace": 67.1,
+      "efg_pct": 0.564,
+      "tov_pct": 13.2,
+      "orb_pct": 35.0,
+      "ft_rate": 0.367
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Houston": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Houston",
+    "seed": 1,
+    "region": "Midwest",
+    "conference": "Big 12",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "35-5",
+      "conference": "19-1"
+    },
+    "strength_of_schedule": {
+      "rating": 13.45
+    },
+    "advanced": {
+      "srs": 28.45,
+      "offensive_rating": 116.2,
+      "defensive_rating": null,
+      "pace": 62.4,
+      "efg_pct": 0.517,
+      "tov_pct": 11.8,
+      "orb_pct": 36.9,
+      "ft_rate": 0.272
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Championship Game",
+      "wins": 5,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Illinois": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Illinois",
+    "seed": 6,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-13",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 12.79
+    },
+    "advanced": {
+      "srs": 21.59,
+      "offensive_rating": 114.8,
+      "defensive_rating": null,
+      "pace": 72.3,
+      "efg_pct": 0.524,
+      "tov_pct": 13.6,
+      "orb_pct": 35.8,
+      "ft_rate": 0.344
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Iowa State",
+    "seed": 3,
+    "region": "South",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-10",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.33
+    },
+    "advanced": {
+      "srs": 22.33,
+      "offensive_rating": 114.1,
+      "defensive_rating": null,
+      "pace": 69.4,
+      "efg_pct": 0.549,
+      "tov_pct": 14.9,
+      "orb_pct": 32.2,
+      "ft_rate": 0.379
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kansas": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Kansas",
+    "seed": 7,
+    "region": "West",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 13.56
+    },
+    "advanced": {
+      "srs": 20.09,
+      "offensive_rating": 108.7,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.531,
+      "tov_pct": 14.7,
+      "orb_pct": 30.5,
+      "ft_rate": 0.244
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kentucky": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Kentucky",
+    "seed": 3,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-12",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 14.04
+    },
+    "advanced": {
+      "srs": 21.26,
+      "offensive_rating": 116.5,
+      "defensive_rating": null,
+      "pace": 72.2,
+      "efg_pct": 0.559,
+      "tov_pct": 13.2,
+      "orb_pct": 28.2,
+      "ft_rate": 0.352
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Liberty": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Liberty",
+    "seed": 12,
+    "region": "East",
+    "conference": "CUSA",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": -0.99
+    },
+    "advanced": {
+      "srs": 7.42,
+      "offensive_rating": 112.7,
+      "defensive_rating": null,
+      "pace": 67.1,
+      "efg_pct": 0.583,
+      "tov_pct": 13.7,
+      "orb_pct": 20.7,
+      "ft_rate": 0.288
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Lipscomb": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Lipscomb",
+    "seed": 14,
+    "region": "South",
+    "conference": "A-Sun",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "25-10",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -4.43
+    },
+    "advanced": {
+      "srs": 4.39,
+      "offensive_rating": 115.2,
+      "defensive_rating": null,
+      "pace": 68.0,
+      "efg_pct": 0.555,
+      "tov_pct": 12.8,
+      "orb_pct": 25.4,
+      "ft_rate": 0.305
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Louisville": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Louisville",
+    "seed": 8,
+    "region": "South",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-8",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 9.49
+    },
+    "advanced": {
+      "srs": 18.49,
+      "offensive_rating": 113.3,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.532,
+      "tov_pct": 14.0,
+      "orb_pct": 31.9,
+      "ft_rate": 0.337
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Marquette": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Marquette",
+    "seed": 7,
+    "region": "South",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-11",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.37
+    },
+    "advanced": {
+      "srs": 18.19,
+      "offensive_rating": 111.6,
+      "defensive_rating": null,
+      "pace": 68.1,
+      "efg_pct": 0.52,
+      "tov_pct": 11.8,
+      "orb_pct": 30.0,
+      "ft_rate": 0.259
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Maryland": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Maryland",
+    "seed": 4,
+    "region": "West",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-9",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 9.41
+    },
+    "advanced": {
+      "srs": 23.33,
+      "offensive_rating": 114.8,
+      "defensive_rating": null,
+      "pace": 70.4,
+      "efg_pct": 0.536,
+      "tov_pct": 12.4,
+      "orb_pct": 30.7,
+      "ft_rate": 0.331
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "McNeese": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "McNeese",
+    "seed": 12,
+    "region": "Midwest",
+    "conference": "Southland",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "19-1"
+    },
+    "strength_of_schedule": {
+      "rating": -1.05
+    },
+    "advanced": {
+      "srs": 9.14,
+      "offensive_rating": 115.3,
+      "defensive_rating": null,
+      "pace": 66.4,
+      "efg_pct": 0.542,
+      "tov_pct": 13.9,
+      "orb_pct": 34.9,
+      "ft_rate": 0.349
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Memphis": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Memphis",
+    "seed": 5,
+    "region": "West",
+    "conference": "AAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "29-6",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 5.66
+    },
+    "advanced": {
+      "srs": 12.15,
+      "offensive_rating": 111.0,
+      "defensive_rating": null,
+      "pace": 71.2,
+      "efg_pct": 0.535,
+      "tov_pct": 16.5,
+      "orb_pct": 35.3,
+      "ft_rate": 0.393
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Michigan": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Michigan",
+    "seed": 5,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-10",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 13.69
+    },
+    "advanced": {
+      "srs": 20.21,
+      "offensive_rating": 109.5,
+      "defensive_rating": null,
+      "pace": 70.7,
+      "efg_pct": 0.538,
+      "tov_pct": 17.0,
+      "orb_pct": 33.2,
+      "ft_rate": 0.357
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Michigan State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Michigan State",
+    "seed": 2,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "30-7",
+      "conference": "17-3"
+    },
+    "strength_of_schedule": {
+      "rating": 11.89
+    },
+    "advanced": {
+      "srs": 22.43,
+      "offensive_rating": 112.3,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.509,
+      "tov_pct": 14.0,
+      "orb_pct": 35.3,
+      "ft_rate": 0.377
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Ole Miss": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Ole Miss",
+    "seed": 6,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-12",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 12.8
+    },
+    "advanced": {
+      "srs": 18.28,
+      "offensive_rating": 110.8,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.514,
+      "tov_pct": 11.4,
+      "orb_pct": 25.5,
+      "ft_rate": 0.353
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Mississippi St.": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Mississippi St.",
+    "seed": 8,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-13",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 11.79
+    },
+    "advanced": {
+      "srs": 17.14,
+      "offensive_rating": 113.0,
+      "defensive_rating": null,
+      "pace": 69.6,
+      "efg_pct": 0.519,
+      "tov_pct": 12.9,
+      "orb_pct": 33.9,
+      "ft_rate": 0.315
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Missouri": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Missouri",
+    "seed": 6,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 9.49
+    },
+    "advanced": {
+      "srs": 19.49,
+      "offensive_rating": 119.4,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.558,
+      "tov_pct": 13.4,
+      "orb_pct": 33.5,
+      "ft_rate": 0.471
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Montana": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Montana",
+    "seed": 14,
+    "region": "East",
+    "conference": "Big Sky",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "25-10",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": -1.6
+    },
+    "advanced": {
+      "srs": -1.45,
+      "offensive_rating": 112.3,
+      "defensive_rating": null,
+      "pace": 68.0,
+      "efg_pct": 0.565,
+      "tov_pct": 14.4,
+      "orb_pct": 23.7,
+      "ft_rate": 0.349
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Mount St. Mary's": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Mount St. Mary's",
+    "seed": 16,
+    "region": "East",
+    "conference": "MAAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-13",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": -6.48
+    },
+    "advanced": {
+      "srs": -7.91,
+      "offensive_rating": 101.7,
+      "defensive_rating": null,
+      "pace": 68.0,
+      "efg_pct": 0.512,
+      "tov_pct": 18.9,
+      "orb_pct": 30.9,
+      "ft_rate": 0.311
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "New Mexico": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "New Mexico",
+    "seed": 10,
+    "region": "South",
+    "conference": "MWC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-8",
+      "conference": "17-3"
+    },
+    "strength_of_schedule": {
+      "rating": 6.52
+    },
+    "advanced": {
+      "srs": 15.2,
+      "offensive_rating": 109.9,
+      "defensive_rating": null,
+      "pace": 72.8,
+      "efg_pct": 0.515,
+      "tov_pct": 13.4,
+      "orb_pct": 31.7,
+      "ft_rate": 0.367
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Norfolk State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Norfolk State",
+    "seed": 16,
+    "region": "West",
+    "conference": "MEAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-11",
+      "conference": "11-3"
+    },
+    "strength_of_schedule": {
+      "rating": -6.65
+    },
+    "advanced": {
+      "srs": -3.72,
+      "offensive_rating": 112.2,
+      "defensive_rating": null,
+      "pace": 68.2,
+      "efg_pct": 0.535,
+      "tov_pct": 15.6,
+      "orb_pct": 32.9,
+      "ft_rate": 0.383
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UNC": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "UNC",
+    "seed": 11,
+    "region": "South",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-14",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 11.22
+    },
+    "advanced": {
+      "srs": 17.27,
+      "offensive_rating": 113.4,
+      "defensive_rating": null,
+      "pace": 70.7,
+      "efg_pct": 0.541,
+      "tov_pct": 13.3,
+      "orb_pct": 29.1,
+      "ft_rate": 0.348
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oklahoma": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Oklahoma",
+    "seed": 9,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-14",
+      "conference": "6-12"
+    },
+    "strength_of_schedule": {
+      "rating": 11.22
+    },
+    "advanced": {
+      "srs": 14.86,
+      "offensive_rating": 112.0,
+      "defensive_rating": null,
+      "pace": 69.9,
+      "efg_pct": 0.544,
+      "tov_pct": 15.4,
+      "orb_pct": 26.6,
+      "ft_rate": 0.399
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Omaha": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Omaha",
+    "seed": 15,
+    "region": "West",
+    "conference": "Summit",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-13",
+      "conference": "13-3"
+    },
+    "strength_of_schedule": {
+      "rating": -2.43
+    },
+    "advanced": {
+      "srs": -1.61,
+      "offensive_rating": 112.0,
+      "defensive_rating": null,
+      "pace": 69.1,
+      "efg_pct": 0.529,
+      "tov_pct": 13.6,
+      "orb_pct": 29.7,
+      "ft_rate": 0.363
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oregon": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Oregon",
+    "seed": 5,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-10",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 12.32
+    },
+    "advanced": {
+      "srs": 18.0,
+      "offensive_rating": 110.2,
+      "defensive_rating": null,
+      "pace": 68.7,
+      "efg_pct": 0.525,
+      "tov_pct": 14.2,
+      "orb_pct": 30.5,
+      "ft_rate": 0.33
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Purdue": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Purdue",
+    "seed": 4,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-12",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 13.91
+    },
+    "advanced": {
+      "srs": 20.8,
+      "offensive_rating": 116.8,
+      "defensive_rating": null,
+      "pace": 66.2,
+      "efg_pct": 0.559,
+      "tov_pct": 13.7,
+      "orb_pct": 31.8,
+      "ft_rate": 0.346
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Robert Morris": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Robert Morris",
+    "seed": 15,
+    "region": "East",
+    "conference": "Horizon",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-9",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": -4.92
+    },
+    "advanced": {
+      "srs": 0.4,
+      "offensive_rating": 109.8,
+      "defensive_rating": null,
+      "pace": 68.8,
+      "efg_pct": 0.513,
+      "tov_pct": 15.6,
+      "orb_pct": 35.5,
+      "ft_rate": 0.375
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Saint Mary's": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Saint Mary's",
+    "seed": 7,
+    "region": "East",
+    "conference": "WCC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "29-6",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": 6.46
+    },
+    "advanced": {
+      "srs": 17.43,
+      "offensive_rating": 113.6,
+      "defensive_rating": null,
+      "pace": 63.7,
+      "efg_pct": 0.504,
+      "tov_pct": 12.4,
+      "orb_pct": 39.8,
+      "ft_rate": 0.309
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "St. John's": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "St. John's",
+    "seed": 2,
+    "region": "West",
+    "conference": "Big East",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-5",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 8.56
+    },
+    "advanced": {
+      "srs": 21.25,
+      "offensive_rating": 110.3,
+      "defensive_rating": null,
+      "pace": 70.1,
+      "efg_pct": 0.492,
+      "tov_pct": 12.6,
+      "orb_pct": 37.9,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Tennessee": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Tennessee",
+    "seed": 2,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "30-8",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 13.25
+    },
+    "advanced": {
+      "srs": 24.2,
+      "offensive_rating": 114.0,
+      "defensive_rating": null,
+      "pace": 64.9,
+      "efg_pct": 0.525,
+      "tov_pct": 13.7,
+      "orb_pct": 35.6,
+      "ft_rate": 0.355
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas A&M": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Texas A&M",
+    "seed": 4,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-11",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 13.39
+    },
+    "advanced": {
+      "srs": 19.3,
+      "offensive_rating": 109.2,
+      "defensive_rating": null,
+      "pace": 67.8,
+      "efg_pct": 0.476,
+      "tov_pct": 14.4,
+      "orb_pct": 41.4,
+      "ft_rate": 0.413
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas Tech": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Texas Tech",
+    "seed": 3,
+    "region": "West",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "28-9",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 10.62
+    },
+    "advanced": {
+      "srs": 23.05,
+      "offensive_rating": 119.5,
+      "defensive_rating": null,
+      "pace": 66.5,
+      "efg_pct": 0.547,
+      "tov_pct": 12.1,
+      "orb_pct": 34.2,
+      "ft_rate": 0.292
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Troy": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Troy",
+    "seed": 14,
+    "region": "Midwest",
+    "conference": "Sun Belt",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-11",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": -2.1
+    },
+    "advanced": {
+      "srs": 3.55,
+      "offensive_rating": 108.7,
+      "defensive_rating": null,
+      "pace": 67.5,
+      "efg_pct": 0.502,
+      "tov_pct": 16.6,
+      "orb_pct": 39.0,
+      "ft_rate": 0.379
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UC San Diego": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "UC San Diego",
+    "seed": 12,
+    "region": "South",
+    "conference": "Big West",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "30-5",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": -1.92
+    },
+    "advanced": {
+      "srs": 12.63,
+      "offensive_rating": 117.7,
+      "defensive_rating": null,
+      "pace": 67.4,
+      "efg_pct": 0.555,
+      "tov_pct": 11.4,
+      "orb_pct": 26.7,
+      "ft_rate": 0.322
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UCLA": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "UCLA",
+    "seed": 7,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-11",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.71
+    },
+    "advanced": {
+      "srs": 19.68,
+      "offensive_rating": 112.0,
+      "defensive_rating": null,
+      "pace": 66.2,
+      "efg_pct": 0.528,
+      "tov_pct": 13.7,
+      "orb_pct": 32.7,
+      "ft_rate": 0.323
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UNC Wilmington": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "UNC Wilmington",
+    "seed": 14,
+    "region": "West",
+    "conference": "CAA",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -3.95
+    },
+    "advanced": {
+      "srs": 2.36,
+      "offensive_rating": 116.2,
+      "defensive_rating": null,
+      "pace": 67.4,
+      "efg_pct": 0.531,
+      "tov_pct": 13.7,
+      "orb_pct": 36.5,
+      "ft_rate": 0.37
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Utah State": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Utah State",
+    "seed": 10,
+    "region": "Midwest",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 5.35
+    },
+    "advanced": {
+      "srs": 13.56,
+      "offensive_rating": 118.8,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.56,
+      "tov_pct": 13.6,
+      "orb_pct": 34.9,
+      "ft_rate": 0.369
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Vanderbilt": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Vanderbilt",
+    "seed": 10,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-13",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 10.05
+    },
+    "advanced": {
+      "srs": 14.66,
+      "offensive_rating": 112.6,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.515,
+      "tov_pct": 12.5,
+      "orb_pct": 31.6,
+      "ft_rate": 0.334
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "VCU": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "VCU",
+    "seed": 11,
+    "region": "East",
+    "conference": "A-10",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 1.3
+    },
+    "advanced": {
+      "srs": 14.45,
+      "offensive_rating": 115.1,
+      "defensive_rating": null,
+      "pace": 66.6,
+      "efg_pct": 0.526,
+      "tov_pct": 14.1,
+      "orb_pct": 36.9,
+      "ft_rate": 0.321
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Wisconsin": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Wisconsin",
+    "seed": 3,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-10",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 11.49
+    },
+    "advanced": {
+      "srs": 20.73,
+      "offensive_rating": 116.3,
+      "defensive_rating": null,
+      "pace": 68.7,
+      "efg_pct": 0.538,
+      "tov_pct": 12.3,
+      "orb_pct": 28.0,
+      "ft_rate": 0.342
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Wofford": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Wofford",
+    "seed": 15,
+    "region": "Midwest",
+    "conference": "Southern",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "19-16",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": -2.34
+    },
+    "advanced": {
+      "srs": -0.13,
+      "offensive_rating": 114.1,
+      "defensive_rating": null,
+      "pace": 65.2,
+      "efg_pct": 0.534,
+      "tov_pct": 13.9,
+      "orb_pct": 36.9,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Xavier": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Xavier",
+    "seed": 11,
+    "region": "Midwest",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 8.72
+    },
+    "advanced": {
+      "srs": 15.25,
+      "offensive_rating": 111.7,
+      "defensive_rating": null,
+      "pace": 69.4,
+      "efg_pct": 0.541,
+      "tov_pct": 14.0,
+      "orb_pct": 24.4,
+      "ft_rate": 0.367
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Yale": {
+    "year": 2025,
+    "tournament": "mens",
+    "team": "Yale",
+    "seed": 13,
+    "region": "South",
+    "conference": "Ivy",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-8",
+      "conference": "13-1"
+    },
+    "strength_of_schedule": {
+      "rating": -3.1
+    },
+    "advanced": {
+      "srs": 6.66,
+      "offensive_rating": 117.9,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.552,
+      "tov_pct": 12.6,
+      "orb_pct": 33.0,
+      "ft_rate": 0.313
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  }
+}

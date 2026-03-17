@@ -1,0 +1,392 @@
+[
+  {
+    "player": "Reed Sheppard",
+    "college": "Kentucky",
+    "draft_year": 2024
+  },
+  {
+    "player": "Stephon Castle",
+    "college": "UConn",
+    "draft_year": 2024
+  },
+  {
+    "player": "Donovan Clingan",
+    "college": "UConn",
+    "draft_year": 2024
+  },
+  {
+    "player": "Rob Dillingham",
+    "college": "Kentucky",
+    "draft_year": 2024
+  },
+  {
+    "player": "Zach Edey",
+    "college": "Purdue",
+    "draft_year": 2024
+  },
+  {
+    "player": "Cody Williams",
+    "college": "Colorado",
+    "draft_year": 2024
+  },
+  {
+    "player": "Devin Carter",
+    "college": "Providence",
+    "draft_year": 2024
+  },
+  {
+    "player": "Bub Carrington",
+    "college": "Pitt",
+    "draft_year": 2024
+  },
+  {
+    "player": "Kel'el Ware",
+    "college": "Indiana",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jared McCain",
+    "college": "Duke",
+    "draft_year": 2024
+  },
+  {
+    "player": "Dalton Knecht",
+    "college": "Tennessee",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tristan da Silva",
+    "college": "Colorado",
+    "draft_year": 2024
+  },
+  {
+    "player": "Ja'Kobe Walter",
+    "college": "Baylor",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jaylon Tyson",
+    "college": "California",
+    "draft_year": 2024
+  },
+  {
+    "player": "Yves Missi",
+    "college": "Baylor",
+    "draft_year": 2024
+  },
+  {
+    "player": "DaRon Holmes II",
+    "college": "Dayton",
+    "draft_year": 2024
+  },
+  {
+    "player": "Kyshawn George",
+    "college": "Miami",
+    "draft_year": 2024
+  },
+  {
+    "player": "Dillon Jones",
+    "college": "Weber State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Terrence Shannon Jr.",
+    "college": "Illinois",
+    "draft_year": 2024
+  },
+  {
+    "player": "Ryan Dunn",
+    "college": "Virginia",
+    "draft_year": 2024
+  },
+  {
+    "player": "Isaiah Collier",
+    "college": "USC",
+    "draft_year": 2024
+  },
+  {
+    "player": "Baylor Scheierman",
+    "college": "Creighton",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jonathan Mogbo",
+    "college": "San Francisco",
+    "draft_year": 2024
+  },
+  {
+    "player": "Kyle Filipowski",
+    "college": "Duke",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tyler Kolek",
+    "college": "Marquette",
+    "draft_year": 2024
+  },
+  {
+    "player": "Johnny Furphy",
+    "college": "Kansas",
+    "draft_year": 2024
+  },
+  {
+    "player": "Ajay Mitchell",
+    "college": "UC Santa Barbara",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jaylen Wells",
+    "college": "Washington State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Oso Ighodaro",
+    "college": "Marquette",
+    "draft_year": 2024
+  },
+  {
+    "player": "Adem Bona",
+    "college": "UCLA",
+    "draft_year": 2024
+  },
+  {
+    "player": "KJ Simpson",
+    "college": "Colorado",
+    "draft_year": 2024
+  },
+  {
+    "player": "Pelle Larsson",
+    "college": "Arizona",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jamal Shead",
+    "college": "Houston",
+    "draft_year": 2024
+  },
+  {
+    "player": "Cam Christie",
+    "college": "Minnesota",
+    "draft_year": 2024
+  },
+  {
+    "player": "Antonio Reeves",
+    "college": "Kentucky",
+    "draft_year": 2024
+  },
+  {
+    "player": "Harrison Ingram",
+    "college": "UNC",
+    "draft_year": 2024
+  },
+  {
+    "player": "Philadelphia 76ers (forfeited due to tampering violation)[3]",
+    "college": "Philadelphia 76ers (forfeited due to tampering violation)[3]",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tristen Newton",
+    "college": "UConn",
+    "draft_year": 2024
+  },
+  {
+    "player": "Enrique Freeman",
+    "college": "Akron",
+    "draft_year": 2024
+  },
+  {
+    "player": "Quinten Post",
+    "college": "Boston College",
+    "draft_year": 2024
+  },
+  {
+    "player": "Cam Spencer",
+    "college": "UConn",
+    "draft_year": 2024
+  },
+  {
+    "player": "Anton Watson",
+    "college": "Gonzaga",
+    "draft_year": 2024
+  },
+  {
+    "player": "Bronny James",
+    "college": "USC",
+    "draft_year": 2024
+  },
+  {
+    "player": "Kevin McCullar Jr.",
+    "college": "Kansas",
+    "draft_year": 2024
+  },
+  {
+    "player": "Ulrich Chomche",
+    "college": "APR BBC",
+    "draft_year": 2024
+  },
+  {
+    "player": "Phoenix Suns (from Denver via Orlando;[AK][AN] forfeited due to tampering violation)[4]",
+    "college": "Phoenix Suns (from Denver via Orlando;[AK][AN] forfeited due to tampering violation)[4]",
+    "draft_year": 2024
+  },
+  {
+    "player": "Trey Alexander",
+    "college": "Creighton",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jamison Battle",
+    "college": "Ohio State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Reece Beekman",
+    "college": "Virginia",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jalen Bridges",
+    "college": "Baylor",
+    "draft_year": 2024
+  },
+  {
+    "player": "Keion Brooks Jr.",
+    "college": "Washington",
+    "draft_year": 2024
+  },
+  {
+    "player": "Darius Brown",
+    "college": "Utah State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tyler Burton",
+    "college": "Villanova",
+    "draft_year": 2024
+  },
+  {
+    "player": "Branden Carlson",
+    "college": "Utah",
+    "draft_year": 2024
+  },
+  {
+    "player": "Isaiah Crawford",
+    "college": "Louisiana Tech",
+    "draft_year": 2024
+  },
+  {
+    "player": "Cui Yongxi",
+    "college": "Guangzhou Loong Lions",
+    "draft_year": 2024
+  },
+  {
+    "player": "N'Faly Dante",
+    "college": "Oregon",
+    "draft_year": 2024
+  },
+  {
+    "player": "RayJ Dennis",
+    "college": "Baylor",
+    "draft_year": 2024
+  },
+  {
+    "player": "Alex Ducas",
+    "college": "Saint Mary's",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jesse Edwards",
+    "college": "West Virginia",
+    "draft_year": 2024
+  },
+  {
+    "player": "Justin Edwards",
+    "college": "Kentucky",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tristan Enaruna",
+    "college": "Cleveland State",
+    "draft_year": 2024
+  },
+  {
+    "player": "PJ Hall",
+    "college": "Clemson",
+    "draft_year": 2024
+  },
+  {
+    "player": "Blake Hinson",
+    "college": "Pitt",
+    "draft_year": 2024
+  },
+  {
+    "player": "Daniss Jenkins",
+    "college": "St. John's",
+    "draft_year": 2024
+  },
+  {
+    "player": "Keshad Johnson",
+    "college": "Arizona",
+    "draft_year": 2024
+  },
+  {
+    "player": "Isaac Jones",
+    "college": "Washington State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Spencer Jones",
+    "college": "Stanford",
+    "draft_year": 2024
+  },
+  {
+    "player": "David Jones Garc\u00eda",
+    "college": "Memphis",
+    "draft_year": 2024
+  },
+  {
+    "player": "Malevy Leons",
+    "college": "Bradley",
+    "draft_year": 2024
+  },
+  {
+    "player": "Emanuel Miller",
+    "college": "TCU",
+    "draft_year": 2024
+  },
+  {
+    "player": "Riley Minix",
+    "college": "Morehead State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Quincy Olivari",
+    "college": "Xavier",
+    "draft_year": 2024
+  },
+  {
+    "player": "Zyon Pullin",
+    "college": "Florida",
+    "draft_year": 2024
+  },
+  {
+    "player": "Tolu Smith",
+    "college": "Mississippi St.",
+    "draft_year": 2024
+  },
+  {
+    "player": "Isaiah Stevens",
+    "college": "Colorado State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Nae'Qwan Tomlin",
+    "college": "Kansas State",
+    "draft_year": 2024
+  },
+  {
+    "player": "Jahmir Young",
+    "college": "Maryland",
+    "draft_year": 2024
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "player": "Markelle Fultz",
+    "college": "Washington",
+    "draft_year": 2017
+  },
+  {
+    "player": "Lonzo Ball",
+    "college": "UCLA",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jayson Tatum",
+    "college": "Duke",
+    "draft_year": 2017
+  },
+  {
+    "player": "Josh Jackson",
+    "college": "Kansas",
+    "draft_year": 2017
+  },
+  {
+    "player": "De'Aaron Fox",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jonathan Isaac",
+    "college": "Florida State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Lauri Markkanen",
+    "college": "Arizona",
+    "draft_year": 2017
+  },
+  {
+    "player": "Dennis Smith Jr.",
+    "college": "NC State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Zach Collins",
+    "college": "Gonzaga",
+    "draft_year": 2017
+  },
+  {
+    "player": "Malik Monk",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Luke Kennard",
+    "college": "Duke",
+    "draft_year": 2017
+  },
+  {
+    "player": "Donovan Mitchell",
+    "college": "Louisville",
+    "draft_year": 2017
+  },
+  {
+    "player": "Bam Adebayo",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Justin Jackson",
+    "college": "UNC",
+    "draft_year": 2017
+  },
+  {
+    "player": "Justin Patton",
+    "college": "Creighton",
+    "draft_year": 2017
+  },
+  {
+    "player": "D. J. Wilson",
+    "college": "Michigan",
+    "draft_year": 2017
+  },
+  {
+    "player": "T. J. Leaf",
+    "college": "UCLA",
+    "draft_year": 2017
+  },
+  {
+    "player": "John Collins",
+    "college": "Wake Forest",
+    "draft_year": 2017
+  },
+  {
+    "player": "Harry Giles III",
+    "college": "Duke",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jarrett Allen",
+    "college": "Texas",
+    "draft_year": 2017
+  },
+  {
+    "player": "OG Anunoby",
+    "college": "Indiana",
+    "draft_year": 2017
+  },
+  {
+    "player": "Tyler Lydon",
+    "college": "Syracuse",
+    "draft_year": 2017
+  },
+  {
+    "player": "Caleb Swanigan",
+    "college": "Purdue",
+    "draft_year": 2017
+  },
+  {
+    "player": "Kyle Kuzma",
+    "college": "Utah",
+    "draft_year": 2017
+  },
+  {
+    "player": "Tony Bradley",
+    "college": "UNC",
+    "draft_year": 2017
+  },
+  {
+    "player": "Derrick White",
+    "college": "Colorado",
+    "draft_year": 2017
+  },
+  {
+    "player": "Josh Hart",
+    "college": "Villanova",
+    "draft_year": 2017
+  },
+  {
+    "player": "Frank Jackson",
+    "college": "Duke",
+    "draft_year": 2017
+  },
+  {
+    "player": "Davon Reed",
+    "college": "Miami",
+    "draft_year": 2017
+  },
+  {
+    "player": "Wes Iwundu",
+    "college": "Kansas State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Frank Mason III",
+    "college": "Kansas",
+    "draft_year": 2017
+  },
+  {
+    "player": "Ivan Rabb",
+    "college": "California",
+    "draft_year": 2017
+  },
+  {
+    "player": "Semi Ojeleye",
+    "college": "SMU",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jordan Bell",
+    "college": "Oregon",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jawun Evans",
+    "college": "Oklahoma State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Dwayne Bacon",
+    "college": "Florida State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Tyler Dorsey",
+    "college": "Oregon",
+    "draft_year": 2017
+  },
+  {
+    "player": "Thomas Bryant",
+    "college": "Indiana",
+    "draft_year": 2017
+  },
+  {
+    "player": "Damyean Dotson",
+    "college": "Houston",
+    "draft_year": 2017
+  },
+  {
+    "player": "Dillon Brooks",
+    "college": "Oregon",
+    "draft_year": 2017
+  },
+  {
+    "player": "Sterling Brown",
+    "college": "SMU",
+    "draft_year": 2017
+  },
+  {
+    "player": "Ike Anigbogu",
+    "college": "UCLA",
+    "draft_year": 2017
+  },
+  {
+    "player": "Sindarius Thornwell",
+    "college": "South Carolina",
+    "draft_year": 2017
+  },
+  {
+    "player": "Mont\u00e9 Morris",
+    "college": "Iowa State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Edmond Sumner",
+    "college": "Xavier",
+    "draft_year": 2017
+  },
+  {
+    "player": "Kadeem Allen",
+    "college": "Arizona",
+    "draft_year": 2017
+  },
+  {
+    "player": "Alec Peters",
+    "college": "Valparaiso",
+    "draft_year": 2017
+  },
+  {
+    "player": "Nigel Williams-Goss",
+    "college": "Gonzaga",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jabari Bird",
+    "college": "California",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jaron Blossomgame",
+    "college": "Clemson",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jamel Artis",
+    "college": "Pitt",
+    "draft_year": 2017
+  },
+  {
+    "player": "Paris Bass",
+    "college": "Erie BayHawks (NBA D-League)",
+    "draft_year": 2017
+  },
+  {
+    "player": "Antonio Blakeney",
+    "college": "LSU",
+    "draft_year": 2017
+  },
+  {
+    "player": "Chris Boucher",
+    "college": "Oregon",
+    "draft_year": 2017
+  },
+  {
+    "player": "Amida Brimah",
+    "college": "UConn",
+    "draft_year": 2017
+  },
+  {
+    "player": "Isaiah Briscoe",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Deonte Burton",
+    "college": "Iowa State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Troy Caupain",
+    "college": "Cincinnati",
+    "draft_year": 2017
+  },
+  {
+    "player": "Tyler Cavanaugh",
+    "college": "George Washington",
+    "draft_year": 2017
+  },
+  {
+    "player": "Gian Clavell",
+    "college": "Colorado State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Antonius Cleveland",
+    "college": "Southeast Missouri State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Chance Comanche",
+    "college": "Arizona",
+    "draft_year": 2017
+  },
+  {
+    "player": "Charles Cooke",
+    "college": "Dayton",
+    "draft_year": 2017
+  },
+  {
+    "player": "Milton Doyle",
+    "college": "Loyola (Illinois)",
+    "draft_year": 2017
+  },
+  {
+    "player": "PJ Dozier",
+    "college": "South Carolina",
+    "draft_year": 2017
+  },
+  {
+    "player": "Simone Fontecchio",
+    "college": "Vanoli Cremona",
+    "draft_year": 2017
+  },
+  {
+    "player": "Billy Garrett Jr.",
+    "college": "DePaul",
+    "draft_year": 2017
+  },
+  {
+    "player": "Dusty Hannahs",
+    "college": "Arkansas",
+    "draft_year": 2017
+  },
+  {
+    "player": "Nigel Hayes",
+    "college": "Wisconsin",
+    "draft_year": 2017
+  },
+  {
+    "player": "Isaiah Hicks",
+    "college": "UNC",
+    "draft_year": 2017
+  },
+  {
+    "player": "Malcolm Hill",
+    "college": "Illinois",
+    "draft_year": 2017
+  },
+  {
+    "player": "Isaac Humphries",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Amile Jefferson",
+    "college": "Duke",
+    "draft_year": 2017
+  },
+  {
+    "player": "Luke Kornet",
+    "college": "Vanderbilt",
+    "draft_year": 2017
+  },
+  {
+    "player": "Mangok Mathiang",
+    "college": "Louisville",
+    "draft_year": 2017
+  },
+  {
+    "player": "Tahjere McCall",
+    "college": "Tennessee State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Erik McCree",
+    "college": "Louisiana Tech",
+    "draft_year": 2017
+  },
+  {
+    "player": "Eric Mika",
+    "college": "BYU",
+    "draft_year": 2017
+  },
+  {
+    "player": "Naz Mitrou-Long",
+    "college": "Iowa State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Xavier Moon",
+    "college": "Morehead State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Ben Moore",
+    "college": "SMU",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jaylen Morris",
+    "college": "Molloy College",
+    "draft_year": 2017
+  },
+  {
+    "player": "Johnathan Motley",
+    "college": "Baylor",
+    "draft_year": 2017
+  },
+  {
+    "player": "Mychal Mulder",
+    "college": "Kentucky",
+    "draft_year": 2017
+  },
+  {
+    "player": "Cameron Oliver",
+    "college": "Nevada",
+    "draft_year": 2017
+  },
+  {
+    "player": "Trayvon Palmer",
+    "college": "Chicago State",
+    "draft_year": 2017
+  },
+  {
+    "player": "London Perrantes",
+    "college": "Virginia",
+    "draft_year": 2017
+  },
+  {
+    "player": "Rodney Purvis",
+    "college": "UConn",
+    "draft_year": 2017
+  },
+  {
+    "player": "Xavier Rathan-Mayes",
+    "college": "Florida State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Devin Robinson",
+    "college": "Florida",
+    "draft_year": 2017
+  },
+  {
+    "player": "Kobi Simmons",
+    "college": "Arizona",
+    "draft_year": 2017
+  },
+  {
+    "player": "Matt Thomas",
+    "college": "Iowa State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Ish Wainright",
+    "college": "Baylor",
+    "draft_year": 2017
+  },
+  {
+    "player": "Derrick Walton",
+    "college": "Michigan",
+    "draft_year": 2017
+  },
+  {
+    "player": "Paul Watson",
+    "college": "Fresno State",
+    "draft_year": 2017
+  },
+  {
+    "player": "Andrew White",
+    "college": "Syracuse",
+    "draft_year": 2017
+  },
+  {
+    "player": "Jacob Wiley",
+    "college": "Eastern Washington",
+    "draft_year": 2017
+  },
+  {
+    "player": "Matt Williams",
+    "college": "UCF",
+    "draft_year": 2017
+  }
+]

@@ -1,0 +1,637 @@
+[
+  {
+    "player": "Andrew Wiggins",
+    "college": "Kansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jabari Parker",
+    "college": "Duke",
+    "draft_year": 2014
+  },
+  {
+    "player": "Joel Embiid",
+    "college": "Kansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "Aaron Gordon",
+    "college": "Arizona",
+    "draft_year": 2014
+  },
+  {
+    "player": "Dant\u00e9 Exum",
+    "college": "Australian Institute of Sport[n 3]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Marcus Smart",
+    "college": "Oklahoma State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Julius Randle",
+    "college": "Kentucky",
+    "draft_year": 2014
+  },
+  {
+    "player": "Nik Stauskas",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Noah Vonleh",
+    "college": "Indiana",
+    "draft_year": 2014
+  },
+  {
+    "player": "Elfrid Payton",
+    "college": "Louisiana\u2013Lafayette",
+    "draft_year": 2014
+  },
+  {
+    "player": "Doug McDermott",
+    "college": "Creighton",
+    "draft_year": 2014
+  },
+  {
+    "player": "Dario \u0160ari\u0107",
+    "college": "Cibona Zagreb (Croatia)[n 4]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Zach LaVine",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "T. J. Warren",
+    "college": "NC State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Adreian Payne",
+    "college": "Michigan State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jusuf Nurki\u0107",
+    "college": "Cedevita Zagreb",
+    "draft_year": 2014
+  },
+  {
+    "player": "James Young",
+    "college": "Kentucky",
+    "draft_year": 2014
+  },
+  {
+    "player": "Tyler Ennis",
+    "college": "Syracuse",
+    "draft_year": 2014
+  },
+  {
+    "player": "Gary Harris",
+    "college": "Michigan State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Mitch McGary",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jordan Adams",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "Rodney Hood",
+    "college": "Duke",
+    "draft_year": 2014
+  },
+  {
+    "player": "Shabazz Napier",
+    "college": "UConn",
+    "draft_year": 2014
+  },
+  {
+    "player": "P. J. Hairston",
+    "college": "Texas Legends (NBA D-League)",
+    "draft_year": 2014
+  },
+  {
+    "player": "C. J. Wilcox",
+    "college": "Washington",
+    "draft_year": 2014
+  },
+  {
+    "player": "Josh Huestis",
+    "college": "Stanford",
+    "draft_year": 2014
+  },
+  {
+    "player": "Kyle Anderson",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "K. J. McDaniels",
+    "college": "Clemson",
+    "draft_year": 2014
+  },
+  {
+    "player": "Joe Harris",
+    "college": "Virginia",
+    "draft_year": 2014
+  },
+  {
+    "player": "Cleanthony Early",
+    "college": "Wichita State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jarnell Stokes",
+    "college": "Tennessee",
+    "draft_year": 2014
+  },
+  {
+    "player": "Johnny O'Bryant III",
+    "college": "LSU",
+    "draft_year": 2014
+  },
+  {
+    "player": "DeAndre Daniels",
+    "college": "UConn",
+    "draft_year": 2014
+  },
+  {
+    "player": "Spencer Dinwiddie",
+    "college": "Colorado",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jerami Grant",
+    "college": "Syracuse",
+    "draft_year": 2014
+  },
+  {
+    "player": "Glenn Robinson III",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Nick Johnson",
+    "college": "Arizona",
+    "draft_year": 2014
+  },
+  {
+    "player": "Markel Brown",
+    "college": "Oklahoma State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Dwight Powell",
+    "college": "Stanford",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jordan Clarkson",
+    "college": "Missouri",
+    "draft_year": 2014
+  },
+  {
+    "player": "Russ Smith",
+    "college": "Louisville",
+    "draft_year": 2014
+  },
+  {
+    "player": "Lamar Patterson",
+    "college": "Pitt",
+    "draft_year": 2014
+  },
+  {
+    "player": "Cameron Bairstow",
+    "college": "New Mexico",
+    "draft_year": 2014
+  },
+  {
+    "player": "Alec Brown",
+    "college": "Green Bay",
+    "draft_year": 2014
+  },
+  {
+    "player": "Thanasis Antetokounmpo",
+    "college": "Delaware 87ers (NBA D-League)",
+    "draft_year": 2014
+  },
+  {
+    "player": "Alessandro Gentile",
+    "college": "Olimpia Milano",
+    "draft_year": 2014
+  },
+  {
+    "player": "Semaj Christon",
+    "college": "Xavier",
+    "draft_year": 2014
+  },
+  {
+    "player": "Devyn Marble",
+    "college": "Iowa",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jordan McRae",
+    "college": "Tennessee",
+    "draft_year": 2014
+  },
+  {
+    "player": "Xavier Thames",
+    "college": "San Diego State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Cory Jefferson",
+    "college": "Baylor",
+    "draft_year": 2014
+  },
+  {
+    "player": "Keith Appling",
+    "college": "Michigan State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jerrelle Benimon",
+    "college": "Towson",
+    "draft_year": 2014
+  },
+  {
+    "player": "Sim Bhullar",
+    "college": "New Mexico State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Khem Birch",
+    "college": "UNLV",
+    "draft_year": 2014
+  },
+  {
+    "player": "Tarik Black",
+    "college": "Kansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jabari Brown",
+    "college": "Missouri",
+    "draft_year": 2014
+  },
+  {
+    "player": "Coty Clarke",
+    "college": "Arkansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "Bryce Cotton",
+    "college": "Providence",
+    "draft_year": 2014
+  },
+  {
+    "player": "Torrey Craig",
+    "college": "USC Upstate",
+    "draft_year": 2014
+  },
+  {
+    "player": "Andre Dawkins",
+    "college": "Duke",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jarell Eddie",
+    "college": "Virginia Tech",
+    "draft_year": 2014
+  },
+  {
+    "player": "Tim Frazier",
+    "college": "Penn State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Langston Galloway",
+    "college": "Saint Joseph's",
+    "draft_year": 2014
+  },
+  {
+    "player": "Tyler Johnson",
+    "college": "Fresno State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Sean Kilpatrick",
+    "college": "Cincinnati",
+    "draft_year": 2014
+  },
+  {
+    "player": "Alex Kirk",
+    "college": "New Mexico",
+    "draft_year": 2014
+  },
+  {
+    "player": "Walter Lemon Jr.",
+    "college": "Bradley",
+    "draft_year": 2014
+  },
+  {
+    "player": "James Michael McAdoo",
+    "college": "UNC",
+    "draft_year": 2014
+  },
+  {
+    "player": "Eric Moreland",
+    "college": "Oregon State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Xavier Munford",
+    "college": "Rhode Island",
+    "draft_year": 2014
+  },
+  {
+    "player": "Norvel Pelle",
+    "college": "Delaware 87ers (NBA D-League)",
+    "draft_year": 2014
+  },
+  {
+    "player": "JaKarr Sampson",
+    "college": "St. John's",
+    "draft_year": 2014
+  },
+  {
+    "player": "David Stockton",
+    "college": "Gonzaga",
+    "draft_year": 2014
+  },
+  {
+    "player": "David Wear",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "Travis Wear",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "Okaro White",
+    "college": "Florida State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Shayne Whittington",
+    "college": "Western Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jamil Wilson",
+    "college": "Marquette",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jordan Adams",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "William Alston",
+    "college": "CC of Baltimore County[n 14]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Kyle Anderson",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "Isaiah Austin[n 15]",
+    "college": "Baylor",
+    "draft_year": 2014
+  },
+  {
+    "player": "Chane Behanan",
+    "college": "Colorado State[n 16]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Sim Bhullar",
+    "college": "New Mexico State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Khem Birch",
+    "college": "UNLV",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jabari Brown",
+    "college": "Missouri",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jahii Carson",
+    "college": "Arizona State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Semaj Christon",
+    "college": "Xavier",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jordan Clarkson",
+    "college": "Missouri",
+    "draft_year": 2014
+  },
+  {
+    "player": "DeAndre Daniels",
+    "college": "UConn",
+    "draft_year": 2014
+  },
+  {
+    "player": "Spencer Dinwiddie",
+    "college": "Colorado",
+    "draft_year": 2014
+  },
+  {
+    "player": "Joel Embiid",
+    "college": "Kansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "Tyler Ennis",
+    "college": "Syracuse",
+    "draft_year": 2014
+  },
+  {
+    "player": "Aaron Gordon",
+    "college": "Arizona",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jerami Grant",
+    "college": "Syracuse",
+    "draft_year": 2014
+  },
+  {
+    "player": "Gary Harris",
+    "college": "Michigan State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Rodney Hood",
+    "college": "Duke",
+    "draft_year": 2014
+  },
+  {
+    "player": "Nick Johnson",
+    "college": "Arizona",
+    "draft_year": 2014
+  },
+  {
+    "player": "Alex Kirk",
+    "college": "New Mexico",
+    "draft_year": 2014
+  },
+  {
+    "player": "Zach LaVine",
+    "college": "UCLA",
+    "draft_year": 2014
+  },
+  {
+    "player": "James Michael McAdoo",
+    "college": "UNC",
+    "draft_year": 2014
+  },
+  {
+    "player": "K. J. McDaniels",
+    "college": "Clemson",
+    "draft_year": 2014
+  },
+  {
+    "player": "Mitch McGary",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Eric Moreland",
+    "college": "Oregon State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Johnny O'Bryant III",
+    "college": "LSU",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jabari Parker",
+    "college": "Duke",
+    "draft_year": 2014
+  },
+  {
+    "player": "Elfrid Payton",
+    "college": "Louisiana\u2013Lafayette",
+    "draft_year": 2014
+  },
+  {
+    "player": "Julius Randle",
+    "college": "Kentucky",
+    "draft_year": 2014
+  },
+  {
+    "player": "Glenn Robinson III",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "LaQuinton Ross",
+    "college": "Ohio State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Antonio Rucker",
+    "college": "Clinton JC",
+    "draft_year": 2014
+  },
+  {
+    "player": "JaKarr Sampson",
+    "college": "St. John's",
+    "draft_year": 2014
+  },
+  {
+    "player": "Marcus Smart",
+    "college": "Oklahoma State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Roscoe Smith",
+    "college": "UNLV",
+    "draft_year": 2014
+  },
+  {
+    "player": "Nik Stauskas",
+    "college": "Michigan",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jarnell Stokes",
+    "college": "Tennessee",
+    "draft_year": 2014
+  },
+  {
+    "player": "Noah Vonleh",
+    "college": "Indiana",
+    "draft_year": 2014
+  },
+  {
+    "player": "T. J. Warren",
+    "college": "NC State",
+    "draft_year": 2014
+  },
+  {
+    "player": "Andrew Wiggins",
+    "college": "Kansas",
+    "draft_year": 2014
+  },
+  {
+    "player": "James Young",
+    "college": "Kentucky",
+    "draft_year": 2014
+  },
+  {
+    "player": "Dante Exum",
+    "college": "Australian Institute of Sport[n 3]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Artem Klimenko",
+    "college": "Avtodor Saratov",
+    "draft_year": 2014
+  },
+  {
+    "player": "Jusuf Nurki\u0107",
+    "college": "Cedevita Zagreb",
+    "draft_year": 2014
+  },
+  {
+    "player": "Dario \u0160ari\u0107",
+    "college": "Cibona Zagreb (Croatia)[n 4]",
+    "draft_year": 2014
+  },
+  {
+    "player": "Oj\u0101rs Sili\u0146\u0161",
+    "college": "Reggio Emilia",
+    "draft_year": 2014
+  },
+  {
+    "player": "P. J. Hairston[n 17]",
+    "college": "Texas Legends (NBA D-League)",
+    "draft_year": 2014
+  }
+]

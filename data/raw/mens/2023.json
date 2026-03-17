@@ -1,0 +1,2754 @@
+{
+  "Alabama": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Alabama",
+    "seed": 1,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-6",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": 9.65
+    },
+    "advanced": {
+      "srs": 23.19,
+      "offensive_rating": 110.4,
+      "defensive_rating": null,
+      "pace": 72.6,
+      "efg_pct": 0.521,
+      "tov_pct": 15.9,
+      "orb_pct": 34.2,
+      "ft_rate": 0.366
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arizona": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Arizona",
+    "seed": 2,
+    "region": "South",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.34
+    },
+    "advanced": {
+      "srs": 19.08,
+      "offensive_rating": 112.6,
+      "defensive_rating": null,
+      "pace": 72.7,
+      "efg_pct": 0.565,
+      "tov_pct": 16.2,
+      "orb_pct": 30.7,
+      "ft_rate": 0.358
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arizona State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Arizona State",
+    "seed": 11,
+    "region": "West",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 8.18
+    },
+    "advanced": {
+      "srs": 11.29,
+      "offensive_rating": 101.9,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.484,
+      "tov_pct": 14.5,
+      "orb_pct": 29.2,
+      "ft_rate": 0.312
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arkansas": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Arkansas",
+    "seed": 8,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-14",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 9.87
+    },
+    "advanced": {
+      "srs": 15.99,
+      "offensive_rating": 105.1,
+      "defensive_rating": null,
+      "pace": 70.2,
+      "efg_pct": 0.509,
+      "tov_pct": 15.8,
+      "orb_pct": 30.7,
+      "ft_rate": 0.393
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Auburn": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Auburn",
+    "seed": 9,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-13",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 9.29
+    },
+    "advanced": {
+      "srs": 14.35,
+      "offensive_rating": 105.6,
+      "defensive_rating": null,
+      "pace": 68.7,
+      "efg_pct": 0.495,
+      "tov_pct": 15.1,
+      "orb_pct": 32.8,
+      "ft_rate": 0.363
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Baylor": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Baylor",
+    "seed": 3,
+    "region": "South",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-11",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 10.54
+    },
+    "advanced": {
+      "srs": 17.3,
+      "offensive_rating": 113.3,
+      "defensive_rating": null,
+      "pace": 67.8,
+      "efg_pct": 0.532,
+      "tov_pct": 15.2,
+      "orb_pct": 34.4,
+      "ft_rate": 0.368
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Boise State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Boise State",
+    "seed": 10,
+    "region": "West",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-10",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 6.21
+    },
+    "advanced": {
+      "srs": 12.78,
+      "offensive_rating": 106.8,
+      "defensive_rating": null,
+      "pace": 66.8,
+      "efg_pct": 0.521,
+      "tov_pct": 14.6,
+      "orb_pct": 27.4,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Colgate": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Colgate",
+    "seed": 15,
+    "region": "Midwest",
+    "conference": "Patriot",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-9",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": -5.86
+    },
+    "advanced": {
+      "srs": 2.2,
+      "offensive_rating": 114.5,
+      "defensive_rating": null,
+      "pace": 68.2,
+      "efg_pct": 0.581,
+      "tov_pct": 13.4,
+      "orb_pct": 25.5,
+      "ft_rate": 0.269
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "College of Charleston": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "College of Charleston",
+    "seed": 12,
+    "region": "South",
+    "conference": "CAA",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-4",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": -4.02
+    },
+    "advanced": {
+      "srs": 8.4,
+      "offensive_rating": 112.5,
+      "defensive_rating": null,
+      "pace": 70.7,
+      "efg_pct": 0.515,
+      "tov_pct": 14.1,
+      "orb_pct": 35.2,
+      "ft_rate": 0.328
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UConn": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "UConn",
+    "seed": 4,
+    "region": "West",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "31-8",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 8.51
+    },
+    "advanced": {
+      "srs": 22.95,
+      "offensive_rating": 114.9,
+      "defensive_rating": null,
+      "pace": 68.4,
+      "efg_pct": 0.539,
+      "tov_pct": 15.8,
+      "orb_pct": 38.4,
+      "ft_rate": 0.308
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Champion",
+      "wins": 6,
+      "losses": 0,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Creighton": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Creighton",
+    "seed": 6,
+    "region": "South",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-13",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 9.8
+    },
+    "advanced": {
+      "srs": 17.83,
+      "offensive_rating": 109.6,
+      "defensive_rating": null,
+      "pace": 69.3,
+      "efg_pct": 0.542,
+      "tov_pct": 14.9,
+      "orb_pct": 25.3,
+      "ft_rate": 0.284
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Drake": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Drake",
+    "seed": 12,
+    "region": "Midwest",
+    "conference": "MVC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": -1.14
+    },
+    "advanced": {
+      "srs": 7.84,
+      "offensive_rating": 109.2,
+      "defensive_rating": null,
+      "pace": 67.0,
+      "efg_pct": 0.537,
+      "tov_pct": 13.8,
+      "orb_pct": 24.3,
+      "ft_rate": 0.279
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Duke": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Duke",
+    "seed": 5,
+    "region": "East",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-9",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 7.44
+    },
+    "advanced": {
+      "srs": 15.83,
+      "offensive_rating": 109.5,
+      "defensive_rating": null,
+      "pace": 65.5,
+      "efg_pct": 0.511,
+      "tov_pct": 15.4,
+      "orb_pct": 35.9,
+      "ft_rate": 0.299
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "FDU": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "FDU",
+    "seed": 16,
+    "region": "East",
+    "conference": "NEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-16",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": -9.83
+    },
+    "advanced": {
+      "srs": -8.98,
+      "offensive_rating": 109.7,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.517,
+      "tov_pct": 14.0,
+      "orb_pct": 31.9,
+      "ft_rate": 0.271
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Florida Atlantic": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Florida Atlantic",
+    "seed": 9,
+    "region": "East",
+    "conference": "CUSA",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "35-4",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 2.3
+    },
+    "advanced": {
+      "srs": 13.92,
+      "offensive_rating": 112.8,
+      "defensive_rating": null,
+      "pace": 68.5,
+      "efg_pct": 0.547,
+      "tov_pct": 14.8,
+      "orb_pct": 31.6,
+      "ft_rate": 0.294
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Furman": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Furman",
+    "seed": 13,
+    "region": "South",
+    "conference": "Southern",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-8",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": -2.9
+    },
+    "advanced": {
+      "srs": 4.89,
+      "offensive_rating": 115.4,
+      "defensive_rating": null,
+      "pace": 69.4,
+      "efg_pct": 0.557,
+      "tov_pct": 13.8,
+      "orb_pct": 28.8,
+      "ft_rate": 0.341
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Gonzaga": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Gonzaga",
+    "seed": 3,
+    "region": "West",
+    "conference": "WCC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-6",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": 8.04
+    },
+    "advanced": {
+      "srs": 18.99,
+      "offensive_rating": 119.5,
+      "defensive_rating": null,
+      "pace": 71.9,
+      "efg_pct": 0.582,
+      "tov_pct": 13.0,
+      "orb_pct": 31.4,
+      "ft_rate": 0.337
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Grand Canyon": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Grand Canyon",
+    "seed": 14,
+    "region": "West",
+    "conference": "WAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-12",
+      "conference": "10-7"
+    },
+    "strength_of_schedule": {
+      "rating": 1.27
+    },
+    "advanced": {
+      "srs": 4.43,
+      "offensive_rating": 111.5,
+      "defensive_rating": null,
+      "pace": 66.9,
+      "efg_pct": 0.542,
+      "tov_pct": 15.4,
+      "orb_pct": 30.8,
+      "ft_rate": 0.358
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Houston": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Houston",
+    "seed": 1,
+    "region": "Midwest",
+    "conference": "AAC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "33-4",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": 4.79
+    },
+    "advanced": {
+      "srs": 22.2,
+      "offensive_rating": 115.5,
+      "defensive_rating": null,
+      "pace": 64.8,
+      "efg_pct": 0.523,
+      "tov_pct": 12.9,
+      "orb_pct": 37.1,
+      "ft_rate": 0.289
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Howard": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Howard",
+    "seed": 16,
+    "region": "West",
+    "conference": "MEAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-13",
+      "conference": "11-3"
+    },
+    "strength_of_schedule": {
+      "rating": -5.14
+    },
+    "advanced": {
+      "srs": -5.04,
+      "offensive_rating": 104.4,
+      "defensive_rating": null,
+      "pace": 71.8,
+      "efg_pct": 0.527,
+      "tov_pct": 19.5,
+      "orb_pct": 34.1,
+      "ft_rate": 0.333
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Illinois": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Illinois",
+    "seed": 9,
+    "region": "West",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 7.65
+    },
+    "advanced": {
+      "srs": 14.81,
+      "offensive_rating": 105.7,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.514,
+      "tov_pct": 15.8,
+      "orb_pct": 31.6,
+      "ft_rate": 0.343
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Indiana": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Indiana",
+    "seed": 4,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-12",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 8.88
+    },
+    "advanced": {
+      "srs": 14.94,
+      "offensive_rating": 109.0,
+      "defensive_rating": null,
+      "pace": 68.4,
+      "efg_pct": 0.535,
+      "tov_pct": 14.7,
+      "orb_pct": 28.1,
+      "ft_rate": 0.295
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iona": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Iona",
+    "seed": 13,
+    "region": "West",
+    "conference": "MAAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "17-3"
+    },
+    "strength_of_schedule": {
+      "rating": -2.76
+    },
+    "advanced": {
+      "srs": 7.61,
+      "offensive_rating": 110.1,
+      "defensive_rating": null,
+      "pace": 68.8,
+      "efg_pct": 0.516,
+      "tov_pct": 13.1,
+      "orb_pct": 31.6,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Iowa",
+    "seed": 8,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-14",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 8.69
+    },
+    "advanced": {
+      "srs": 14.08,
+      "offensive_rating": 113.7,
+      "defensive_rating": null,
+      "pace": 69.6,
+      "efg_pct": 0.517,
+      "tov_pct": 11.9,
+      "orb_pct": 32.1,
+      "ft_rate": 0.323
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Iowa State",
+    "seed": 6,
+    "region": "Midwest",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-14",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 10.39
+    },
+    "advanced": {
+      "srs": 15.36,
+      "offensive_rating": 102.2,
+      "defensive_rating": null,
+      "pace": 65.7,
+      "efg_pct": 0.499,
+      "tov_pct": 16.7,
+      "orb_pct": 33.9,
+      "ft_rate": 0.279
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kansas": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Kansas",
+    "seed": 1,
+    "region": "West",
+    "conference": "Big 12",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "28-8",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 11.84
+    },
+    "advanced": {
+      "srs": 19.2,
+      "offensive_rating": 106.8,
+      "defensive_rating": null,
+      "pace": 70.2,
+      "efg_pct": 0.526,
+      "tov_pct": 15.4,
+      "orb_pct": 28.7,
+      "ft_rate": 0.298
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kansas State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Kansas State",
+    "seed": 3,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-10",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 9.48
+    },
+    "advanced": {
+      "srs": 15.79,
+      "offensive_rating": 106.2,
+      "defensive_rating": null,
+      "pace": 70.5,
+      "efg_pct": 0.523,
+      "tov_pct": 17.0,
+      "orb_pct": 29.9,
+      "ft_rate": 0.361
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kennesaw State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Kennesaw State",
+    "seed": 14,
+    "region": "Midwest",
+    "conference": "A-Sun",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-9",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": -2.06
+    },
+    "advanced": {
+      "srs": 0.6,
+      "offensive_rating": 106.4,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.531,
+      "tov_pct": 15.5,
+      "orb_pct": 27.9,
+      "ft_rate": 0.358
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kent State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Kent State",
+    "seed": 13,
+    "region": "Midwest",
+    "conference": "MAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-7",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": -1.22
+    },
+    "advanced": {
+      "srs": 7.53,
+      "offensive_rating": 108.9,
+      "defensive_rating": null,
+      "pace": 69.7,
+      "efg_pct": 0.514,
+      "tov_pct": 14.0,
+      "orb_pct": 31.0,
+      "ft_rate": 0.308
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kentucky": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Kentucky",
+    "seed": 6,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.08
+    },
+    "advanced": {
+      "srs": 14.76,
+      "offensive_rating": 110.7,
+      "defensive_rating": null,
+      "pace": 66.8,
+      "efg_pct": 0.506,
+      "tov_pct": 14.5,
+      "orb_pct": 39.2,
+      "ft_rate": 0.319
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Louisiana": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Louisiana",
+    "seed": 13,
+    "region": "East",
+    "conference": "Sun Belt",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-8",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": -0.51
+    },
+    "advanced": {
+      "srs": 4.27,
+      "offensive_rating": 111.4,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.542,
+      "tov_pct": 15.2,
+      "orb_pct": 34.0,
+      "ft_rate": 0.365
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Marquette": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Marquette",
+    "seed": 2,
+    "region": "East",
+    "conference": "Big East",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "29-7",
+      "conference": "17-3"
+    },
+    "strength_of_schedule": {
+      "rating": 8.01
+    },
+    "advanced": {
+      "srs": 17.07,
+      "offensive_rating": 112.9,
+      "defensive_rating": null,
+      "pace": 69.3,
+      "efg_pct": 0.56,
+      "tov_pct": 13.6,
+      "orb_pct": 26.2,
+      "ft_rate": 0.27
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Maryland": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Maryland",
+    "seed": 8,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 8.35
+    },
+    "advanced": {
+      "srs": 14.58,
+      "offensive_rating": 107.7,
+      "defensive_rating": null,
+      "pace": 64.5,
+      "efg_pct": 0.508,
+      "tov_pct": 14.3,
+      "orb_pct": 30.0,
+      "ft_rate": 0.343
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Memphis": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Memphis",
+    "seed": 8,
+    "region": "East",
+    "conference": "AAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-9",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 6.9
+    },
+    "advanced": {
+      "srs": 14.5,
+      "offensive_rating": 108.7,
+      "defensive_rating": null,
+      "pace": 72.2,
+      "efg_pct": 0.53,
+      "tov_pct": 16.0,
+      "orb_pct": 31.2,
+      "ft_rate": 0.354
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Miami": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Miami",
+    "seed": 5,
+    "region": "Midwest",
+    "conference": "ACC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "29-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 6.84
+    },
+    "advanced": {
+      "srs": 13.98,
+      "offensive_rating": 114.3,
+      "defensive_rating": null,
+      "pace": 68.9,
+      "efg_pct": 0.543,
+      "tov_pct": 14.0,
+      "orb_pct": 31.8,
+      "ft_rate": 0.307
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Michigan State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Michigan State",
+    "seed": 7,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-13",
+      "conference": "11-8"
+    },
+    "strength_of_schedule": {
+      "rating": 11.25
+    },
+    "advanced": {
+      "srs": 14.25,
+      "offensive_rating": 106.8,
+      "defensive_rating": null,
+      "pace": 65.4,
+      "efg_pct": 0.517,
+      "tov_pct": 14.4,
+      "orb_pct": 27.6,
+      "ft_rate": 0.272
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Missouri": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Missouri",
+    "seed": 7,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-10",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 6.89
+    },
+    "advanced": {
+      "srs": 11.41,
+      "offensive_rating": 112.0,
+      "defensive_rating": null,
+      "pace": 70.0,
+      "efg_pct": 0.55,
+      "tov_pct": 14.1,
+      "orb_pct": 26.3,
+      "ft_rate": 0.291
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Montana State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Montana State",
+    "seed": 14,
+    "region": "East",
+    "conference": "Big Sky",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "25-10",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": -1.43
+    },
+    "advanced": {
+      "srs": 2.18,
+      "offensive_rating": 108.1,
+      "defensive_rating": null,
+      "pace": 67.9,
+      "efg_pct": 0.526,
+      "tov_pct": 15.5,
+      "orb_pct": 26.6,
+      "ft_rate": 0.434
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "NC State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "NC State",
+    "seed": 11,
+    "region": "South",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-11",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 5.58
+    },
+    "advanced": {
+      "srs": 12.5,
+      "offensive_rating": 110.9,
+      "defensive_rating": null,
+      "pace": 69.8,
+      "efg_pct": 0.515,
+      "tov_pct": 11.6,
+      "orb_pct": 30.4,
+      "ft_rate": 0.253
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Northern Kentucky": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Northern Kentucky",
+    "seed": 16,
+    "region": "Midwest",
+    "conference": "Horizon",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-13",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": -2.89
+    },
+    "advanced": {
+      "srs": -0.83,
+      "offensive_rating": 104.8,
+      "defensive_rating": null,
+      "pace": 63.5,
+      "efg_pct": 0.497,
+      "tov_pct": 14.9,
+      "orb_pct": 32.2,
+      "ft_rate": 0.278
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Northwestern": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Northwestern",
+    "seed": 7,
+    "region": "West",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 8.71
+    },
+    "advanced": {
+      "srs": 13.68,
+      "offensive_rating": 103.5,
+      "defensive_rating": null,
+      "pace": 65.0,
+      "efg_pct": 0.473,
+      "tov_pct": 12.7,
+      "orb_pct": 28.5,
+      "ft_rate": 0.297
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Oral Roberts": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Oral Roberts",
+    "seed": 12,
+    "region": "East",
+    "conference": "Summit",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "30-5",
+      "conference": "18-0"
+    },
+    "strength_of_schedule": {
+      "rating": -2.84
+    },
+    "advanced": {
+      "srs": 8.55,
+      "offensive_rating": 116.5,
+      "defensive_rating": null,
+      "pace": 71.5,
+      "efg_pct": 0.558,
+      "tov_pct": 11.7,
+      "orb_pct": 25.4,
+      "ft_rate": 0.246
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Penn State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Penn State",
+    "seed": 10,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-14",
+      "conference": "10-10"
+    },
+    "strength_of_schedule": {
+      "rating": 9.02
+    },
+    "advanced": {
+      "srs": 13.04,
+      "offensive_rating": 110.4,
+      "defensive_rating": null,
+      "pace": 64.4,
+      "efg_pct": 0.554,
+      "tov_pct": 12.5,
+      "orb_pct": 19.2,
+      "ft_rate": 0.213
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Pitt": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Pitt",
+    "seed": 11,
+    "region": "Midwest",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-12",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 5.2
+    },
+    "advanced": {
+      "srs": 10.59,
+      "offensive_rating": 110.4,
+      "defensive_rating": null,
+      "pace": 68.1,
+      "efg_pct": 0.525,
+      "tov_pct": 14.3,
+      "orb_pct": 29.5,
+      "ft_rate": 0.329
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Princeton": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Princeton",
+    "seed": 15,
+    "region": "South",
+    "conference": "Ivy",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-9",
+      "conference": "10-4"
+    },
+    "strength_of_schedule": {
+      "rating": -0.97
+    },
+    "advanced": {
+      "srs": 4.76,
+      "offensive_rating": 108.1,
+      "defensive_rating": null,
+      "pace": 69.0,
+      "efg_pct": 0.526,
+      "tov_pct": 15.0,
+      "orb_pct": 29.1,
+      "ft_rate": 0.302
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Providence": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Providence",
+    "seed": 11,
+    "region": "East",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-12",
+      "conference": "13-7"
+    },
+    "strength_of_schedule": {
+      "rating": 6.55
+    },
+    "advanced": {
+      "srs": 12.89,
+      "offensive_rating": 111.2,
+      "defensive_rating": null,
+      "pace": 68.2,
+      "efg_pct": 0.511,
+      "tov_pct": 14.3,
+      "orb_pct": 34.8,
+      "ft_rate": 0.363
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Purdue": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Purdue",
+    "seed": 1,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "29-6",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 8.31
+    },
+    "advanced": {
+      "srs": 18.23,
+      "offensive_rating": 112.8,
+      "defensive_rating": null,
+      "pace": 64.2,
+      "efg_pct": 0.518,
+      "tov_pct": 14.6,
+      "orb_pct": 38.4,
+      "ft_rate": 0.372
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Saint Mary's": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Saint Mary's",
+    "seed": 5,
+    "region": "West",
+    "conference": "WCC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-8",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": 7.18
+    },
+    "advanced": {
+      "srs": 17.41,
+      "offensive_rating": 109.6,
+      "defensive_rating": null,
+      "pace": 63.8,
+      "efg_pct": 0.522,
+      "tov_pct": 14.2,
+      "orb_pct": 32.9,
+      "ft_rate": 0.32
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "San Diego State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "San Diego State",
+    "seed": 5,
+    "region": "South",
+    "conference": "MWC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "32-7",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 8.92
+    },
+    "advanced": {
+      "srs": 15.81,
+      "offensive_rating": 106.1,
+      "defensive_rating": null,
+      "pace": 66.6,
+      "efg_pct": 0.498,
+      "tov_pct": 14.8,
+      "orb_pct": 31.9,
+      "ft_rate": 0.327
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Championship Game",
+      "wins": 5,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "USC": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "USC",
+    "seed": 10,
+    "region": "East",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-11",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.0
+    },
+    "advanced": {
+      "srs": 13.06,
+      "offensive_rating": 105.6,
+      "defensive_rating": null,
+      "pace": 68.3,
+      "efg_pct": 0.512,
+      "tov_pct": 15.9,
+      "orb_pct": 28.8,
+      "ft_rate": 0.332
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "TCU": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "TCU",
+    "seed": 6,
+    "region": "West",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-13",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 8.78
+    },
+    "advanced": {
+      "srs": 15.61,
+      "offensive_rating": 105.8,
+      "defensive_rating": null,
+      "pace": 70.9,
+      "efg_pct": 0.5,
+      "tov_pct": 14.4,
+      "orb_pct": 32.2,
+      "ft_rate": 0.341
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Tennessee": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Tennessee",
+    "seed": 4,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-11",
+      "conference": "11-7"
+    },
+    "strength_of_schedule": {
+      "rating": 7.98
+    },
+    "advanced": {
+      "srs": 20.84,
+      "offensive_rating": 107.0,
+      "defensive_rating": null,
+      "pace": 65.9,
+      "efg_pct": 0.499,
+      "tov_pct": 15.2,
+      "orb_pct": 36.4,
+      "ft_rate": 0.307
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Texas",
+    "seed": 2,
+    "region": "Midwest",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "29-9",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 10.43
+    },
+    "advanced": {
+      "srs": 20.56,
+      "offensive_rating": 110.1,
+      "defensive_rating": null,
+      "pace": 70.1,
+      "efg_pct": 0.533,
+      "tov_pct": 14.3,
+      "orb_pct": 28.3,
+      "ft_rate": 0.305
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas A&M": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Texas A&M",
+    "seed": 7,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-10",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 7.42
+    },
+    "advanced": {
+      "srs": 13.76,
+      "offensive_rating": 108.5,
+      "defensive_rating": null,
+      "pace": 67.1,
+      "efg_pct": 0.488,
+      "tov_pct": 15.5,
+      "orb_pct": 36.7,
+      "ft_rate": 0.451
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "TAMUCC": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "TAMUCC",
+    "seed": 16,
+    "region": "South",
+    "conference": "Southland",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-11",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -7.02
+    },
+    "advanced": {
+      "srs": -2.57,
+      "offensive_rating": 110.9,
+      "defensive_rating": null,
+      "pace": 71.7,
+      "efg_pct": 0.513,
+      "tov_pct": 15.2,
+      "orb_pct": 33.7,
+      "ft_rate": 0.348
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UC Santa Barbara": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "UC Santa Barbara",
+    "seed": 14,
+    "region": "South",
+    "conference": "Big West",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": -2.03
+    },
+    "advanced": {
+      "srs": 3.3,
+      "offensive_rating": 109.1,
+      "defensive_rating": null,
+      "pace": 65.5,
+      "efg_pct": 0.545,
+      "tov_pct": 15.4,
+      "orb_pct": 26.7,
+      "ft_rate": 0.343
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UCLA": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "UCLA",
+    "seed": 2,
+    "region": "West",
+    "conference": "Pac-12",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "31-6",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 8.66
+    },
+    "advanced": {
+      "srs": 22.11,
+      "offensive_rating": 110.3,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.511,
+      "tov_pct": 12.8,
+      "orb_pct": 33.0,
+      "ft_rate": 0.274
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UNC Asheville": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "UNC Asheville",
+    "seed": 15,
+    "region": "West",
+    "conference": "Big South",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": -4.35
+    },
+    "advanced": {
+      "srs": -1.74,
+      "offensive_rating": 105.8,
+      "defensive_rating": null,
+      "pace": 69.3,
+      "efg_pct": 0.547,
+      "tov_pct": 18.0,
+      "orb_pct": 26.3,
+      "ft_rate": 0.408
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Utah State": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Utah State",
+    "seed": 10,
+    "region": "South",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-9",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 6.81
+    },
+    "advanced": {
+      "srs": 14.23,
+      "offensive_rating": 112.6,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.562,
+      "tov_pct": 15.6,
+      "orb_pct": 27.3,
+      "ft_rate": 0.343
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Vermont": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Vermont",
+    "seed": 15,
+    "region": "East",
+    "conference": "AmEast",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-11",
+      "conference": "14-2"
+    },
+    "strength_of_schedule": {
+      "rating": -3.13
+    },
+    "advanced": {
+      "srs": 1.63,
+      "offensive_rating": 109.7,
+      "defensive_rating": null,
+      "pace": 65.5,
+      "efg_pct": 0.551,
+      "tov_pct": 12.8,
+      "orb_pct": 20.3,
+      "ft_rate": 0.285
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Virginia": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Virginia",
+    "seed": 4,
+    "region": "South",
+    "conference": "ACC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 5.98
+    },
+    "advanced": {
+      "srs": 13.28,
+      "offensive_rating": 108.1,
+      "defensive_rating": null,
+      "pace": 62.5,
+      "efg_pct": 0.512,
+      "tov_pct": 12.1,
+      "orb_pct": 25.6,
+      "ft_rate": 0.347
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "VCU": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "VCU",
+    "seed": 12,
+    "region": "West",
+    "conference": "A-10",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 1.95
+    },
+    "advanced": {
+      "srs": 9.89,
+      "offensive_rating": 103.8,
+      "defensive_rating": null,
+      "pace": 68.3,
+      "efg_pct": 0.52,
+      "tov_pct": 17.3,
+      "orb_pct": 28.9,
+      "ft_rate": 0.416
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "West Virginia": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "West Virginia",
+    "seed": 9,
+    "region": "South",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-15",
+      "conference": "7-11"
+    },
+    "strength_of_schedule": {
+      "rating": 10.89
+    },
+    "advanced": {
+      "srs": 15.95,
+      "offensive_rating": 108.8,
+      "defensive_rating": null,
+      "pace": 69.6,
+      "efg_pct": 0.515,
+      "tov_pct": 16.0,
+      "orb_pct": 34.0,
+      "ft_rate": 0.394
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Xavier": {
+    "year": 2023,
+    "tournament": "mens",
+    "team": "Xavier",
+    "seed": 3,
+    "region": "Midwest",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-10",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 9.16
+    },
+    "advanced": {
+      "srs": 16.03,
+      "offensive_rating": 112.1,
+      "defensive_rating": null,
+      "pace": 72.0,
+      "efg_pct": 0.552,
+      "tov_pct": 15.0,
+      "orb_pct": 30.7,
+      "ft_rate": 0.314
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  }
+}

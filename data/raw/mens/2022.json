@@ -1,0 +1,2754 @@
+{
+  "Akron": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Akron",
+    "seed": 13,
+    "region": "East",
+    "conference": "MAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-10",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": -3.93
+    },
+    "advanced": {
+      "srs": 0.91,
+      "offensive_rating": 109.8,
+      "defensive_rating": null,
+      "pace": 64.1,
+      "efg_pct": 0.533,
+      "tov_pct": 15.4,
+      "orb_pct": 30.6,
+      "ft_rate": 0.39
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Alabama": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Alabama",
+    "seed": 6,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-14",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 11.59
+    },
+    "advanced": {
+      "srs": 14.62,
+      "offensive_rating": 108.1,
+      "defensive_rating": null,
+      "pace": 73.2,
+      "efg_pct": 0.513,
+      "tov_pct": 16.7,
+      "orb_pct": 35.3,
+      "ft_rate": 0.329
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arizona": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Arizona",
+    "seed": 1,
+    "region": "South",
+    "conference": "Pac-12",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "33-4",
+      "conference": "18-2"
+    },
+    "strength_of_schedule": {
+      "rating": 6.84
+    },
+    "advanced": {
+      "srs": 22.75,
+      "offensive_rating": 114.7,
+      "defensive_rating": null,
+      "pace": 72.7,
+      "efg_pct": 0.556,
+      "tov_pct": 15.8,
+      "orb_pct": 34.6,
+      "ft_rate": 0.349
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Arkansas": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Arkansas",
+    "seed": 4,
+    "region": "West",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "28-9",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 8.62
+    },
+    "advanced": {
+      "srs": 16.27,
+      "offensive_rating": 104.8,
+      "defensive_rating": null,
+      "pace": 72.0,
+      "efg_pct": 0.486,
+      "tov_pct": 14.6,
+      "orb_pct": 29.5,
+      "ft_rate": 0.372
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Auburn": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Auburn",
+    "seed": 2,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "28-6",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 8.17
+    },
+    "advanced": {
+      "srs": 19.2,
+      "offensive_rating": 108.1,
+      "defensive_rating": null,
+      "pace": 71.3,
+      "efg_pct": 0.499,
+      "tov_pct": 14.2,
+      "orb_pct": 33.6,
+      "ft_rate": 0.316
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Baylor": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Baylor",
+    "seed": 1,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-7",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 8.76
+    },
+    "advanced": {
+      "srs": 21.73,
+      "offensive_rating": 111.5,
+      "defensive_rating": null,
+      "pace": 68.6,
+      "efg_pct": 0.528,
+      "tov_pct": 15.1,
+      "orb_pct": 36.3,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Boise State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Boise State",
+    "seed": 8,
+    "region": "West",
+    "conference": "MWC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 5.22
+    },
+    "advanced": {
+      "srs": 11.93,
+      "offensive_rating": 104.1,
+      "defensive_rating": null,
+      "pace": 64.9,
+      "efg_pct": 0.512,
+      "tov_pct": 15.9,
+      "orb_pct": 30.6,
+      "ft_rate": 0.35
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "CS Fullerton": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "CS Fullerton",
+    "seed": 15,
+    "region": "West",
+    "conference": "Big West",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "21-11",
+      "conference": "12-5"
+    },
+    "strength_of_schedule": {
+      "rating": -2.28
+    },
+    "advanced": {
+      "srs": -0.04,
+      "offensive_rating": 104.2,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.494,
+      "tov_pct": 15.7,
+      "orb_pct": 29.7,
+      "ft_rate": 0.351
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Chattanooga": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Chattanooga",
+    "seed": 13,
+    "region": "South",
+    "conference": "Southern",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -0.94
+    },
+    "advanced": {
+      "srs": 6.12,
+      "offensive_rating": 111.6,
+      "defensive_rating": null,
+      "pace": 66.0,
+      "efg_pct": 0.531,
+      "tov_pct": 14.2,
+      "orb_pct": 32.7,
+      "ft_rate": 0.266
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Colgate": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Colgate",
+    "seed": 14,
+    "region": "Midwest",
+    "conference": "Patriot",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-12",
+      "conference": "16-2"
+    },
+    "strength_of_schedule": {
+      "rating": -6.37
+    },
+    "advanced": {
+      "srs": 0.98,
+      "offensive_rating": 111.4,
+      "defensive_rating": null,
+      "pace": 67.6,
+      "efg_pct": 0.559,
+      "tov_pct": 14.8,
+      "orb_pct": 26.6,
+      "ft_rate": 0.262
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Colorado State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Colorado State",
+    "seed": 6,
+    "region": "South",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-6",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 4.77
+    },
+    "advanced": {
+      "srs": 11.51,
+      "offensive_rating": 110.4,
+      "defensive_rating": null,
+      "pace": 66.0,
+      "efg_pct": 0.551,
+      "tov_pct": 13.8,
+      "orb_pct": 22.1,
+      "ft_rate": 0.296
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UConn": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "UConn",
+    "seed": 5,
+    "region": "West",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-10",
+      "conference": "13-6"
+    },
+    "strength_of_schedule": {
+      "rating": 6.88
+    },
+    "advanced": {
+      "srs": 16.4,
+      "offensive_rating": 109.9,
+      "defensive_rating": null,
+      "pace": 66.8,
+      "efg_pct": 0.496,
+      "tov_pct": 14.4,
+      "orb_pct": 37.7,
+      "ft_rate": 0.305
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Creighton": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Creighton",
+    "seed": 9,
+    "region": "Midwest",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-12",
+      "conference": "12-7"
+    },
+    "strength_of_schedule": {
+      "rating": 8.54
+    },
+    "advanced": {
+      "srs": 11.34,
+      "offensive_rating": 100.5,
+      "defensive_rating": null,
+      "pace": 68.1,
+      "efg_pct": 0.506,
+      "tov_pct": 17.9,
+      "orb_pct": 28.4,
+      "ft_rate": 0.267
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Davidson": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Davidson",
+    "seed": 10,
+    "region": "West",
+    "conference": "A-10",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-7",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 1.92
+    },
+    "advanced": {
+      "srs": 10.43,
+      "offensive_rating": 113.8,
+      "defensive_rating": null,
+      "pace": 66.1,
+      "efg_pct": 0.561,
+      "tov_pct": 13.3,
+      "orb_pct": 23.8,
+      "ft_rate": 0.316
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Delaware": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Delaware",
+    "seed": 15,
+    "region": "South",
+    "conference": "CAA",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-13",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": -1.82
+    },
+    "advanced": {
+      "srs": 0.32,
+      "offensive_rating": 107.2,
+      "defensive_rating": null,
+      "pace": 68.0,
+      "efg_pct": 0.536,
+      "tov_pct": 16.3,
+      "orb_pct": 26.9,
+      "ft_rate": 0.339
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Duke": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Duke",
+    "seed": 2,
+    "region": "West",
+    "conference": "ACC",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "32-7",
+      "conference": "16-4"
+    },
+    "strength_of_schedule": {
+      "rating": 7.26
+    },
+    "advanced": {
+      "srs": 19.55,
+      "offensive_rating": 117.0,
+      "defensive_rating": null,
+      "pace": 68.2,
+      "efg_pct": 0.557,
+      "tov_pct": 13.0,
+      "orb_pct": 31.6,
+      "ft_rate": 0.286
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Georgia State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Georgia State",
+    "seed": 16,
+    "region": "West",
+    "conference": "Sun Belt",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "18-11",
+      "conference": "9-5"
+    },
+    "strength_of_schedule": {
+      "rating": -1.34
+    },
+    "advanced": {
+      "srs": -1.11,
+      "offensive_rating": 101.7,
+      "defensive_rating": null,
+      "pace": 68.6,
+      "efg_pct": 0.461,
+      "tov_pct": 14.1,
+      "orb_pct": 33.9,
+      "ft_rate": 0.295
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Gonzaga": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Gonzaga",
+    "seed": 1,
+    "region": "West",
+    "conference": "WCC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-4",
+      "conference": "13-1"
+    },
+    "strength_of_schedule": {
+      "rating": 4.5
+    },
+    "advanced": {
+      "srs": 25.46,
+      "offensive_rating": 118.1,
+      "defensive_rating": null,
+      "pace": 73.8,
+      "efg_pct": 0.587,
+      "tov_pct": 13.9,
+      "orb_pct": 29.1,
+      "ft_rate": 0.306
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Houston": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Houston",
+    "seed": 5,
+    "region": "South",
+    "conference": "AAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "32-6",
+      "conference": "15-3"
+    },
+    "strength_of_schedule": {
+      "rating": 6.47
+    },
+    "advanced": {
+      "srs": 22.55,
+      "offensive_rating": 113.9,
+      "defensive_rating": null,
+      "pace": 65.0,
+      "efg_pct": 0.531,
+      "tov_pct": 14.1,
+      "orb_pct": 37.7,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Illinois": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Illinois",
+    "seed": 4,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-10",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 9.48
+    },
+    "advanced": {
+      "srs": 16.69,
+      "offensive_rating": 108.8,
+      "defensive_rating": null,
+      "pace": 67.9,
+      "efg_pct": 0.525,
+      "tov_pct": 15.5,
+      "orb_pct": 33.1,
+      "ft_rate": 0.32
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Indiana": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Indiana",
+    "seed": 12,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-14",
+      "conference": "9-11"
+    },
+    "strength_of_schedule": {
+      "rating": 8.08
+    },
+    "advanced": {
+      "srs": 12.71,
+      "offensive_rating": 103.2,
+      "defensive_rating": null,
+      "pace": 67.9,
+      "efg_pct": 0.506,
+      "tov_pct": 15.2,
+      "orb_pct": 27.0,
+      "ft_rate": 0.335
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Iowa",
+    "seed": 5,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-10",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 6.87
+    },
+    "advanced": {
+      "srs": 18.9,
+      "offensive_rating": 117.5,
+      "defensive_rating": null,
+      "pace": 70.3,
+      "efg_pct": 0.533,
+      "tov_pct": 11.1,
+      "orb_pct": 32.2,
+      "ft_rate": 0.3
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Iowa State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Iowa State",
+    "seed": 11,
+    "region": "Midwest",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-13",
+      "conference": "7-11"
+    },
+    "strength_of_schedule": {
+      "rating": 9.33
+    },
+    "advanced": {
+      "srs": 12.38,
+      "offensive_rating": 96.9,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.491,
+      "tov_pct": 17.9,
+      "orb_pct": 28.4,
+      "ft_rate": 0.271
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Jacksonville State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Jacksonville State",
+    "seed": 15,
+    "region": "Midwest",
+    "conference": "A-Sun(West)",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-11",
+      "conference": "13-3"
+    },
+    "strength_of_schedule": {
+      "rating": -3.79
+    },
+    "advanced": {
+      "srs": -0.19,
+      "offensive_rating": 108.6,
+      "defensive_rating": null,
+      "pace": 66.9,
+      "efg_pct": 0.549,
+      "tov_pct": 16.9,
+      "orb_pct": 29.5,
+      "ft_rate": 0.308
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kansas": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Kansas",
+    "seed": 1,
+    "region": "Midwest",
+    "conference": "Big 12",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "34-6",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 11.3
+    },
+    "advanced": {
+      "srs": 22.28,
+      "offensive_rating": 111.5,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.538,
+      "tov_pct": 14.9,
+      "orb_pct": 32.9,
+      "ft_rate": 0.323
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Champion",
+      "wins": 6,
+      "losses": 0,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Kentucky": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Kentucky",
+    "seed": 2,
+    "region": "East",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 8.02
+    },
+    "advanced": {
+      "srs": 20.9,
+      "offensive_rating": 114.0,
+      "defensive_rating": null,
+      "pace": 69.2,
+      "efg_pct": 0.531,
+      "tov_pct": 14.0,
+      "orb_pct": 37.7,
+      "ft_rate": 0.28
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Longwood": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Longwood",
+    "seed": 14,
+    "region": "South",
+    "conference": "Big South(North)",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "26-7",
+      "conference": "15-1"
+    },
+    "strength_of_schedule": {
+      "rating": -6.11
+    },
+    "advanced": {
+      "srs": -0.35,
+      "offensive_rating": 110.8,
+      "defensive_rating": null,
+      "pace": 67.8,
+      "efg_pct": 0.521,
+      "tov_pct": 15.1,
+      "orb_pct": 34.2,
+      "ft_rate": 0.345
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "LSU": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "LSU",
+    "seed": 6,
+    "region": "Midwest",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "9-9"
+    },
+    "strength_of_schedule": {
+      "rating": 8.3
+    },
+    "advanced": {
+      "srs": 17.45,
+      "offensive_rating": 102.3,
+      "defensive_rating": null,
+      "pace": 70.4,
+      "efg_pct": 0.493,
+      "tov_pct": 17.7,
+      "orb_pct": 33.9,
+      "ft_rate": 0.334
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Loyola Chicago": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Loyola Chicago",
+    "seed": 10,
+    "region": "South",
+    "conference": "MVC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "25-8",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 2.93
+    },
+    "advanced": {
+      "srs": 13.39,
+      "offensive_rating": 109.2,
+      "defensive_rating": null,
+      "pace": 65.7,
+      "efg_pct": 0.558,
+      "tov_pct": 16.4,
+      "orb_pct": 25.1,
+      "ft_rate": 0.313
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Marquette": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Marquette",
+    "seed": 9,
+    "region": "East",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-13",
+      "conference": "11-8"
+    },
+    "strength_of_schedule": {
+      "rating": 8.96
+    },
+    "advanced": {
+      "srs": 11.36,
+      "offensive_rating": 102.7,
+      "defensive_rating": null,
+      "pace": 71.6,
+      "efg_pct": 0.521,
+      "tov_pct": 15.5,
+      "orb_pct": 22.5,
+      "ft_rate": 0.262
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Memphis": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Memphis",
+    "seed": 9,
+    "region": "West",
+    "conference": "AAC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-11",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": 7.86
+    },
+    "advanced": {
+      "srs": 14.67,
+      "offensive_rating": 105.8,
+      "defensive_rating": null,
+      "pace": 71.0,
+      "efg_pct": 0.523,
+      "tov_pct": 19.1,
+      "orb_pct": 37.4,
+      "ft_rate": 0.378
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Miami": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Miami",
+    "seed": 10,
+    "region": "Midwest",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-11",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 7.62
+    },
+    "advanced": {
+      "srs": 11.22,
+      "offensive_rating": 108.6,
+      "defensive_rating": null,
+      "pace": 67.8,
+      "efg_pct": 0.533,
+      "tov_pct": 12.7,
+      "orb_pct": 22.4,
+      "ft_rate": 0.288
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Michigan": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Michigan",
+    "seed": 11,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "19-15",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 11.02
+    },
+    "advanced": {
+      "srs": 14.26,
+      "offensive_rating": 107.7,
+      "defensive_rating": null,
+      "pace": 67.5,
+      "efg_pct": 0.521,
+      "tov_pct": 15.1,
+      "orb_pct": 31.0,
+      "ft_rate": 0.294
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Michigan State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Michigan State",
+    "seed": 7,
+    "region": "West",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 9.96
+    },
+    "advanced": {
+      "srs": 13.18,
+      "offensive_rating": 106.4,
+      "defensive_rating": null,
+      "pace": 67.9,
+      "efg_pct": 0.52,
+      "tov_pct": 16.3,
+      "orb_pct": 30.7,
+      "ft_rate": 0.299
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Montana State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Montana State",
+    "seed": 14,
+    "region": "West",
+    "conference": "Big Sky",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "16-4"
+    },
+    "strength_of_schedule": {
+      "rating": -5.54
+    },
+    "advanced": {
+      "srs": -0.26,
+      "offensive_rating": 108.9,
+      "defensive_rating": null,
+      "pace": 69.5,
+      "efg_pct": 0.541,
+      "tov_pct": 16.3,
+      "orb_pct": 27.3,
+      "ft_rate": 0.384
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Murray State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Murray State",
+    "seed": 7,
+    "region": "East",
+    "conference": "OVC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "31-3",
+      "conference": "18-0"
+    },
+    "strength_of_schedule": {
+      "rating": -3.07
+    },
+    "advanced": {
+      "srs": 9.87,
+      "offensive_rating": 115.5,
+      "defensive_rating": null,
+      "pace": 68.3,
+      "efg_pct": 0.542,
+      "tov_pct": 14.1,
+      "orb_pct": 35.8,
+      "ft_rate": 0.325
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "New Mexico State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "New Mexico State",
+    "seed": 12,
+    "region": "West",
+    "conference": "WAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-7",
+      "conference": "13-4"
+    },
+    "strength_of_schedule": {
+      "rating": 1.24
+    },
+    "advanced": {
+      "srs": 7.11,
+      "offensive_rating": 105.7,
+      "defensive_rating": null,
+      "pace": 68.3,
+      "efg_pct": 0.524,
+      "tov_pct": 17.7,
+      "orb_pct": 33.0,
+      "ft_rate": 0.341
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Norfolk State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Norfolk State",
+    "seed": 16,
+    "region": "East",
+    "conference": "MEAC",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-7",
+      "conference": "12-2"
+    },
+    "strength_of_schedule": {
+      "rating": -9.3
+    },
+    "advanced": {
+      "srs": -3.91,
+      "offensive_rating": 105.0,
+      "defensive_rating": null,
+      "pace": 70.7,
+      "efg_pct": 0.522,
+      "tov_pct": 17.3,
+      "orb_pct": 30.7,
+      "ft_rate": 0.371
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UNC": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "UNC",
+    "seed": 8,
+    "region": "East",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "29-10",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 8.89
+    },
+    "advanced": {
+      "srs": 15.5,
+      "offensive_rating": 109.7,
+      "defensive_rating": null,
+      "pace": 70.3,
+      "efg_pct": 0.515,
+      "tov_pct": 14.2,
+      "orb_pct": 31.8,
+      "ft_rate": 0.303
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Championship Game",
+      "wins": 5,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Notre Dame": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Notre Dame",
+    "seed": 11,
+    "region": "West",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-11",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 7.01
+    },
+    "advanced": {
+      "srs": 11.87,
+      "offensive_rating": 108.6,
+      "defensive_rating": null,
+      "pace": 65.9,
+      "efg_pct": 0.543,
+      "tov_pct": 14.1,
+      "orb_pct": 22.4,
+      "ft_rate": 0.267
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Ohio State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Ohio State",
+    "seed": 7,
+    "region": "South",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "20-12",
+      "conference": "12-8"
+    },
+    "strength_of_schedule": {
+      "rating": 9.08
+    },
+    "advanced": {
+      "srs": 14.17,
+      "offensive_rating": 110.9,
+      "defensive_rating": null,
+      "pace": 65.1,
+      "efg_pct": 0.543,
+      "tov_pct": 15.1,
+      "orb_pct": 29.3,
+      "ft_rate": 0.334
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Providence": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Providence",
+    "seed": 4,
+    "region": "Midwest",
+    "conference": "Big East",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-6",
+      "conference": "14-3"
+    },
+    "strength_of_schedule": {
+      "rating": 7.75
+    },
+    "advanced": {
+      "srs": 13.08,
+      "offensive_rating": 106.4,
+      "defensive_rating": null,
+      "pace": 65.9,
+      "efg_pct": 0.5,
+      "tov_pct": 14.7,
+      "orb_pct": 30.3,
+      "ft_rate": 0.37
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Purdue": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Purdue",
+    "seed": 3,
+    "region": "East",
+    "conference": "Big Ten",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "29-8",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.23
+    },
+    "advanced": {
+      "srs": 19.15,
+      "offensive_rating": 117.8,
+      "defensive_rating": null,
+      "pace": 66.7,
+      "efg_pct": 0.565,
+      "tov_pct": 15.0,
+      "orb_pct": 35.2,
+      "ft_rate": 0.382
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Richmond": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Richmond",
+    "seed": 12,
+    "region": "Midwest",
+    "conference": "A-10",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "24-13",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 4.48
+    },
+    "advanced": {
+      "srs": 7.07,
+      "offensive_rating": 104.8,
+      "defensive_rating": null,
+      "pace": 67.4,
+      "efg_pct": 0.511,
+      "tov_pct": 13.0,
+      "orb_pct": 22.4,
+      "ft_rate": 0.31
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Saint Mary's": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Saint Mary's",
+    "seed": 5,
+    "region": "East",
+    "conference": "WCC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-8",
+      "conference": "12-3"
+    },
+    "strength_of_schedule": {
+      "rating": 6.58
+    },
+    "advanced": {
+      "srs": 14.82,
+      "offensive_rating": 106.5,
+      "defensive_rating": null,
+      "pace": 65.5,
+      "efg_pct": 0.528,
+      "tov_pct": 15.2,
+      "orb_pct": 27.8,
+      "ft_rate": 0.24
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Saint Peter's": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Saint Peter's",
+    "seed": 15,
+    "region": "East",
+    "conference": "MAAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-12",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": -0.47
+    },
+    "advanced": {
+      "srs": 2.96,
+      "offensive_rating": 99.7,
+      "defensive_rating": null,
+      "pace": 66.7,
+      "efg_pct": 0.48,
+      "tov_pct": 17.2,
+      "orb_pct": 31.3,
+      "ft_rate": 0.371
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Elite Eight",
+      "wins": 3,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "San Diego State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "San Diego State",
+    "seed": 8,
+    "region": "Midwest",
+    "conference": "MWC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "23-9",
+      "conference": "13-4"
+    },
+    "strength_of_schedule": {
+      "rating": 5.85
+    },
+    "advanced": {
+      "srs": 13.13,
+      "offensive_rating": 99.0,
+      "defensive_rating": null,
+      "pace": 65.3,
+      "efg_pct": 0.487,
+      "tov_pct": 16.8,
+      "orb_pct": 29.5,
+      "ft_rate": 0.311
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "San Francisco": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "San Francisco",
+    "seed": 10,
+    "region": "East",
+    "conference": "WCC",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "24-10",
+      "conference": "10-6"
+    },
+    "strength_of_schedule": {
+      "rating": 5.24
+    },
+    "advanced": {
+      "srs": 14.12,
+      "offensive_rating": 108.7,
+      "defensive_rating": null,
+      "pace": 70.9,
+      "efg_pct": 0.537,
+      "tov_pct": 15.6,
+      "orb_pct": 30.2,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Seton Hall": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Seton Hall",
+    "seed": 8,
+    "region": "South",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-11",
+      "conference": "11-8"
+    },
+    "strength_of_schedule": {
+      "rating": 8.52
+    },
+    "advanced": {
+      "srs": 12.75,
+      "offensive_rating": 104.3,
+      "defensive_rating": null,
+      "pace": 68.7,
+      "efg_pct": 0.481,
+      "tov_pct": 14.9,
+      "orb_pct": 32.6,
+      "ft_rate": 0.312
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "South Dakota State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "South Dakota State",
+    "seed": 13,
+    "region": "Midwest",
+    "conference": "Summit",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "30-5",
+      "conference": "18-0"
+    },
+    "strength_of_schedule": {
+      "rating": -3.77
+    },
+    "advanced": {
+      "srs": 6.6,
+      "offensive_rating": 119.3,
+      "defensive_rating": null,
+      "pace": 71.7,
+      "efg_pct": 0.6,
+      "tov_pct": 13.8,
+      "orb_pct": 24.0,
+      "ft_rate": 0.333
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "USC": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "USC",
+    "seed": 7,
+    "region": "Midwest",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "26-8",
+      "conference": "14-6"
+    },
+    "strength_of_schedule": {
+      "rating": 6.09
+    },
+    "advanced": {
+      "srs": 12.5,
+      "offensive_rating": 106.5,
+      "defensive_rating": null,
+      "pace": 67.5,
+      "efg_pct": 0.512,
+      "tov_pct": 15.3,
+      "orb_pct": 33.5,
+      "ft_rate": 0.309
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "TCU": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "TCU",
+    "seed": 9,
+    "region": "South",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "21-13",
+      "conference": "8-10"
+    },
+    "strength_of_schedule": {
+      "rating": 10.16
+    },
+    "advanced": {
+      "srs": 13.72,
+      "offensive_rating": 101.1,
+      "defensive_rating": null,
+      "pace": 67.2,
+      "efg_pct": 0.487,
+      "tov_pct": 17.9,
+      "orb_pct": 37.8,
+      "ft_rate": 0.314
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": true,
+      "upset_suffered": false
+    }
+  },
+  "Tennessee": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Tennessee",
+    "seed": 3,
+    "region": "South",
+    "conference": "SEC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": 9.94
+    },
+    "advanced": {
+      "srs": 20.46,
+      "offensive_rating": 106.2,
+      "defensive_rating": null,
+      "pace": 68.6,
+      "efg_pct": 0.507,
+      "tov_pct": 15.2,
+      "orb_pct": 32.5,
+      "ft_rate": 0.29
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Texas",
+    "seed": 6,
+    "region": "East",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "22-12",
+      "conference": "10-8"
+    },
+    "strength_of_schedule": {
+      "rating": 8.87
+    },
+    "advanced": {
+      "srs": 17.01,
+      "offensive_rating": 105.9,
+      "defensive_rating": null,
+      "pace": 64.5,
+      "efg_pct": 0.501,
+      "tov_pct": 15.3,
+      "orb_pct": 31.5,
+      "ft_rate": 0.32
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas Southern": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Texas Southern",
+    "seed": 16,
+    "region": "Midwest",
+    "conference": "SWAC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "19-13",
+      "conference": "13-5"
+    },
+    "strength_of_schedule": {
+      "rating": -6.24
+    },
+    "advanced": {
+      "srs": -3.3,
+      "offensive_rating": 98.6,
+      "defensive_rating": null,
+      "pace": 69.7,
+      "efg_pct": 0.482,
+      "tov_pct": 18.2,
+      "orb_pct": 33.0,
+      "ft_rate": 0.336
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Texas Tech": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Texas Tech",
+    "seed": 3,
+    "region": "West",
+    "conference": "Big 12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-10",
+      "conference": "12-6"
+    },
+    "strength_of_schedule": {
+      "rating": 8.65
+    },
+    "advanced": {
+      "srs": 20.08,
+      "offensive_rating": 106.0,
+      "defensive_rating": null,
+      "pace": 67.3,
+      "efg_pct": 0.526,
+      "tov_pct": 17.2,
+      "orb_pct": 33.2,
+      "ft_rate": 0.351
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UAB": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "UAB",
+    "seed": 12,
+    "region": "South",
+    "conference": "CUSA(West)",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "27-8",
+      "conference": "14-4"
+    },
+    "strength_of_schedule": {
+      "rating": -0.14
+    },
+    "advanced": {
+      "srs": 10.9,
+      "offensive_rating": 112.9,
+      "defensive_rating": null,
+      "pace": 70.4,
+      "efg_pct": 0.53,
+      "tov_pct": 13.8,
+      "orb_pct": 33.7,
+      "ft_rate": 0.284
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "UCLA": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "UCLA",
+    "seed": 4,
+    "region": "East",
+    "conference": "Pac-12",
+    "conf_champion": false,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "27-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 8.36
+    },
+    "advanced": {
+      "srs": 19.3,
+      "offensive_rating": 111.4,
+      "defensive_rating": null,
+      "pace": 66.5,
+      "efg_pct": 0.505,
+      "tov_pct": 11.3,
+      "orb_pct": 31.4,
+      "ft_rate": 0.294
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Sweet Sixteen",
+      "wins": 2,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Vermont": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Vermont",
+    "seed": 13,
+    "region": "West",
+    "conference": "AmEast",
+    "conf_champion": true,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "28-6",
+      "conference": "17-1"
+    },
+    "strength_of_schedule": {
+      "rating": -5.7
+    },
+    "advanced": {
+      "srs": 7.81,
+      "offensive_rating": 114.4,
+      "defensive_rating": null,
+      "pace": 65.1,
+      "efg_pct": 0.57,
+      "tov_pct": 13.2,
+      "orb_pct": 24.3,
+      "ft_rate": 0.265
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Villanova": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Villanova",
+    "seed": 2,
+    "region": "South",
+    "conference": "Big East",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "30-8",
+      "conference": "16-4"
+    },
+    "strength_of_schedule": {
+      "rating": 10.29
+    },
+    "advanced": {
+      "srs": 19.31,
+      "offensive_rating": 112.4,
+      "defensive_rating": null,
+      "pace": 63.6,
+      "efg_pct": 0.515,
+      "tov_pct": 13.4,
+      "orb_pct": 31.2,
+      "ft_rate": 0.298
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Final Four",
+      "wins": 4,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Virginia Tech": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Virginia Tech",
+    "seed": 11,
+    "region": "East",
+    "conference": "ACC",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "23-13",
+      "conference": "11-9"
+    },
+    "strength_of_schedule": {
+      "rating": 6.48
+    },
+    "advanced": {
+      "srs": 14.48,
+      "offensive_rating": 111.0,
+      "defensive_rating": null,
+      "pace": 63.6,
+      "efg_pct": 0.551,
+      "tov_pct": 15.0,
+      "orb_pct": 27.9,
+      "ft_rate": 0.245
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Wisconsin": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Wisconsin",
+    "seed": 3,
+    "region": "Midwest",
+    "conference": "Big Ten",
+    "conf_champion": true,
+    "conf_tourn_champion": false,
+    "record": {
+      "overall": "25-8",
+      "conference": "15-5"
+    },
+    "strength_of_schedule": {
+      "rating": 9.16
+    },
+    "advanced": {
+      "srs": 13.13,
+      "offensive_rating": 104.4,
+      "defensive_rating": null,
+      "pace": 67.0,
+      "efg_pct": 0.477,
+      "tov_pct": 11.4,
+      "orb_pct": 26.0,
+      "ft_rate": 0.324
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "Second Round",
+      "wins": 1,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Wright State": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Wright State",
+    "seed": 16,
+    "region": "South",
+    "conference": "Horizon",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "22-14",
+      "conference": "15-7"
+    },
+    "strength_of_schedule": {
+      "rating": -5.11
+    },
+    "advanced": {
+      "srs": -1.94,
+      "offensive_rating": 108.3,
+      "defensive_rating": null,
+      "pace": 70.0,
+      "efg_pct": 0.516,
+      "tov_pct": 15.2,
+      "orb_pct": 30.8,
+      "ft_rate": 0.318
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  },
+  "Yale": {
+    "year": 2022,
+    "tournament": "mens",
+    "team": "Yale",
+    "seed": 14,
+    "region": "East",
+    "conference": "Ivy",
+    "conf_champion": false,
+    "conf_tourn_champion": true,
+    "record": {
+      "overall": "19-12",
+      "conference": "11-3"
+    },
+    "strength_of_schedule": {
+      "rating": -1.34
+    },
+    "advanced": {
+      "srs": -0.1,
+      "offensive_rating": 101.8,
+      "defensive_rating": null,
+      "pace": 70.3,
+      "efg_pct": 0.501,
+      "tov_pct": 16.1,
+      "orb_pct": 25.7,
+      "ft_rate": 0.321
+    },
+    "momentum": {
+      "last_10": null
+    },
+    "nba_prospects": null,
+    "coach": {
+      "name": null,
+      "years_experience": null,
+      "prior_tournament_appearances": null
+    },
+    "tournament_result": {
+      "round_reached": "First Round",
+      "wins": 0,
+      "losses": 1,
+      "upset_caused": false,
+      "upset_suffered": false
+    }
+  }
+}

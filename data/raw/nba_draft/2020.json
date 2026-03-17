@@ -1,0 +1,472 @@
+[
+  {
+    "player": "Anthony Edwards",
+    "college": "Georgia",
+    "draft_year": 2020
+  },
+  {
+    "player": "James Wiseman",
+    "college": "Memphis",
+    "draft_year": 2020
+  },
+  {
+    "player": "Patrick Williams",
+    "college": "Florida State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Isaac Okoro",
+    "college": "Auburn",
+    "draft_year": 2020
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "college": "USC",
+    "draft_year": 2020
+  },
+  {
+    "player": "Obi Toppin",
+    "college": "Dayton",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jalen Smith",
+    "college": "Maryland",
+    "draft_year": 2020
+  },
+  {
+    "player": "Devin Vassell",
+    "college": "Florida State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Tyrese Haliburton",
+    "college": "Iowa State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Kira Lewis Jr.",
+    "college": "Alabama",
+    "draft_year": 2020
+  },
+  {
+    "player": "Aaron Nesmith",
+    "college": "Vanderbilt",
+    "draft_year": 2020
+  },
+  {
+    "player": "Cole Anthony",
+    "college": "UNC",
+    "draft_year": 2020
+  },
+  {
+    "player": "Isaiah Stewart",
+    "college": "Washington",
+    "draft_year": 2020
+  },
+  {
+    "player": "Josh Green",
+    "college": "Arizona",
+    "draft_year": 2020
+  },
+  {
+    "player": "Saddiq Bey",
+    "college": "Villanova",
+    "draft_year": 2020
+  },
+  {
+    "player": "Precious Achiuwa",
+    "college": "Memphis",
+    "draft_year": 2020
+  },
+  {
+    "player": "Tyrese Maxey",
+    "college": "Kentucky",
+    "draft_year": 2020
+  },
+  {
+    "player": "Zeke Nnaji",
+    "college": "Arizona",
+    "draft_year": 2020
+  },
+  {
+    "player": "Immanuel Quickley",
+    "college": "Kentucky",
+    "draft_year": 2020
+  },
+  {
+    "player": "Payton Pritchard",
+    "college": "Oregon",
+    "draft_year": 2020
+  },
+  {
+    "player": "Udoka Azubuike",
+    "college": "Kansas",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jaden McDaniels",
+    "college": "Washington",
+    "draft_year": 2020
+  },
+  {
+    "player": "Malachi Flynn",
+    "college": "San Diego State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Desmond Bane",
+    "college": "TCU",
+    "draft_year": 2020
+  },
+  {
+    "player": "Tyrell Terry",
+    "college": "Stanford",
+    "draft_year": 2020
+  },
+  {
+    "player": "Vernon Carey Jr.",
+    "college": "Duke",
+    "draft_year": 2020
+  },
+  {
+    "player": "Daniel Oturu",
+    "college": "Minnesota",
+    "draft_year": 2020
+  },
+  {
+    "player": "Xavier Tillman",
+    "college": "Michigan State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Tyler Bey",
+    "college": "Colorado",
+    "draft_year": 2020
+  },
+  {
+    "player": "Saben Lee",
+    "college": "Vanderbilt",
+    "draft_year": 2020
+  },
+  {
+    "player": "Elijah Hughes",
+    "college": "Syracuse",
+    "draft_year": 2020
+  },
+  {
+    "player": "Robert Woodard II",
+    "college": "Mississippi St.",
+    "draft_year": 2020
+  },
+  {
+    "player": "Tre Jones",
+    "college": "Duke",
+    "draft_year": 2020
+  },
+  {
+    "player": "Nick Richards",
+    "college": "Kentucky",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jahmi'us Ramsey",
+    "college": "Texas Tech",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jordan Nwora",
+    "college": "Louisville",
+    "draft_year": 2020
+  },
+  {
+    "player": "C. J. Elleby",
+    "college": "Washington State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Nico Mannion",
+    "college": "Arizona",
+    "draft_year": 2020
+  },
+  {
+    "player": "Isaiah Joe",
+    "college": "Arkansas",
+    "draft_year": 2020
+  },
+  {
+    "player": "Skylar Mays",
+    "college": "LSU",
+    "draft_year": 2020
+  },
+  {
+    "player": "Justinian Jessup",
+    "college": "Boise State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Kenyon Martin Jr.",
+    "college": "IMG Academy",
+    "draft_year": 2020
+  },
+  {
+    "player": "Cassius Winston",
+    "college": "Michigan State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Cassius Stanley",
+    "college": "Duke",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jay Scrubb",
+    "college": "John A. Logan",
+    "draft_year": 2020
+  },
+  {
+    "player": "Grant Riller",
+    "college": "College of Charleston",
+    "draft_year": 2020
+  },
+  {
+    "player": "Reggie Perry",
+    "college": "Mississippi St.",
+    "draft_year": 2020
+  },
+  {
+    "player": "Paul Reed",
+    "college": "DePaul",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jalen Harris",
+    "college": "Nevada",
+    "draft_year": 2020
+  },
+  {
+    "player": "Sam Merrill",
+    "college": "Utah State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Ty-Shon Alexander",
+    "college": "Creighton",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jarron Cumberland",
+    "college": "Cincinnati",
+    "draft_year": 2020
+  },
+  {
+    "player": "Nate Darling",
+    "college": "Delaware",
+    "draft_year": 2020
+  },
+  {
+    "player": "Javin DeLaurier",
+    "college": "Duke",
+    "draft_year": 2020
+  },
+  {
+    "player": "Mamadi Diakite",
+    "college": "Virginia",
+    "draft_year": 2020
+  },
+  {
+    "player": "Devon Dotson",
+    "college": "Kansas",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jeff Dowtin Jr.",
+    "college": "Rhode Island",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jaime Echenique",
+    "college": "Wichita State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Rob Edwards",
+    "college": "Arizona State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Malik Fitts",
+    "college": "Saint Mary's",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jordan Ford",
+    "college": "Saint Mary's",
+    "draft_year": 2020
+  },
+  {
+    "player": "Trent Forrest",
+    "college": "Florida State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Freddie Gillespie",
+    "college": "Baylor",
+    "draft_year": 2020
+  },
+  {
+    "player": "Ashton Hagans",
+    "college": "Kentucky",
+    "draft_year": 2020
+  },
+  {
+    "player": "Josh Hall",
+    "college": "Moravian Prep (NC) (H.S. Postgraduate)",
+    "draft_year": 2020
+  },
+  {
+    "player": "Kevon Harris",
+    "college": "Stephen F. Austin",
+    "draft_year": 2020
+  },
+  {
+    "player": "Nate Hinton",
+    "college": "Houston",
+    "draft_year": 2020
+  },
+  {
+    "player": "Markus Howard",
+    "college": "Marquette",
+    "draft_year": 2020
+  },
+  {
+    "player": "Mason Jones",
+    "college": "Arkansas",
+    "draft_year": 2020
+  },
+  {
+    "player": "Kylor Kelley",
+    "college": "Oregon State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Braxton Key",
+    "college": "Virginia",
+    "draft_year": 2020
+  },
+  {
+    "player": "Nathan Knight",
+    "college": "William & Mary",
+    "draft_year": 2020
+  },
+  {
+    "player": "Anthony Lamb",
+    "college": "Vermont",
+    "draft_year": 2020
+  },
+  {
+    "player": "Karim Man\u00e9",
+    "college": "Vanier College (HS Sr.)",
+    "draft_year": 2020
+  },
+  {
+    "player": "Naji Marshall",
+    "college": "Xavier",
+    "draft_year": 2020
+  },
+  {
+    "player": "Sean McDermott",
+    "college": "Butler",
+    "draft_year": 2020
+  },
+  {
+    "player": "Cameron McGriff",
+    "college": "Oklahoma State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Ade Murkey",
+    "college": "Denver",
+    "draft_year": 2020
+  },
+  {
+    "player": "Myles Powell",
+    "college": "Seton Hall",
+    "draft_year": 2020
+  },
+  {
+    "player": "Trevelin Queen",
+    "college": "New Mexico State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jackson Rowe",
+    "college": "CS Fullerton",
+    "draft_year": 2020
+  },
+  {
+    "player": "Matt Ryan",
+    "college": "Chattanooga",
+    "draft_year": 2020
+  },
+  {
+    "player": "Trevon Scott",
+    "college": "Cincinnati",
+    "draft_year": 2020
+  },
+  {
+    "player": "Zavier Simpson",
+    "college": "Michigan",
+    "draft_year": 2020
+  },
+  {
+    "player": "Dmytro Skapintsev",
+    "college": "Cherkaski Mavpy",
+    "draft_year": 2020
+  },
+  {
+    "player": "Xavier Sneed",
+    "college": "Kansas State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Pat Spencer",
+    "college": "Northwestern",
+    "draft_year": 2020
+  },
+  {
+    "player": "Lamar Stevens",
+    "college": "Penn State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jon Teske",
+    "college": "Michigan",
+    "draft_year": 2020
+  },
+  {
+    "player": "Brodric Thomas",
+    "college": "Truman",
+    "draft_year": 2020
+  },
+  {
+    "player": "Killian Tillie",
+    "college": "Gonzaga",
+    "draft_year": 2020
+  },
+  {
+    "player": "Lindy Waters III",
+    "college": "Oklahoma State",
+    "draft_year": 2020
+  },
+  {
+    "player": "Jack White",
+    "college": "Duke",
+    "draft_year": 2020
+  },
+  {
+    "player": "\u00d6mer Yurtseven",
+    "college": "Georgetown",
+    "draft_year": 2020
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "player": "Cade Cunningham",
+    "college": "Oklahoma State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Evan Mobley",
+    "college": "USC",
+    "draft_year": 2021
+  },
+  {
+    "player": "Scottie Barnes",
+    "college": "Florida State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jalen Suggs",
+    "college": "Gonzaga",
+    "draft_year": 2021
+  },
+  {
+    "player": "Franz Wagner",
+    "college": "Michigan",
+    "draft_year": 2021
+  },
+  {
+    "player": "Davion Mitchell",
+    "college": "Baylor",
+    "draft_year": 2021
+  },
+  {
+    "player": "Ziaire Williams",
+    "college": "Stanford",
+    "draft_year": 2021
+  },
+  {
+    "player": "James Bouknight",
+    "college": "UConn",
+    "draft_year": 2021
+  },
+  {
+    "player": "Joshua Primo",
+    "college": "Alabama",
+    "draft_year": 2021
+  },
+  {
+    "player": "Chris Duarte",
+    "college": "Oregon",
+    "draft_year": 2021
+  },
+  {
+    "player": "Moses Moody",
+    "college": "Arkansas",
+    "draft_year": 2021
+  },
+  {
+    "player": "Corey Kispert",
+    "college": "Gonzaga",
+    "draft_year": 2021
+  },
+  {
+    "player": "Trey Murphy III",
+    "college": "Virginia",
+    "draft_year": 2021
+  },
+  {
+    "player": "Tre Mann",
+    "college": "Florida",
+    "draft_year": 2021
+  },
+  {
+    "player": "Kai Jones",
+    "college": "Texas",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jalen Johnson",
+    "college": "Duke",
+    "draft_year": 2021
+  },
+  {
+    "player": "Keon Johnson",
+    "college": "Tennessee",
+    "draft_year": 2021
+  },
+  {
+    "player": "Isaiah Jackson",
+    "college": "Kentucky",
+    "draft_year": 2021
+  },
+  {
+    "player": "Josh Christopher",
+    "college": "Arizona State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Quentin Grimes",
+    "college": "Houston",
+    "draft_year": 2021
+  },
+  {
+    "player": "Bones Hyland",
+    "college": "VCU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Cam Thomas",
+    "college": "LSU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jaden Springer",
+    "college": "Tennessee",
+    "draft_year": 2021
+  },
+  {
+    "player": "Day'Ron Sharpe",
+    "college": "UNC",
+    "draft_year": 2021
+  },
+  {
+    "player": "Santi Aldama",
+    "college": "Loyola Maryland",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jeremiah Robinson-Earl",
+    "college": "Villanova",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jason Preston",
+    "college": "Ohio",
+    "draft_year": 2021
+  },
+  {
+    "player": "Herbert Jones",
+    "college": "Alabama",
+    "draft_year": 2021
+  },
+  {
+    "player": "Miles McBride",
+    "college": "West Virginia",
+    "draft_year": 2021
+  },
+  {
+    "player": "JT Thor",
+    "college": "Auburn",
+    "draft_year": 2021
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "college": "Illinois",
+    "draft_year": 2021
+  },
+  {
+    "player": "Neemias Queta",
+    "college": "Utah State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jared Butler",
+    "college": "Baylor",
+    "draft_year": 2021
+  },
+  {
+    "player": "Joe Wieskamp",
+    "college": "Iowa",
+    "draft_year": 2021
+  },
+  {
+    "player": "Isaiah Livers",
+    "college": "Michigan",
+    "draft_year": 2021
+  },
+  {
+    "player": "Greg Brown",
+    "college": "Texas",
+    "draft_year": 2021
+  },
+  {
+    "player": "Kessler Edwards",
+    "college": "Pepperdine",
+    "draft_year": 2021
+  },
+  {
+    "player": "Dalano Banton",
+    "college": "Nebraska",
+    "draft_year": 2021
+  },
+  {
+    "player": "David Johnson",
+    "college": "Louisville",
+    "draft_year": 2021
+  },
+  {
+    "player": "Sharife Cooper",
+    "college": "Auburn",
+    "draft_year": 2021
+  },
+  {
+    "player": "Marcus Zegarowski",
+    "college": "Creighton",
+    "draft_year": 2021
+  },
+  {
+    "player": "Brandon Boston Jr.",
+    "college": "Kentucky",
+    "draft_year": 2021
+  },
+  {
+    "player": "Luka Garza",
+    "college": "Iowa",
+    "draft_year": 2021
+  },
+  {
+    "player": "Charles Bassey",
+    "college": "Western Kentucky",
+    "draft_year": 2021
+  },
+  {
+    "player": "Sandro Mamukelashvili",
+    "college": "Seton Hall",
+    "draft_year": 2021
+  },
+  {
+    "player": "Aaron Wiggins",
+    "college": "Maryland",
+    "draft_year": 2021
+  },
+  {
+    "player": "Scottie Lewis",
+    "college": "Florida",
+    "draft_year": 2021
+  },
+  {
+    "player": "Bal\u0161a Koprivica",
+    "college": "Florida State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jericho Sims",
+    "college": "Texas",
+    "draft_year": 2021
+  },
+  {
+    "player": "RaiQuan Gray",
+    "college": "Florida State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jose Alvarado",
+    "college": "Georgia Tech",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jo\u00ebl Ayayi",
+    "college": "Gonzaga",
+    "draft_year": 2021
+  },
+  {
+    "player": "Chaundee Brown Jr.",
+    "college": "Michigan",
+    "draft_year": 2021
+  },
+  {
+    "player": "D. J. Carton",
+    "college": "Marquette",
+    "draft_year": 2021
+  },
+  {
+    "player": "Justin Champagnie",
+    "college": "Pitt",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jalen Crutcher",
+    "college": "Dayton",
+    "draft_year": 2021
+  },
+  {
+    "player": "David Duke Jr.",
+    "college": "Providence",
+    "draft_year": 2021
+  },
+  {
+    "player": "Aleem Ford",
+    "college": "Wisconsin",
+    "draft_year": 2021
+  },
+  {
+    "player": "Marcus Garrett",
+    "college": "Kansas",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jordan Goodwin",
+    "college": "Saint Louis",
+    "draft_year": 2021
+  },
+  {
+    "player": "Sam Hauser",
+    "college": "Virginia",
+    "draft_year": 2021
+  },
+  {
+    "player": "Aaron Henry",
+    "college": "Michigan State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jay Huff",
+    "college": "Virginia",
+    "draft_year": 2021
+  },
+  {
+    "player": "Feron Hunt",
+    "college": "SMU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Matthew Hurt",
+    "college": "Duke",
+    "draft_year": 2021
+  },
+  {
+    "player": "DeJon Jarreau",
+    "college": "Houston",
+    "draft_year": 2021
+  },
+  {
+    "player": "Carlik Jones",
+    "college": "Louisville",
+    "draft_year": 2021
+  },
+  {
+    "player": "AJ Lawson",
+    "college": "South Carolina",
+    "draft_year": 2021
+  },
+  {
+    "player": "Mac McClung",
+    "college": "Texas Tech",
+    "draft_year": 2021
+  },
+  {
+    "player": "JaQuori McLaughlin",
+    "college": "UC Santa Barbara",
+    "draft_year": 2021
+  },
+  {
+    "player": "RJ Nembhard",
+    "college": "TCU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Eugene Omoruyi",
+    "college": "Oregon",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jamorko Pickett",
+    "college": "Georgetown",
+    "draft_year": 2021
+  },
+  {
+    "player": "Yves Pons",
+    "college": "Tennessee",
+    "draft_year": 2021
+  },
+  {
+    "player": "Micah Potter",
+    "college": "Wisconsin",
+    "draft_year": 2021
+  },
+  {
+    "player": "Austin Reaves",
+    "college": "Oklahoma",
+    "draft_year": 2021
+  },
+  {
+    "player": "Alex Reese",
+    "college": "Alabama",
+    "draft_year": 2021
+  },
+  {
+    "player": "Olivier Sarr",
+    "college": "Kentucky",
+    "draft_year": 2021
+  },
+  {
+    "player": "Jordan Schakel",
+    "college": "San Diego State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Javonte Smart",
+    "college": "LSU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Dru Smith",
+    "college": "Missouri",
+    "draft_year": 2021
+  },
+  {
+    "player": "Terry Taylor",
+    "college": "Austin Peay",
+    "draft_year": 2021
+  },
+  {
+    "player": "Ethan Thompson",
+    "college": "Oregon State",
+    "draft_year": 2021
+  },
+  {
+    "player": "M. J. Walker",
+    "college": "Florida State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Keaton Wallace",
+    "college": "UTSA",
+    "draft_year": 2021
+  },
+  {
+    "player": "Duane Washington Jr.",
+    "college": "Ohio State",
+    "draft_year": 2021
+  },
+  {
+    "player": "Trendon Watford",
+    "college": "LSU",
+    "draft_year": 2021
+  },
+  {
+    "player": "Phillip Wheeler",
+    "college": "Ranney School",
+    "draft_year": 2021
+  },
+  {
+    "player": "Brandon Williams",
+    "college": "Arizona",
+    "draft_year": 2021
+  },
+  {
+    "player": "McKinley Wright IV",
+    "college": "Colorado",
+    "draft_year": 2021
+  },
+  {
+    "player": "Moses Wright",
+    "college": "Georgia Tech",
+    "draft_year": 2021
+  }
+]
