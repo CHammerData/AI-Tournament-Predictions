@@ -1,0 +1,193 @@
+gender: womens
+years:
+- 2014
+- 2015
+- 2016
+- 2017
+- 2018
+- 2019
+- 2021
+- 2022
+- 2023
+- 2024
+- 2025
+n_games: 1336
+seed_baseline: 0.787
+aggregate:
+  lr_accuracy: 0.837
+  lr_log_loss: 0.334
+  lr_brier: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    gZVDi2znuz8=
+  lr_auc: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7nw/NV667T8=
+  xgb_accuracy: 0.82
+  xgb_log_loss: 0.374
+  xgb_brier: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CKwcWmQ7vz8=
+  xgb_auc: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOkm7T8=
+  ens_accuracy: 0.829
+  ens_log_loss: 0.349
+  ens_brier: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yXa+nxovvT8=
+  ens_auc: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gy/dJAaB7T8=
+per_round_ens:
+  First Round:
+    games: 349
+    accuracy: 0.831
+  Second Round:
+    games: 176
+    accuracy: 0.824
+  Sweet Sixteen:
+    games: 88
+    accuracy: 0.807
+  Elite Eight:
+    games: 44
+    accuracy: 0.841
+  Championship:
+    games: 11
+    accuracy: 0.909
+per_year:
+  2014:
+    n_games: 118
+    acc_lr: 0.864
+    acc_xgb: 0.856
+    acc_ens: 0.881
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4XoUrkfhuj8=
+  2015:
+    n_games: 122
+    acc_lr: 0.852
+    acc_xgb: 0.836
+    acc_ens: 0.844
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      2c73U+Oluz8=
+  2016:
+    n_games: 122
+    acc_lr: 0.77
+    acc_xgb: 0.73
+    acc_ens: 0.738
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      kxgEVg4twj8=
+  2017:
+    n_games: 122
+    acc_lr: 0.852
+    acc_xgb: 0.861
+    acc_ens: 0.869
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      CtejcD0Ktz8=
+  2018:
+    n_games: 122
+    acc_lr: 0.869
+    acc_xgb: 0.844
+    acc_ens: 0.852
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4XoUrkfhuj8=
+  2019:
+    n_games: 122
+    acc_lr: 0.82
+    acc_xgb: 0.82
+    acc_ens: 0.82
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      uB6F61G4vj8=
+  2021:
+    n_games: 122
+    acc_lr: 0.852
+    acc_xgb: 0.828
+    acc_ens: 0.852
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      2c73U+Oluz8=
+  2022:
+    n_games: 120
+    acc_lr: 0.817
+    acc_xgb: 0.775
+    acc_ens: 0.8
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      UI2XbhKDwD8=
+  2023:
+    n_games: 122
+    acc_lr: 0.803
+    acc_xgb: 0.779
+    acc_ens: 0.77
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      JzEIrBxaxD8=
+  2024:
+    n_games: 122
+    acc_lr: 0.869
+    acc_xgb: 0.869
+    acc_ens: 0.869
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      EoPAyqFFtj8=
+  2025:
+    n_games: 122
+    acc_lr: 0.836
+    acc_xgb: 0.828
+    acc_ens: 0.828
+    brier_ens: !!python/object/apply:numpy.core.multiarray.scalar
+    - *id001
+    - !!binary |
+      okW28/3UuD8=
+xgb_feature_importances:
+  srs_diff: 0.2985
+  prospect_diff: 0.1222
+  drtg_diff: 0.0642
+  sos_diff: 0.0633
+  seed_diff: 0.0613
+  win_pct_diff: 0.0461
+  conf_win_pct_diff: 0.0404
+  pace_diff: 0.0366
+  conf_tourn_champion_a: 0.0332
+  ortg_diff: 0.0327
+  ft_rate_diff: 0.032
+  orb_pct_diff: 0.0309
+  efg_pct_diff: 0.0305
+  tov_pct_diff: 0.0294
+  conf_champion_b: 0.029
+  conf_tourn_champion_b: 0.028
+  conf_champion_a: 0.0218

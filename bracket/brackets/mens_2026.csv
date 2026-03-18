@@ -1,0 +1,60 @@
+round,round_name,region,winner,loser,winner_seed,loser_seed,win_prob,upset
+1,First Round,East,Duke,Siena,1,16,0.986,False
+1,First Round,East,Ohio State,TCU,8,9,0.707,False
+1,First Round,East,St. John's,Northern Iowa,5,12,0.919,False
+1,First Round,East,Kansas,California Baptist,4,13,0.972,False
+1,First Round,East,Louisville,South Florida,6,11,0.87,False
+1,First Round,East,Michigan State,North Dakota State,3,14,0.942,False
+1,First Round,East,UCLA,UCF,7,10,0.609,False
+1,First Round,East,UConn,Furman,2,15,0.991,False
+1,First Round,Midwest,Saint Louis,Georgia,9,8,0.598,True
+1,First Round,Midwest,Texas Tech,Akron,5,12,0.833,False
+1,First Round,Midwest,Alabama,Hofstra,4,13,0.95,False
+1,First Round,Midwest,Virginia,Wright State,3,14,0.986,False
+1,First Round,Midwest,Santa Clara,Kentucky,10,7,0.62,True
+1,First Round,Midwest,Iowa State,Tennessee State,2,15,0.972,False
+1,First Round,South,Iowa,Clemson,9,8,0.625,True
+1,First Round,South,Vanderbilt,McNeese,5,12,0.932,False
+1,First Round,South,Nebraska,Troy,4,13,0.993,False
+1,First Round,South,UNC,VCU,6,11,0.802,False
+1,First Round,South,Illinois,Penn,3,14,0.973,False
+1,First Round,South,Saint Mary's,Texas A&M,7,10,0.697,False
+1,First Round,South,Houston,Idaho,2,15,0.984,False
+1,First Round,West,Arizona,LIU,1,16,0.991,False
+1,First Round,West,Villanova,Utah State,8,9,0.583,False
+1,First Round,West,Wisconsin,High Point,5,12,0.876,False
+1,First Round,West,Arkansas,Hawaii,4,13,0.967,False
+1,First Round,West,Gonzaga,Kennesaw State,3,14,0.952,False
+1,First Round,West,Miami,Missouri,7,10,0.75,False
+1,First Round,West,Purdue,Queens (NC),2,15,0.98,False
+2,Second Round,East,Duke,Ohio State,1,8,0.952,False
+2,Second Round,East,St. John's,Kansas,5,4,0.569,True
+2,Second Round,East,Michigan State,Louisville,3,6,0.633,False
+2,Second Round,East,UConn,UCLA,2,7,0.713,False
+2,Second Round,Midwest,Michigan,Saint Louis,1,9,0.951,False
+2,Second Round,Midwest,Texas Tech,Alabama,5,4,0.571,True
+2,Second Round,Midwest,Virginia,Tennessee,3,6,0.681,False
+2,Second Round,Midwest,Iowa State,Santa Clara,2,10,0.763,False
+2,Second Round,South,Florida,Iowa,1,9,0.802,False
+2,Second Round,South,Vanderbilt,Nebraska,5,4,0.564,True
+2,Second Round,South,Illinois,UNC,3,6,0.678,False
+2,Second Round,South,Houston,Saint Mary's,2,7,0.828,False
+2,Second Round,West,Arizona,Villanova,1,8,0.921,False
+2,Second Round,West,Arkansas,Wisconsin,4,5,0.699,False
+2,Second Round,West,Gonzaga,BYU,3,6,0.717,False
+2,Second Round,West,Purdue,Miami,2,7,0.832,False
+3,Sweet Sixteen,East,Duke,St. John's,1,5,0.862,False
+3,Sweet Sixteen,East,UConn,Michigan State,2,3,0.537,False
+3,Sweet Sixteen,Midwest,Michigan,Texas Tech,1,5,0.935,False
+3,Sweet Sixteen,Midwest,Iowa State,Virginia,2,3,0.688,False
+3,Sweet Sixteen,South,Vanderbilt,Florida,5,1,0.509,True
+3,Sweet Sixteen,South,Houston,Illinois,2,3,0.686,False
+3,Sweet Sixteen,West,Arizona,Arkansas,1,4,0.885,False
+3,Sweet Sixteen,West,Purdue,Gonzaga,2,3,0.678,False
+4,Elite Eight,East,Duke,UConn,1,2,0.889,False
+4,Elite Eight,Midwest,Michigan,Iowa State,1,2,0.933,False
+4,Elite Eight,South,Houston,Vanderbilt,2,5,0.678,False
+4,Elite Eight,West,Arizona,Purdue,1,2,0.757,False
+5,Final Four,East vs Midwest,Michigan,Duke,1,1,0.673,False
+5,Final Four,South vs West,Arizona,Houston,1,2,0.776,False
+6,Championship,National,Michigan,Arizona,1,1,0.728,False
