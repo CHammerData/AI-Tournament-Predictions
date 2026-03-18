@@ -18,7 +18,7 @@
     "advanced": {
       "srs": -0.34,
       "offensive_rating": 106.4,
-      "defensive_rating": null,
+      "defensive_rating": 102.46,
       "pace": 61.2,
       "efg_pct": 0.499,
       "tov_pct": 16.2,
@@ -61,7 +61,7 @@
     "advanced": {
       "srs": 24.33,
       "offensive_rating": 114.8,
-      "defensive_rating": null,
+      "defensive_rating": 82.75,
       "pace": 66.5,
       "efg_pct": 0.535,
       "tov_pct": 14.2,
@@ -104,7 +104,7 @@
     "advanced": {
       "srs": 14.07,
       "offensive_rating": 109.6,
-      "defensive_rating": null,
+      "defensive_rating": 93.37,
       "pace": 70.1,
       "efg_pct": 0.5,
       "tov_pct": 14.3,
@@ -147,7 +147,7 @@
     "advanced": {
       "srs": 17.85,
       "offensive_rating": 109.2,
-      "defensive_rating": null,
+      "defensive_rating": 87.94,
       "pace": 62.8,
       "efg_pct": 0.497,
       "tov_pct": 16.4,
@@ -190,7 +190,7 @@
     "advanced": {
       "srs": 0.35,
       "offensive_rating": 109.9,
-      "defensive_rating": null,
+      "defensive_rating": 105.47,
       "pace": 67.5,
       "efg_pct": 0.567,
       "tov_pct": 17.8,
@@ -233,7 +233,7 @@
     "advanced": {
       "srs": 7.93,
       "offensive_rating": 108.5,
-      "defensive_rating": null,
+      "defensive_rating": 95.75,
       "pace": 68.7,
       "efg_pct": 0.487,
       "tov_pct": 14.1,
@@ -276,7 +276,7 @@
     "advanced": {
       "srs": 16.64,
       "offensive_rating": 105.9,
-      "defensive_rating": null,
+      "defensive_rating": 84.32,
       "pace": 64.2,
       "efg_pct": 0.484,
       "tov_pct": 14.3,
@@ -319,7 +319,7 @@
     "advanced": {
       "srs": 10.72,
       "offensive_rating": 102.8,
-      "defensive_rating": null,
+      "defensive_rating": 89.44,
       "pace": 59.6,
       "efg_pct": 0.495,
       "tov_pct": 17.7,
@@ -362,7 +362,7 @@
     "advanced": {
       "srs": -1.02,
       "offensive_rating": 110.0,
-      "defensive_rating": null,
+      "defensive_rating": 103.04,
       "pace": 65.2,
       "efg_pct": 0.5,
       "tov_pct": 15.0,
@@ -405,7 +405,7 @@
     "advanced": {
       "srs": 11.97,
       "offensive_rating": 117.1,
-      "defensive_rating": null,
+      "defensive_rating": 100.19,
       "pace": 67.2,
       "efg_pct": 0.556,
       "tov_pct": 12.2,
@@ -448,7 +448,7 @@
     "advanced": {
       "srs": 10.98,
       "offensive_rating": 105.1,
-      "defensive_rating": null,
+      "defensive_rating": 90.86,
       "pace": 64.2,
       "efg_pct": 0.53,
       "tov_pct": 16.1,
@@ -491,7 +491,7 @@
     "advanced": {
       "srs": 24.97,
       "offensive_rating": 119.4,
-      "defensive_rating": null,
+      "defensive_rating": 87.56,
       "pace": 65.9,
       "efg_pct": 0.566,
       "tov_pct": 13.9,
@@ -534,7 +534,7 @@
     "advanced": {
       "srs": 0.79,
       "offensive_rating": 117.1,
-      "defensive_rating": null,
+      "defensive_rating": 108.03,
       "pace": 68.3,
       "efg_pct": 0.562,
       "tov_pct": 13.6,
@@ -577,7 +577,7 @@
     "advanced": {
       "srs": 15.48,
       "offensive_rating": 108.1,
-      "defensive_rating": null,
+      "defensive_rating": 89.51,
       "pace": 64.6,
       "efg_pct": 0.513,
       "tov_pct": 16.4,
@@ -620,7 +620,7 @@
     "advanced": {
       "srs": 12.42,
       "offensive_rating": 102.8,
-      "defensive_rating": null,
+      "defensive_rating": 89.39,
       "pace": 64.9,
       "efg_pct": 0.485,
       "tov_pct": 16.5,
@@ -663,7 +663,7 @@
     "advanced": {
       "srs": 5.47,
       "offensive_rating": 109.8,
-      "defensive_rating": null,
+      "defensive_rating": 98.07,
       "pace": 64.3,
       "efg_pct": 0.527,
       "tov_pct": 14.2,
@@ -706,7 +706,7 @@
     "advanced": {
       "srs": 21.12,
       "offensive_rating": 120.3,
-      "defensive_rating": null,
+      "defensive_rating": 88.44,
       "pace": 65.2,
       "efg_pct": 0.584,
       "tov_pct": 13.9,
@@ -749,7 +749,7 @@
     "advanced": {
       "srs": -8.25,
       "offensive_rating": 96.1,
-      "defensive_rating": null,
+      "defensive_rating": 102.98,
       "pace": 69.5,
       "efg_pct": 0.456,
       "tov_pct": 17.3,
@@ -792,7 +792,7 @@
     "advanced": {
       "srs": 4.47,
       "offensive_rating": 103.2,
-      "defensive_rating": null,
+      "defensive_rating": 92.98,
       "pace": 61.2,
       "efg_pct": 0.481,
       "tov_pct": 16.0,
@@ -835,7 +835,7 @@
     "advanced": {
       "srs": 12.94,
       "offensive_rating": 115.3,
-      "defensive_rating": null,
+      "defensive_rating": 100.05,
       "pace": 66.9,
       "efg_pct": 0.544,
       "tov_pct": 14.6,
@@ -878,7 +878,7 @@
     "advanced": {
       "srs": 15.83,
       "offensive_rating": 107.4,
-      "defensive_rating": null,
+      "defensive_rating": 89.04,
       "pace": 64.5,
       "efg_pct": 0.481,
       "tov_pct": 14.4,
@@ -921,7 +921,7 @@
     "advanced": {
       "srs": 17.94,
       "offensive_rating": 111.4,
-      "defensive_rating": null,
+      "defensive_rating": 91.79,
       "pace": 69.8,
       "efg_pct": 0.543,
       "tov_pct": 13.9,
@@ -964,7 +964,7 @@
     "advanced": {
       "srs": 18.47,
       "offensive_rating": 106.3,
-      "defensive_rating": null,
+      "defensive_rating": 87.31,
       "pace": 66.7,
       "efg_pct": 0.494,
       "tov_pct": 16.3,
@@ -1007,7 +1007,7 @@
     "advanced": {
       "srs": 28.72,
       "offensive_rating": 115.5,
-      "defensive_rating": null,
+      "defensive_rating": 76.96,
       "pace": 63.7,
       "efg_pct": 0.515,
       "tov_pct": 13.6,
@@ -1050,7 +1050,7 @@
     "advanced": {
       "srs": -3.37,
       "offensive_rating": 112.9,
-      "defensive_rating": null,
+      "defensive_rating": 113.8,
       "pace": 64.8,
       "efg_pct": 0.557,
       "tov_pct": 15.1,
@@ -1093,7 +1093,7 @@
     "advanced": {
       "srs": 11.39,
       "offensive_rating": 103.1,
-      "defensive_rating": null,
+      "defensive_rating": 90.45,
       "pace": 69.6,
       "efg_pct": 0.503,
       "tov_pct": 17.3,
@@ -1136,7 +1136,7 @@
     "advanced": {
       "srs": 18.12,
       "offensive_rating": 104.5,
-      "defensive_rating": null,
+      "defensive_rating": 83.29,
       "pace": 65.5,
       "efg_pct": 0.477,
       "tov_pct": 14.4,
@@ -1179,7 +1179,7 @@
     "advanced": {
       "srs": 13.32,
       "offensive_rating": 106.1,
-      "defensive_rating": null,
+      "defensive_rating": 90.57,
       "pace": 64.7,
       "efg_pct": 0.512,
       "tov_pct": 16.7,
@@ -1222,7 +1222,7 @@
     "advanced": {
       "srs": 17.46,
       "offensive_rating": 109.7,
-      "defensive_rating": null,
+      "defensive_rating": 88.82,
       "pace": 63.0,
       "efg_pct": 0.532,
       "tov_pct": 14.9,
@@ -1265,7 +1265,7 @@
     "advanced": {
       "srs": 11.39,
       "offensive_rating": 107.9,
-      "defensive_rating": null,
+      "defensive_rating": 94.63,
       "pace": 67.0,
       "efg_pct": 0.478,
       "tov_pct": 13.9,
@@ -1308,7 +1308,7 @@
     "advanced": {
       "srs": 14.11,
       "offensive_rating": 108.0,
-      "defensive_rating": null,
+      "defensive_rating": 92.84,
       "pace": 64.5,
       "efg_pct": 0.493,
       "tov_pct": 13.5,
@@ -1351,7 +1351,7 @@
     "advanced": {
       "srs": 3.71,
       "offensive_rating": 107.4,
-      "defensive_rating": null,
+      "defensive_rating": 97.42,
       "pace": 62.9,
       "efg_pct": 0.509,
       "tov_pct": 18.2,
@@ -1394,7 +1394,7 @@
     "advanced": {
       "srs": 20.63,
       "offensive_rating": 111.6,
-      "defensive_rating": null,
+      "defensive_rating": 88.37,
       "pace": 69.2,
       "efg_pct": 0.516,
       "tov_pct": 15.1,
@@ -1437,7 +1437,7 @@
     "advanced": {
       "srs": -1.72,
       "offensive_rating": 103.7,
-      "defensive_rating": null,
+      "defensive_rating": 100.47,
       "pace": 61.9,
       "efg_pct": 0.501,
       "tov_pct": 14.0,
@@ -1480,7 +1480,7 @@
     "advanced": {
       "srs": 2.03,
       "offensive_rating": 106.7,
-      "defensive_rating": null,
+      "defensive_rating": 100.74,
       "pace": 63.5,
       "efg_pct": 0.545,
       "tov_pct": 19.0,
@@ -1523,7 +1523,7 @@
     "advanced": {
       "srs": 12.54,
       "offensive_rating": 111.9,
-      "defensive_rating": null,
+      "defensive_rating": 91.53,
       "pace": 57.4,
       "efg_pct": 0.559,
       "tov_pct": 15.9,
@@ -1566,7 +1566,7 @@
     "advanced": {
       "srs": 19.23,
       "offensive_rating": 120.4,
-      "defensive_rating": null,
+      "defensive_rating": 96.07,
       "pace": 63.7,
       "efg_pct": 0.583,
       "tov_pct": 12.9,
@@ -1609,7 +1609,7 @@
     "advanced": {
       "srs": 19.68,
       "offensive_rating": 113.3,
-      "defensive_rating": null,
+      "defensive_rating": 88.45,
       "pace": 66.0,
       "efg_pct": 0.542,
       "tov_pct": 14.6,
@@ -1652,7 +1652,7 @@
     "advanced": {
       "srs": 18.65,
       "offensive_rating": 105.2,
-      "defensive_rating": null,
+      "defensive_rating": 83.84,
       "pace": 67.4,
       "efg_pct": 0.493,
       "tov_pct": 15.1,
@@ -1695,7 +1695,7 @@
     "advanced": {
       "srs": 12.95,
       "offensive_rating": 103.6,
-      "defensive_rating": null,
+      "defensive_rating": 90.93,
       "pace": 64.6,
       "efg_pct": 0.507,
       "tov_pct": 16.6,
@@ -1738,7 +1738,7 @@
     "advanced": {
       "srs": 11.43,
       "offensive_rating": 109.3,
-      "defensive_rating": null,
+      "defensive_rating": 96.07,
       "pace": 68.0,
       "efg_pct": 0.524,
       "tov_pct": 14.7,
@@ -1781,7 +1781,7 @@
     "advanced": {
       "srs": 13.71,
       "offensive_rating": 105.4,
-      "defensive_rating": null,
+      "defensive_rating": 90.2,
       "pace": 65.7,
       "efg_pct": 0.484,
       "tov_pct": 15.3,
@@ -1824,7 +1824,7 @@
     "advanced": {
       "srs": 12.93,
       "offensive_rating": 106.4,
-      "defensive_rating": null,
+      "defensive_rating": 89.94,
       "pace": 65.0,
       "efg_pct": 0.502,
       "tov_pct": 16.8,
@@ -1867,7 +1867,7 @@
     "advanced": {
       "srs": -3.02,
       "offensive_rating": 102.6,
-      "defensive_rating": null,
+      "defensive_rating": 102.91,
       "pace": 66.7,
       "efg_pct": 0.501,
       "tov_pct": 17.2,
@@ -1910,7 +1910,7 @@
     "advanced": {
       "srs": 11.81,
       "offensive_rating": 100.7,
-      "defensive_rating": null,
+      "defensive_rating": 83.71,
       "pace": 60.8,
       "efg_pct": 0.467,
       "tov_pct": 15.4,
@@ -1953,7 +1953,7 @@
     "advanced": {
       "srs": 12.94,
       "offensive_rating": 108.8,
-      "defensive_rating": null,
+      "defensive_rating": 91.14,
       "pace": 63.3,
       "efg_pct": 0.517,
       "tov_pct": 16.8,
@@ -1996,7 +1996,7 @@
     "advanced": {
       "srs": 11.85,
       "offensive_rating": 104.6,
-      "defensive_rating": null,
+      "defensive_rating": 91.06,
       "pace": 67.6,
       "efg_pct": 0.494,
       "tov_pct": 13.7,
@@ -2039,7 +2039,7 @@
     "advanced": {
       "srs": 8.61,
       "offensive_rating": 115.2,
-      "defensive_rating": null,
+      "defensive_rating": 97.33,
       "pace": 68.0,
       "efg_pct": 0.557,
       "tov_pct": 17.5,
@@ -2082,7 +2082,7 @@
     "advanced": {
       "srs": 16.16,
       "offensive_rating": 105.9,
-      "defensive_rating": null,
+      "defensive_rating": 86.8,
       "pace": 62.9,
       "efg_pct": 0.491,
       "tov_pct": 16.8,
@@ -2125,7 +2125,7 @@
     "advanced": {
       "srs": -5.98,
       "offensive_rating": 103.6,
-      "defensive_rating": null,
+      "defensive_rating": 106.17,
       "pace": 64.5,
       "efg_pct": 0.495,
       "tov_pct": 16.8,
@@ -2168,7 +2168,7 @@
     "advanced": {
       "srs": 1.94,
       "offensive_rating": 101.5,
-      "defensive_rating": null,
+      "defensive_rating": 98.06,
       "pace": 65.9,
       "efg_pct": 0.477,
       "tov_pct": 16.8,
@@ -2211,7 +2211,7 @@
     "advanced": {
       "srs": 3.63,
       "offensive_rating": 105.2,
-      "defensive_rating": null,
+      "defensive_rating": 96.84,
       "pace": 63.7,
       "efg_pct": 0.52,
       "tov_pct": 15.8,
@@ -2254,7 +2254,7 @@
     "advanced": {
       "srs": 12.07,
       "offensive_rating": 106.1,
-      "defensive_rating": null,
+      "defensive_rating": 93.6,
       "pace": 67.3,
       "efg_pct": 0.496,
       "tov_pct": 14.9,
@@ -2297,7 +2297,7 @@
     "advanced": {
       "srs": 20.98,
       "offensive_rating": 113.5,
-      "defensive_rating": null,
+      "defensive_rating": 84.6,
       "pace": 62.6,
       "efg_pct": 0.557,
       "tov_pct": 16.1,
@@ -2340,7 +2340,7 @@
     "advanced": {
       "srs": 6.29,
       "offensive_rating": 108.6,
-      "defensive_rating": null,
+      "defensive_rating": 93.08,
       "pace": 63.8,
       "efg_pct": 0.52,
       "tov_pct": 16.4,
@@ -2383,7 +2383,7 @@
     "advanced": {
       "srs": 23.13,
       "offensive_rating": 116.9,
-      "defensive_rating": null,
+      "defensive_rating": 85.7,
       "pace": 65.0,
       "efg_pct": 0.553,
       "tov_pct": 14.0,
@@ -2426,7 +2426,7 @@
     "advanced": {
       "srs": 21.73,
       "offensive_rating": 110.8,
-      "defensive_rating": null,
+      "defensive_rating": 80.17,
       "pace": 58.6,
       "efg_pct": 0.506,
       "tov_pct": 13.4,
@@ -2469,7 +2469,7 @@
     "advanced": {
       "srs": 12.79,
       "offensive_rating": 106.5,
-      "defensive_rating": null,
+      "defensive_rating": 90.71,
       "pace": 66.4,
       "efg_pct": 0.487,
       "tov_pct": 13.2,
@@ -2512,7 +2512,7 @@
     "advanced": {
       "srs": 15.12,
       "offensive_rating": 104.9,
-      "defensive_rating": null,
+      "defensive_rating": 89.32,
       "pace": 68.7,
       "efg_pct": 0.461,
       "tov_pct": 15.1,
@@ -2555,7 +2555,7 @@
     "advanced": {
       "srs": 15.56,
       "offensive_rating": 112.7,
-      "defensive_rating": null,
+      "defensive_rating": 88.27,
       "pace": 61.9,
       "efg_pct": 0.507,
       "tov_pct": 12.6,
@@ -2598,7 +2598,7 @@
     "advanced": {
       "srs": 24.61,
       "offensive_rating": 121.2,
-      "defensive_rating": null,
+      "defensive_rating": 88.95,
       "pace": 59.5,
       "efg_pct": 0.548,
       "tov_pct": 10.7,
@@ -2641,7 +2641,7 @@
     "advanced": {
       "srs": 2.56,
       "offensive_rating": 106.2,
-      "defensive_rating": null,
+      "defensive_rating": 96.8,
       "pace": 62.7,
       "efg_pct": 0.516,
       "tov_pct": 15.1,
@@ -2684,7 +2684,7 @@
     "advanced": {
       "srs": 3.81,
       "offensive_rating": 103.1,
-      "defensive_rating": null,
+      "defensive_rating": 95.8,
       "pace": 58.3,
       "efg_pct": 0.526,
       "tov_pct": 16.9,
@@ -2727,7 +2727,7 @@
     "advanced": {
       "srs": 15.42,
       "offensive_rating": 109.8,
-      "defensive_rating": null,
+      "defensive_rating": 92.93,
       "pace": 65.6,
       "efg_pct": 0.534,
       "tov_pct": 15.8,

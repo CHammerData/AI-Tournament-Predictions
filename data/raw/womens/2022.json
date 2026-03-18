@@ -4,11 +4,10 @@
     "tournament": "womens",
     "team": "Albany (NY)",
     "seed": 16,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "AmEast",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "23-10",
       "conference": "13-5"
@@ -19,7 +18,7 @@
     "advanced": {
       "srs": -4.16,
       "offensive_rating": 91.9,
-      "defensive_rating": null,
+      "defensive_rating": 53.88,
       "pace": 62.2,
       "efg_pct": 0.467,
       "tov_pct": 20.9,
@@ -29,7 +28,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -48,11 +47,10 @@
     "tournament": "womens",
     "team": "American",
     "seed": 14,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Patriot",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "23-9",
       "conference": "13-5"
@@ -63,7 +61,7 @@
     "advanced": {
       "srs": -2.83,
       "offensive_rating": 87.0,
-      "defensive_rating": null,
+      "defensive_rating": 55.55,
       "pace": 67.7,
       "efg_pct": 0.455,
       "tov_pct": 19.7,
@@ -73,7 +71,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -92,11 +90,10 @@
     "tournament": "womens",
     "team": "Arizona",
     "seed": 4,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Pac-12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-8",
       "conference": "10-6"
@@ -107,7 +104,7 @@
     "advanced": {
       "srs": 23.04,
       "offensive_rating": 97.6,
-      "defensive_rating": null,
+      "defensive_rating": 38.82,
       "pace": 68.0,
       "efg_pct": 0.484,
       "tov_pct": 15.5,
@@ -117,7 +114,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -136,11 +133,10 @@
     "tournament": "womens",
     "team": "Arkansas",
     "seed": 10,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "18-14",
       "conference": "7-9"
@@ -151,7 +147,7 @@
     "advanced": {
       "srs": 20.22,
       "offensive_rating": 98.3,
-      "defensive_rating": null,
+      "defensive_rating": 43.74,
       "pace": 74.3,
       "efg_pct": 0.471,
       "tov_pct": 12.8,
@@ -161,7 +157,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -180,11 +176,10 @@
     "tournament": "womens",
     "team": "Baylor",
     "seed": 2,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Big 12",
     "conf_champion": true,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "28-7",
       "conference": "15-3"
@@ -195,7 +190,7 @@
     "advanced": {
       "srs": 28.19,
       "offensive_rating": 104.8,
-      "defensive_rating": null,
+      "defensive_rating": 38.83,
       "pace": 72.7,
       "efg_pct": 0.513,
       "tov_pct": 15.1,
@@ -205,7 +200,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -224,11 +219,10 @@
     "tournament": "womens",
     "team": "Belmont",
     "seed": 12,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "OVC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "23-8",
       "conference": "16-2"
@@ -239,7 +233,7 @@
     "advanced": {
       "srs": 13.06,
       "offensive_rating": 101.7,
-      "defensive_rating": null,
+      "defensive_rating": 46.92,
       "pace": 67.8,
       "efg_pct": 0.503,
       "tov_pct": 15.5,
@@ -249,7 +243,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -268,11 +262,10 @@
     "tournament": "womens",
     "team": "BYU",
     "seed": 6,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "WCC",
     "conf_champion": true,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "26-4",
       "conference": "15-1"
@@ -283,7 +276,7 @@
     "advanced": {
       "srs": 24.81,
       "offensive_rating": 110.6,
-      "defensive_rating": null,
+      "defensive_rating": 39.99,
       "pace": 69.4,
       "efg_pct": 0.521,
       "tov_pct": 15.1,
@@ -293,7 +286,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -312,11 +305,10 @@
     "tournament": "womens",
     "team": "Buffalo",
     "seed": 13,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "MAC",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "25-9",
       "conference": "16-4"
@@ -327,7 +319,7 @@
     "advanced": {
       "srs": 12.12,
       "offensive_rating": 99.6,
-      "defensive_rating": null,
+      "defensive_rating": 50.81,
       "pace": 75.6,
       "efg_pct": 0.472,
       "tov_pct": 15.4,
@@ -337,7 +329,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -356,11 +348,10 @@
     "tournament": "womens",
     "team": "Charlotte",
     "seed": 14,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "CUSA",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "22-10",
       "conference": "15-3"
@@ -371,7 +362,7 @@
     "advanced": {
       "srs": 6.7,
       "offensive_rating": 89.5,
-      "defensive_rating": null,
+      "defensive_rating": 46.33,
       "pace": 69.0,
       "efg_pct": 0.435,
       "tov_pct": 17.4,
@@ -381,7 +372,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -400,11 +391,10 @@
     "tournament": "womens",
     "team": "Colorado",
     "seed": 7,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Pac-12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "22-9",
       "conference": "9-7"
@@ -415,7 +405,7 @@
     "advanced": {
       "srs": 20.5,
       "offensive_rating": 93.9,
-      "defensive_rating": null,
+      "defensive_rating": 38.22,
       "pace": 68.5,
       "efg_pct": 0.463,
       "tov_pct": 16.9,
@@ -425,7 +415,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -444,11 +434,10 @@
     "tournament": "womens",
     "team": "UConn",
     "seed": 2,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Big East",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "30-6",
       "conference": "16-1"
@@ -459,7 +448,7 @@
     "advanced": {
       "srs": 32.74,
       "offensive_rating": 104.4,
-      "defensive_rating": null,
+      "defensive_rating": 33.29,
       "pace": 70.2,
       "efg_pct": 0.534,
       "tov_pct": 16.7,
@@ -469,7 +458,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -488,11 +477,10 @@
     "tournament": "womens",
     "team": "Creighton",
     "seed": 10,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Big East",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "23-10",
       "conference": "15-5"
@@ -503,7 +491,7 @@
     "advanced": {
       "srs": 20.18,
       "offensive_rating": 106.2,
-      "defensive_rating": null,
+      "defensive_rating": 49.56,
       "pace": 69.2,
       "efg_pct": 0.537,
       "tov_pct": 15.7,
@@ -513,7 +501,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -532,11 +520,10 @@
     "tournament": "womens",
     "team": "Dayton",
     "seed": 11,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "A-10",
     "conf_champion": true,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "26-6",
       "conference": "14-1"
@@ -547,7 +534,7 @@
     "advanced": {
       "srs": 14.24,
       "offensive_rating": 93.9,
-      "defensive_rating": null,
+      "defensive_rating": 41.46,
       "pace": 69.9,
       "efg_pct": 0.452,
       "tov_pct": 15.1,
@@ -557,7 +544,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -576,11 +563,10 @@
     "tournament": "womens",
     "team": "Delaware",
     "seed": 13,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "CAA",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "24-8",
       "conference": "15-3"
@@ -591,7 +577,7 @@
     "advanced": {
       "srs": 4.23,
       "offensive_rating": 98.3,
-      "defensive_rating": null,
+      "defensive_rating": 52.94,
       "pace": 72.9,
       "efg_pct": 0.427,
       "tov_pct": 14.6,
@@ -601,7 +587,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -620,11 +606,10 @@
     "tournament": "womens",
     "team": "Fairfield",
     "seed": 15,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "MAAC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "25-7",
       "conference": "19-1"
@@ -635,7 +620,7 @@
     "advanced": {
       "srs": 2.17,
       "offensive_rating": 96.0,
-      "defensive_rating": null,
+      "defensive_rating": 58.28,
       "pace": 66.8,
       "efg_pct": 0.474,
       "tov_pct": 15.0,
@@ -645,7 +630,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -664,11 +649,10 @@
     "tournament": "womens",
     "team": "Florida",
     "seed": 10,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-11",
       "conference": "10-6"
@@ -679,7 +663,7 @@
     "advanced": {
       "srs": 15.06,
       "offensive_rating": 89.2,
-      "defensive_rating": null,
+      "defensive_rating": 41.99,
       "pace": 75.6,
       "efg_pct": 0.449,
       "tov_pct": 18.9,
@@ -689,7 +673,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -708,11 +692,10 @@
     "tournament": "womens",
     "team": "Florida Gulf Coast",
     "seed": 12,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "A-Sun",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "30-3",
       "conference": "15-1"
@@ -723,7 +706,7 @@
     "advanced": {
       "srs": 14.99,
       "offensive_rating": 111.5,
-      "defensive_rating": null,
+      "defensive_rating": 45.0,
       "pace": 69.5,
       "efg_pct": 0.531,
       "tov_pct": 12.8,
@@ -733,7 +716,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -752,11 +735,10 @@
     "tournament": "womens",
     "team": "Georgia",
     "seed": 6,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-10",
       "conference": "9-7"
@@ -767,7 +749,7 @@
     "advanced": {
       "srs": 21.39,
       "offensive_rating": 92.9,
-      "defensive_rating": null,
+      "defensive_rating": 35.94,
       "pace": 73.0,
       "efg_pct": 0.455,
       "tov_pct": 17.9,
@@ -777,7 +759,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -796,11 +778,10 @@
     "tournament": "womens",
     "team": "Georgia Tech",
     "seed": 9,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-11",
       "conference": "11-7"
@@ -811,7 +792,7 @@
     "advanced": {
       "srs": 19.75,
       "offensive_rating": 90.8,
-      "defensive_rating": null,
+      "defensive_rating": 35.76,
       "pace": 66.3,
       "efg_pct": 0.454,
       "tov_pct": 17.4,
@@ -821,7 +802,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -840,11 +821,10 @@
     "tournament": "womens",
     "team": "Gonzaga",
     "seed": 9,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "WCC",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "27-7",
       "conference": "15-2"
@@ -855,7 +835,7 @@
     "advanced": {
       "srs": 20.97,
       "offensive_rating": 105.4,
-      "defensive_rating": null,
+      "defensive_rating": 41.2,
       "pace": 65.4,
       "efg_pct": 0.489,
       "tov_pct": 17.8,
@@ -865,7 +845,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -884,11 +864,10 @@
     "tournament": "womens",
     "team": "Hawaii",
     "seed": 15,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Big West",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "20-10",
       "conference": "13-3"
@@ -899,7 +878,7 @@
     "advanced": {
       "srs": 0.13,
       "offensive_rating": 93.5,
-      "defensive_rating": null,
+      "defensive_rating": 56.2,
       "pace": 68.3,
       "efg_pct": 0.464,
       "tov_pct": 18.6,
@@ -909,7 +888,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -928,11 +907,10 @@
     "tournament": "womens",
     "team": "Howard",
     "seed": 16,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "MEAC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "21-10",
       "conference": "11-3"
@@ -943,7 +921,7 @@
     "advanced": {
       "srs": -11.64,
       "offensive_rating": 86.5,
-      "defensive_rating": null,
+      "defensive_rating": 57.11,
       "pace": 73.4,
       "efg_pct": 0.404,
       "tov_pct": 18.7,
@@ -953,7 +931,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -972,11 +950,10 @@
     "tournament": "womens",
     "team": "Illinois State",
     "seed": 15,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "MVC",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "19-14",
       "conference": "12-6"
@@ -987,7 +964,7 @@
     "advanced": {
       "srs": 2.3,
       "offensive_rating": 97.5,
-      "defensive_rating": null,
+      "defensive_rating": 56.67,
       "pace": 66.6,
       "efg_pct": 0.486,
       "tov_pct": 17.2,
@@ -997,7 +974,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1016,11 +993,10 @@
     "tournament": "womens",
     "team": "Indiana",
     "seed": 3,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Big Ten",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "24-9",
       "conference": "11-5"
@@ -1031,7 +1007,7 @@
     "advanced": {
       "srs": 24.22,
       "offensive_rating": 98.8,
-      "defensive_rating": null,
+      "defensive_rating": 39.11,
       "pace": 71.7,
       "efg_pct": 0.496,
       "tov_pct": 16.0,
@@ -1041,7 +1017,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1060,11 +1036,10 @@
     "tournament": "womens",
     "team": "Iowa",
     "seed": 2,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Big Ten",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "24-8",
       "conference": "14-4"
@@ -1075,7 +1050,7 @@
     "advanced": {
       "srs": 26.07,
       "offensive_rating": 109.1,
-      "defensive_rating": null,
+      "defensive_rating": 47.27,
       "pace": 76.9,
       "efg_pct": 0.562,
       "tov_pct": 16.8,
@@ -1085,7 +1060,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1104,11 +1079,10 @@
     "tournament": "womens",
     "team": "Iowa State",
     "seed": 3,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Big 12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "28-7",
       "conference": "14-4"
@@ -1119,7 +1093,7 @@
     "advanced": {
       "srs": 26.26,
       "offensive_rating": 105.8,
-      "defensive_rating": null,
+      "defensive_rating": 44.39,
       "pace": 71.9,
       "efg_pct": 0.517,
       "tov_pct": 14.9,
@@ -1129,7 +1103,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1148,11 +1122,10 @@
     "tournament": "womens",
     "team": "Jackson State",
     "seed": 14,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "SWAC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "23-7",
       "conference": "18-0"
@@ -1163,7 +1136,7 @@
     "advanced": {
       "srs": 5.91,
       "offensive_rating": 102.4,
-      "defensive_rating": null,
+      "defensive_rating": 53.13,
       "pace": 77.6,
       "efg_pct": 0.477,
       "tov_pct": 16.5,
@@ -1173,7 +1146,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1192,11 +1165,10 @@
     "tournament": "womens",
     "team": "Kansas",
     "seed": 8,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Big 12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-10",
       "conference": "11-7"
@@ -1207,7 +1179,7 @@
     "advanced": {
       "srs": 19.9,
       "offensive_rating": 93.1,
-      "defensive_rating": null,
+      "defensive_rating": 40.77,
       "pace": 76.8,
       "efg_pct": 0.483,
       "tov_pct": 19.9,
@@ -1217,7 +1189,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1236,11 +1208,10 @@
     "tournament": "womens",
     "team": "Kansas State",
     "seed": 9,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Big 12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "20-13",
       "conference": "9-9"
@@ -1251,7 +1222,7 @@
     "advanced": {
       "srs": 19.55,
       "offensive_rating": 91.4,
-      "defensive_rating": null,
+      "defensive_rating": 38.87,
       "pace": 71.8,
       "efg_pct": 0.454,
       "tov_pct": 16.6,
@@ -1261,7 +1232,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1280,11 +1251,10 @@
     "tournament": "womens",
     "team": "Kentucky",
     "seed": 6,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "19-12",
       "conference": "8-8"
@@ -1295,7 +1265,7 @@
     "advanced": {
       "srs": 20.09,
       "offensive_rating": 97.7,
-      "defensive_rating": null,
+      "defensive_rating": 44.48,
       "pace": 73.6,
       "efg_pct": 0.477,
       "tov_pct": 16.0,
@@ -1305,7 +1275,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1324,11 +1294,10 @@
     "tournament": "womens",
     "team": "Longwood",
     "seed": 16,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Big South",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "22-12",
       "conference": "15-3"
@@ -1339,7 +1308,7 @@
     "advanced": {
       "srs": -4.85,
       "offensive_rating": 93.9,
-      "defensive_rating": null,
+      "defensive_rating": 59.57,
       "pace": 76.2,
       "efg_pct": 0.469,
       "tov_pct": 18.8,
@@ -1349,7 +1318,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1368,11 +1337,10 @@
     "tournament": "womens",
     "team": "LSU",
     "seed": 3,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "26-6",
       "conference": "13-3"
@@ -1383,7 +1351,7 @@
     "advanced": {
       "srs": 22.39,
       "offensive_rating": 98.1,
-      "defensive_rating": null,
+      "defensive_rating": 38.65,
       "pace": 74.8,
       "efg_pct": 0.468,
       "tov_pct": 14.9,
@@ -1393,7 +1361,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1412,11 +1380,10 @@
     "tournament": "womens",
     "team": "Louisville",
     "seed": 1,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "29-5",
       "conference": "15-2"
@@ -1427,7 +1394,7 @@
     "advanced": {
       "srs": 30.37,
       "offensive_rating": 101.4,
-      "defensive_rating": null,
+      "defensive_rating": 34.88,
       "pace": 70.5,
       "efg_pct": 0.503,
       "tov_pct": 16.6,
@@ -1437,7 +1404,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1456,11 +1423,10 @@
     "tournament": "womens",
     "team": "Maryland",
     "seed": 4,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Big Ten",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "23-9",
       "conference": "13-4"
@@ -1471,7 +1437,7 @@
     "advanced": {
       "srs": 25.72,
       "offensive_rating": 106.5,
-      "defensive_rating": null,
+      "defensive_rating": 45.69,
       "pace": 73.7,
       "efg_pct": 0.489,
       "tov_pct": 14.2,
@@ -1481,7 +1447,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1500,11 +1466,10 @@
     "tournament": "womens",
     "team": "UMass",
     "seed": 12,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "A-10",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "26-7",
       "conference": "11-4"
@@ -1515,7 +1480,7 @@
     "advanced": {
       "srs": 12.98,
       "offensive_rating": 101.3,
-      "defensive_rating": null,
+      "defensive_rating": 52.43,
       "pace": 70.5,
       "efg_pct": 0.488,
       "tov_pct": 15.7,
@@ -1525,7 +1490,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1544,11 +1509,10 @@
     "tournament": "womens",
     "team": "Mercer",
     "seed": 15,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Southern",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "23-7",
       "conference": "13-1"
@@ -1559,7 +1523,7 @@
     "advanced": {
       "srs": 1.7,
       "offensive_rating": 90.6,
-      "defensive_rating": null,
+      "defensive_rating": 49.07,
       "pace": 70.8,
       "efg_pct": 0.451,
       "tov_pct": 16.3,
@@ -1569,7 +1533,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1588,11 +1552,10 @@
     "tournament": "womens",
     "team": "Miami",
     "seed": 8,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-13",
       "conference": "10-8"
@@ -1603,7 +1566,7 @@
     "advanced": {
       "srs": 16.72,
       "offensive_rating": 86.5,
-      "defensive_rating": null,
+      "defensive_rating": 38.45,
       "pace": 70.4,
       "efg_pct": 0.451,
       "tov_pct": 20.3,
@@ -1613,7 +1576,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1632,11 +1595,10 @@
     "tournament": "womens",
     "team": "Michigan",
     "seed": 3,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Big Ten",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-7",
       "conference": "13-4"
@@ -1647,7 +1609,7 @@
     "advanced": {
       "srs": 23.74,
       "offensive_rating": 100.0,
-      "defensive_rating": null,
+      "defensive_rating": 39.37,
       "pace": 70.4,
       "efg_pct": 0.488,
       "tov_pct": 18.5,
@@ -1657,7 +1619,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1676,11 +1638,10 @@
     "tournament": "womens",
     "team": "Ole Miss",
     "seed": 7,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "23-9",
       "conference": "10-6"
@@ -1691,7 +1652,7 @@
     "advanced": {
       "srs": 21.51,
       "offensive_rating": 94.4,
-      "defensive_rating": null,
+      "defensive_rating": 36.65,
       "pace": 70.9,
       "efg_pct": 0.447,
       "tov_pct": 16.2,
@@ -1701,7 +1662,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1720,11 +1681,10 @@
     "tournament": "womens",
     "team": "Missouri State",
     "seed": 11,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "MVC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-8",
       "conference": "14-4"
@@ -1735,7 +1695,7 @@
     "advanced": {
       "srs": 15.18,
       "offensive_rating": 93.0,
-      "defensive_rating": null,
+      "defensive_rating": 37.09,
       "pace": 69.7,
       "efg_pct": 0.402,
       "tov_pct": 15.0,
@@ -1745,7 +1705,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1764,11 +1724,10 @@
     "tournament": "womens",
     "team": "Montana State",
     "seed": 16,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Big Sky",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "22-13",
       "conference": "14-6"
@@ -1779,7 +1738,7 @@
     "advanced": {
       "srs": -0.05,
       "offensive_rating": 98.5,
-      "defensive_rating": null,
+      "defensive_rating": 53.79,
       "pace": 69.3,
       "efg_pct": 0.433,
       "tov_pct": 13.7,
@@ -1789,7 +1748,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1808,11 +1767,10 @@
     "tournament": "womens",
     "team": "NC State",
     "seed": 1,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "ACC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "32-4",
       "conference": "17-1"
@@ -1823,7 +1781,7 @@
     "advanced": {
       "srs": 35.12,
       "offensive_rating": 108.1,
-      "defensive_rating": null,
+      "defensive_rating": 36.4,
       "pace": 70.5,
       "efg_pct": 0.526,
       "tov_pct": 14.5,
@@ -1833,7 +1791,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1852,11 +1810,10 @@
     "tournament": "womens",
     "team": "Nebraska",
     "seed": 8,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Big Ten",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "24-9",
       "conference": "11-7"
@@ -1867,7 +1824,7 @@
     "advanced": {
       "srs": 22.54,
       "offensive_rating": 105.8,
-      "defensive_rating": null,
+      "defensive_rating": 43.69,
       "pace": 73.5,
       "efg_pct": 0.511,
       "tov_pct": 15.9,
@@ -1877,7 +1834,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1896,11 +1853,10 @@
     "tournament": "womens",
     "team": "UNLV",
     "seed": 13,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "MWC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "26-7",
       "conference": "15-3"
@@ -1911,7 +1867,7 @@
     "advanced": {
       "srs": 9.89,
       "offensive_rating": 102.8,
-      "defensive_rating": null,
+      "defensive_rating": 51.18,
       "pace": 73.2,
       "efg_pct": 0.508,
       "tov_pct": 16.7,
@@ -1921,7 +1877,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1940,11 +1896,10 @@
     "tournament": "womens",
     "team": "UNC",
     "seed": 5,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-7",
       "conference": "13-5"
@@ -1955,7 +1910,7 @@
     "advanced": {
       "srs": 29.57,
       "offensive_rating": 98.0,
-      "defensive_rating": null,
+      "defensive_rating": 31.74,
       "pace": 74.3,
       "efg_pct": 0.457,
       "tov_pct": 15.0,
@@ -1965,7 +1920,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -1984,11 +1939,10 @@
     "tournament": "womens",
     "team": "Notre Dame",
     "seed": 5,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "24-9",
       "conference": "12-5"
@@ -1999,7 +1953,7 @@
     "advanced": {
       "srs": 25.05,
       "offensive_rating": 98.9,
-      "defensive_rating": null,
+      "defensive_rating": 40.26,
       "pace": 74.5,
       "efg_pct": 0.5,
       "tov_pct": 16.9,
@@ -2009,7 +1963,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2028,11 +1982,10 @@
     "tournament": "womens",
     "team": "Ohio State",
     "seed": 6,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Big Ten",
     "conf_champion": true,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-7",
       "conference": "14-4"
@@ -2043,7 +1996,7 @@
     "advanced": {
       "srs": 22.03,
       "offensive_rating": 103.2,
-      "defensive_rating": null,
+      "defensive_rating": 45.04,
       "pace": 75.7,
       "efg_pct": 0.521,
       "tov_pct": 15.9,
@@ -2053,7 +2006,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2072,11 +2025,10 @@
     "tournament": "womens",
     "team": "Oklahoma",
     "seed": 4,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Big 12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-9",
       "conference": "12-6"
@@ -2087,7 +2039,7 @@
     "advanced": {
       "srs": 20.97,
       "offensive_rating": 97.9,
-      "defensive_rating": null,
+      "defensive_rating": 45.3,
       "pace": 83.4,
       "efg_pct": 0.507,
       "tov_pct": 19.7,
@@ -2097,7 +2049,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2116,11 +2068,10 @@
     "tournament": "womens",
     "team": "Oregon",
     "seed": 5,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Pac-12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "20-12",
       "conference": "11-6"
@@ -2131,7 +2082,7 @@
     "advanced": {
       "srs": 24.99,
       "offensive_rating": 103.3,
-      "defensive_rating": null,
+      "defensive_rating": 37.7,
       "pace": 67.7,
       "efg_pct": 0.488,
       "tov_pct": 15.7,
@@ -2141,7 +2092,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2160,11 +2111,10 @@
     "tournament": "womens",
     "team": "Princeton",
     "seed": 11,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Ivy",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "25-5",
       "conference": "14-0"
@@ -2175,7 +2125,7 @@
     "advanced": {
       "srs": 18.67,
       "offensive_rating": 97.6,
-      "defensive_rating": null,
+      "defensive_rating": 39.93,
       "pace": 69.7,
       "efg_pct": 0.464,
       "tov_pct": 15.7,
@@ -2185,7 +2135,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2204,11 +2154,10 @@
     "tournament": "womens",
     "team": "South Carolina",
     "seed": 1,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "SEC",
     "conf_champion": true,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "35-2",
       "conference": "15-1"
@@ -2219,7 +2168,7 @@
     "advanced": {
       "srs": 38.46,
       "offensive_rating": 100.9,
-      "defensive_rating": null,
+      "defensive_rating": 23.55,
       "pace": 70.0,
       "efg_pct": 0.465,
       "tov_pct": 16.2,
@@ -2229,7 +2178,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2248,11 +2197,10 @@
     "tournament": "womens",
     "team": "South Dakota",
     "seed": 10,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Summit",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "29-6",
       "conference": "17-1"
@@ -2263,7 +2211,7 @@
     "advanced": {
       "srs": 19.35,
       "offensive_rating": 102.4,
-      "defensive_rating": null,
+      "defensive_rating": 37.73,
       "pace": 67.1,
       "efg_pct": 0.493,
       "tov_pct": 14.1,
@@ -2273,7 +2221,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2292,11 +2240,10 @@
     "tournament": "womens",
     "team": "South Florida",
     "seed": 9,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "AAC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "24-9",
       "conference": "12-3"
@@ -2307,7 +2254,7 @@
     "advanced": {
       "srs": 15.19,
       "offensive_rating": 91.2,
-      "defensive_rating": null,
+      "defensive_rating": 42.56,
       "pace": 66.5,
       "efg_pct": 0.429,
       "tov_pct": 17.0,
@@ -2317,7 +2264,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2336,11 +2283,10 @@
     "tournament": "womens",
     "team": "Stanford",
     "seed": 1,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Pac-12",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "32-4",
       "conference": "16-0"
@@ -2351,7 +2297,7 @@
     "advanced": {
       "srs": 34.68,
       "offensive_rating": 103.9,
-      "defensive_rating": null,
+      "defensive_rating": 32.3,
       "pace": 70.7,
       "efg_pct": 0.506,
       "tov_pct": 15.6,
@@ -2361,7 +2307,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2380,11 +2326,10 @@
     "tournament": "womens",
     "team": "Stephen F. Austin",
     "seed": 12,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "WAC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "28-5",
       "conference": "17-1"
@@ -2395,7 +2340,7 @@
     "advanced": {
       "srs": 11.82,
       "offensive_rating": 103.9,
-      "defensive_rating": null,
+      "defensive_rating": 40.18,
       "pace": 72.0,
       "efg_pct": 0.501,
       "tov_pct": 17.5,
@@ -2405,7 +2350,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2424,11 +2369,10 @@
     "tournament": "womens",
     "team": "Tennessee",
     "seed": 4,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "SEC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "25-9",
       "conference": "11-5"
@@ -2439,7 +2383,7 @@
     "advanced": {
       "srs": 24.52,
       "offensive_rating": 92.9,
-      "defensive_rating": null,
+      "defensive_rating": 34.42,
       "pace": 74.9,
       "efg_pct": 0.448,
       "tov_pct": 18.4,
@@ -2449,7 +2393,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2468,11 +2412,10 @@
     "tournament": "womens",
     "team": "Texas",
     "seed": 2,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Big 12",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "29-7",
       "conference": "13-5"
@@ -2483,7 +2426,7 @@
     "advanced": {
       "srs": 29.34,
       "offensive_rating": 101.2,
-      "defensive_rating": null,
+      "defensive_rating": 33.6,
       "pace": 70.3,
       "efg_pct": 0.475,
       "tov_pct": 16.3,
@@ -2493,7 +2436,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2512,11 +2455,10 @@
     "tournament": "womens",
     "team": "UCF",
     "seed": 7,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "AAC",
     "conf_champion": true,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "26-4",
       "conference": "14-1"
@@ -2527,7 +2469,7 @@
     "advanced": {
       "srs": 21.95,
       "offensive_rating": 91.2,
-      "defensive_rating": null,
+      "defensive_rating": 31.06,
       "pace": 66.4,
       "efg_pct": 0.443,
       "tov_pct": 18.8,
@@ -2537,7 +2479,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2556,11 +2498,10 @@
     "tournament": "womens",
     "team": "UT Arlington",
     "seed": 14,
-    "region": "greensboro",
+    "region": "Greensboro",
     "conference": "Sun Belt",
     "conf_champion": false,
     "conf_tourn_champion": true,
-    "field_size": 68,
     "record": {
       "overall": "20-8",
       "conference": "11-4"
@@ -2571,7 +2512,7 @@
     "advanced": {
       "srs": 3.59,
       "offensive_rating": 93.8,
-      "defensive_rating": null,
+      "defensive_rating": 52.9,
       "pace": 73.9,
       "efg_pct": 0.461,
       "tov_pct": 16.3,
@@ -2581,7 +2522,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2600,11 +2541,10 @@
     "tournament": "womens",
     "team": "Utah",
     "seed": 7,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "Pac-12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "21-12",
       "conference": "8-7"
@@ -2615,7 +2555,7 @@
     "advanced": {
       "srs": 21.67,
       "offensive_rating": 104.5,
-      "defensive_rating": null,
+      "defensive_rating": 49.1,
       "pace": 72.1,
       "efg_pct": 0.516,
       "tov_pct": 17.1,
@@ -2625,7 +2565,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2644,11 +2584,10 @@
     "tournament": "womens",
     "team": "Villanova",
     "seed": 11,
-    "region": "wichita",
+    "region": "Wichita",
     "conference": "Big East",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "24-9",
       "conference": "15-4"
@@ -2659,7 +2598,7 @@
     "advanced": {
       "srs": 11.75,
       "offensive_rating": 93.8,
-      "defensive_rating": null,
+      "defensive_rating": 47.31,
       "pace": 68.9,
       "efg_pct": 0.464,
       "tov_pct": 15.8,
@@ -2669,7 +2608,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2688,11 +2627,10 @@
     "tournament": "womens",
     "team": "Virginia Tech",
     "seed": 5,
-    "region": "spokane",
+    "region": "Spokane",
     "conference": "ACC",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "23-10",
       "conference": "13-5"
@@ -2703,7 +2641,7 @@
     "advanced": {
       "srs": 24.47,
       "offensive_rating": 102.2,
-      "defensive_rating": null,
+      "defensive_rating": 42.22,
       "pace": 69.0,
       "efg_pct": 0.519,
       "tov_pct": 16.3,
@@ -2713,7 +2651,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,
@@ -2732,11 +2670,10 @@
     "tournament": "womens",
     "team": "Washington State",
     "seed": 8,
-    "region": "bridgeport",
+    "region": "Bridgeport",
     "conference": "Pac-12",
     "conf_champion": false,
     "conf_tourn_champion": false,
-    "field_size": 68,
     "record": {
       "overall": "19-11",
       "conference": "11-6"
@@ -2747,7 +2684,7 @@
     "advanced": {
       "srs": 14.7,
       "offensive_rating": 87.9,
-      "defensive_rating": null,
+      "defensive_rating": 41.62,
       "pace": 68.0,
       "efg_pct": 0.442,
       "tov_pct": 17.5,
@@ -2757,7 +2694,7 @@
     "momentum": {
       "last_10": null
     },
-    "wnba_prospects": null,
+    "nba_prospects": null,
     "coach": {
       "name": null,
       "years_experience": null,

@@ -1,0 +1,2243 @@
+year: 2018
+tournament: womens
+teams:
+- year: 2018
+  tournament: womens
+  team: UConn
+  seed: 1
+  region: Albany
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 36-1
+    conference: 16-0
+  strength_of_schedule:
+    rating: 13.63
+  advanced:
+    srs: 49.69
+    offensive_rating: 120.3
+    defensive_rating: 23.7
+    pace: 74.1
+    efg_pct: 0.595
+    tov_pct: 14.2
+    orb_pct: 36.5
+    ft_rate: 0.229
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 7
+- year: 2018
+  tournament: womens
+  team: South Carolina
+  seed: 2
+  region: Albany
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 29-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 13.31
+  advanced:
+    srs: 27.34
+    offensive_rating: 105.7
+    defensive_rating: 35.87
+    pace: 71.2
+    efg_pct: 0.51
+    tov_pct: 16.8
+    orb_pct: 37.3
+    ft_rate: 0.366
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Florida State
+  seed: 3
+  region: Albany
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 11.23
+  advanced:
+    srs: 27.93
+    offensive_rating: 109.3
+    defensive_rating: 42.07
+    pace: 73.8
+    efg_pct: 0.509
+    tov_pct: 15.0
+    orb_pct: 41.0
+    ft_rate: 0.295
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Georgia
+  seed: 4
+  region: Albany
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 9.22
+  advanced:
+    srs: 18.58
+    offensive_rating: 91.3
+    defensive_rating: 32.73
+    pace: 72.8
+    efg_pct: 0.451
+    tov_pct: 17.5
+    orb_pct: 34.4
+    ft_rate: 0.255
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Duke
+  seed: 5
+  region: Albany
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 11.59
+  advanced:
+    srs: 24.07
+    offensive_rating: 100.4
+    defensive_rating: 35.51
+    pace: 68.3
+    efg_pct: 0.512
+    tov_pct: 18.8
+    orb_pct: 34.3
+    ft_rate: 0.286
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2018
+  tournament: womens
+  team: South Florida
+  seed: 6
+  region: Albany
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 13-3
+  strength_of_schedule:
+    rating: 9.94
+  advanced:
+    srs: 22.18
+    offensive_rating: 106.5
+    defensive_rating: 45.56
+    pace: 70.1
+    efg_pct: 0.502
+    tov_pct: 15.0
+    orb_pct: 35.7
+    ft_rate: 0.283
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: California
+  seed: 7
+  region: Albany
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 13.53
+  advanced:
+    srs: 16.63
+    offensive_rating: 100.3
+    defensive_rating: 46.06
+    pace: 68.8
+    efg_pct: 0.499
+    tov_pct: 18.2
+    orb_pct: 35.6
+    ft_rate: 0.265
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Miami
+  seed: 8
+  region: Albany
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-11
+    conference: 10-6
+  strength_of_schedule:
+    rating: 10.84
+  advanced:
+    srs: 17.81
+    offensive_rating: 93.2
+    defensive_rating: 38.11
+    pace: 76.2
+    efg_pct: 0.471
+    tov_pct: 19.4
+    orb_pct: 34.0
+    ft_rate: 0.333
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Quinnipiac
+  seed: 9
+  region: Albany
+  conference: MAAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-6
+    conference: 18-0
+  strength_of_schedule:
+    rating: -0.88
+  advanced:
+    srs: 12.01
+    offensive_rating: 99.7
+    defensive_rating: 45.94
+    pace: 71.5
+    efg_pct: 0.475
+    tov_pct: 13.9
+    orb_pct: 29.8
+    ft_rate: 0.24
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Virginia
+  seed: 10
+  region: Albany
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-14
+    conference: 10-6
+  strength_of_schedule:
+    rating: 14.81
+  advanced:
+    srs: 15.72
+    offensive_rating: 89.6
+    defensive_rating: 39.61
+    pace: 69.0
+    efg_pct: 0.456
+    tov_pct: 19.5
+    orb_pct: 30.8
+    ft_rate: 0.25
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Buffalo
+  seed: 11
+  region: Albany
+  conference: MAC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-6
+    conference: 16-2
+  strength_of_schedule:
+    rating: 4.3
+  advanced:
+    srs: 17.27
+    offensive_rating: 98.4
+    defensive_rating: 40.87
+    pace: 78.8
+    efg_pct: 0.481
+    tov_pct: 17.1
+    orb_pct: 35.3
+    ft_rate: 0.289
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Belmont
+  seed: 12
+  region: Albany
+  conference: OVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-4
+    conference: 18-0
+  strength_of_schedule:
+    rating: -4.23
+  advanced:
+    srs: 12.83
+    offensive_rating: 114.0
+    defensive_rating: 50.64
+    pace: 67.8
+    efg_pct: 0.549
+    tov_pct: 14.9
+    orb_pct: 35.8
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Mercer
+  seed: 13
+  region: Albany
+  conference: Southern
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 30-3
+    conference: 14-0
+  strength_of_schedule:
+    rating: -5.34
+  advanced:
+    srs: 10.45
+    offensive_rating: 103.9
+    defensive_rating: 47.21
+    pace: 68.0
+    efg_pct: 0.475
+    tov_pct: 11.2
+    orb_pct: 32.1
+    ft_rate: 0.21
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Little Rock
+  seed: 14
+  region: Albany
+  conference: Sun Belt
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 17-1
+  strength_of_schedule:
+    rating: -1.24
+  advanced:
+    srs: 4.64
+    offensive_rating: 91.6
+    defensive_rating: 43.72
+    pace: 64.6
+    efg_pct: 0.458
+    tov_pct: 18.8
+    orb_pct: 32.9
+    ft_rate: 0.251
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: North Carolina A&T
+  seed: 15
+  region: Albany
+  conference: MEAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-9
+    conference: 15-1
+  strength_of_schedule:
+    rating: -9.93
+  advanced:
+    srs: -4.56
+    offensive_rating: 88.9
+    defensive_rating: 41.51
+    pace: 74.5
+    efg_pct: 0.409
+    tov_pct: 18.6
+    orb_pct: 37.6
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Saint Francis (PA)
+  seed: 16
+  region: Albany
+  conference: NEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 16-2
+  strength_of_schedule:
+    rating: -8.2
+  advanced:
+    srs: -2.17
+    offensive_rating: 98.2
+    defensive_rating: 56.42
+    pace: 80.5
+    efg_pct: 0.466
+    tov_pct: 16.9
+    orb_pct: 34.0
+    ft_rate: 0.249
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Mississippi St.
+  seed: 1
+  region: Kansascity
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 37-2
+    conference: 16-0
+  strength_of_schedule:
+    rating: 13.06
+  advanced:
+    srs: 37.81
+    offensive_rating: 114.4
+    defensive_rating: 31.25
+    pace: 70.7
+    efg_pct: 0.524
+    tov_pct: 12.6
+    orb_pct: 35.9
+    ft_rate: 0.309
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Texas
+  seed: 2
+  region: Kansascity
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 15.59
+  advanced:
+    srs: 32.25
+    offensive_rating: 106.7
+    defensive_rating: 34.3
+    pace: 75.7
+    efg_pct: 0.511
+    tov_pct: 16.3
+    orb_pct: 39.8
+    ft_rate: 0.239
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2018
+  tournament: womens
+  team: UCLA
+  seed: 3
+  region: Kansascity
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 17.03
+  advanced:
+    srs: 28.97
+    offensive_rating: 104.4
+    defensive_rating: 35.95
+    pace: 71.5
+    efg_pct: 0.475
+    tov_pct: 14.0
+    orb_pct: 40.0
+    ft_rate: 0.269
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2018
+  tournament: womens
+  team: NC State
+  seed: 4
+  region: Kansascity
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 12.97
+  advanced:
+    srs: 22.51
+    offensive_rating: 95.1
+    defensive_rating: 34.58
+    pace: 70.2
+    efg_pct: 0.451
+    tov_pct: 16.9
+    orb_pct: 35.9
+    ft_rate: 0.373
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Maryland
+  seed: 5
+  region: Kansascity
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 12-4
+  strength_of_schedule:
+    rating: 10.1
+  advanced:
+    srs: 25.6
+    offensive_rating: 106.9
+    defensive_rating: 41.26
+    pace: 74.5
+    efg_pct: 0.504
+    tov_pct: 15.7
+    orb_pct: 39.8
+    ft_rate: 0.302
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Iowa
+  seed: 6
+  region: Kansascity
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 9.93
+  advanced:
+    srs: 19.74
+    offensive_rating: 103.3
+    defensive_rating: 43.67
+    pace: 75.3
+    efg_pct: 0.534
+    tov_pct: 18.8
+    orb_pct: 31.6
+    ft_rate: 0.313
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Arizona State
+  seed: 7
+  region: Kansascity
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-13
+    conference: 10-8
+  strength_of_schedule:
+    rating: 13.37
+  advanced:
+    srs: 23.4
+    offensive_rating: 101.4
+    defensive_rating: 38.06
+    pace: 66.9
+    efg_pct: 0.481
+    tov_pct: 14.5
+    orb_pct: 35.5
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Syracuse
+  seed: 8
+  region: Kansascity
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 10-6
+  strength_of_schedule:
+    rating: 9.81
+  advanced:
+    srs: 16.32
+    offensive_rating: 99.2
+    defensive_rating: 46.3
+    pace: 73.4
+    efg_pct: 0.48
+    tov_pct: 16.5
+    orb_pct: 32.7
+    ft_rate: 0.237
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Oklahoma State
+  seed: 9
+  region: Kansascity
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 12.89
+  advanced:
+    srs: 23.61
+    offensive_rating: 103.4
+    defensive_rating: 41.74
+    pace: 75.7
+    efg_pct: 0.481
+    tov_pct: 13.2
+    orb_pct: 29.7
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Nebraska
+  seed: 10
+  region: Kansascity
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-11
+    conference: 11-5
+  strength_of_schedule:
+    rating: 9.78
+  advanced:
+    srs: 14.94
+    offensive_rating: 96.0
+    defensive_rating: 43.23
+    pace: 70.7
+    efg_pct: 0.484
+    tov_pct: 17.2
+    orb_pct: 31.1
+    ft_rate: 0.269
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Creighton
+  seed: 11
+  region: Kansascity
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 12.33
+  advanced:
+    srs: 14.58
+    offensive_rating: 101.7
+    defensive_rating: 50.01
+    pace: 65.7
+    efg_pct: 0.508
+    tov_pct: 15.2
+    orb_pct: 24.7
+    ft_rate: 0.249
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Princeton
+  seed: 12
+  region: Kansascity
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-6
+    conference: 12-2
+  strength_of_schedule:
+    rating: 1.79
+  advanced:
+    srs: 14.32
+    offensive_rating: 99.4
+    defensive_rating: 43.45
+    pace: 68.1
+    efg_pct: 0.489
+    tov_pct: 17.5
+    orb_pct: 34.8
+    ft_rate: 0.245
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Elon
+  seed: 13
+  region: Kansascity
+  conference: CAA
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: -0.14
+  advanced:
+    srs: 12.45
+    offensive_rating: 96.7
+    defensive_rating: 40.0
+    pace: 73.7
+    efg_pct: 0.486
+    tov_pct: 19.7
+    orb_pct: 35.0
+    ft_rate: 0.363
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: American
+  seed: 14
+  region: Kansascity
+  conference: Patriot
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 16-2
+  strength_of_schedule:
+    rating: -3.44
+  advanced:
+    srs: 2.96
+    offensive_rating: 92.3
+    defensive_rating: 51.19
+    pace: 68.5
+    efg_pct: 0.456
+    tov_pct: 16.3
+    orb_pct: 23.6
+    ft_rate: 0.305
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Maine
+  seed: 15
+  region: Kansascity
+  conference: AmEast
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 13-3
+  strength_of_schedule:
+    rating: -0.91
+  advanced:
+    srs: 5.32
+    offensive_rating: 99.5
+    defensive_rating: 46.17
+    pace: 64.9
+    efg_pct: 0.486
+    tov_pct: 17.5
+    orb_pct: 33.1
+    ft_rate: 0.194
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Nicholls State
+  seed: 16
+  region: Kansascity
+  conference: Southland
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-14
+    conference: 11-7
+  strength_of_schedule:
+    rating: -5.62
+  advanced:
+    srs: -7.22
+    offensive_rating: 95.3
+    defensive_rating: 51.17
+    pace: 68.4
+    efg_pct: 0.449
+    tov_pct: 20.8
+    orb_pct: 30.8
+    ft_rate: 0.349
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Louisville
+  seed: 1
+  region: Lexington
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 36-3
+    conference: 15-1
+  strength_of_schedule:
+    rating: 15.01
+  advanced:
+    srs: 34.7
+    offensive_rating: 108.2
+    defensive_rating: 31.36
+    pace: 70.5
+    efg_pct: 0.533
+    tov_pct: 16.4
+    orb_pct: 35.0
+    ft_rate: 0.256
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 7
+- year: 2018
+  tournament: womens
+  team: Baylor
+  seed: 2
+  region: Lexington
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 33-2
+    conference: 18-0
+  strength_of_schedule:
+    rating: 12.61
+  advanced:
+    srs: 42.58
+    offensive_rating: 116.7
+    defensive_rating: 27.54
+    pace: 73.8
+    efg_pct: 0.541
+    tov_pct: 14.6
+    orb_pct: 43.2
+    ft_rate: 0.299
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 8
+- year: 2018
+  tournament: womens
+  team: Tennessee
+  seed: 3
+  region: Lexington
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 13.19
+  advanced:
+    srs: 26.47
+    offensive_rating: 100.2
+    defensive_rating: 34.15
+    pace: 76.8
+    efg_pct: 0.488
+    tov_pct: 17.9
+    orb_pct: 37.2
+    ft_rate: 0.365
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Stanford
+  seed: 4
+  region: Lexington
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-11
+    conference: 14-3
+  strength_of_schedule:
+    rating: 17.47
+  advanced:
+    srs: 23.56
+    offensive_rating: 95.6
+    defensive_rating: 34.99
+    pace: 71.7
+    efg_pct: 0.482
+    tov_pct: 17.5
+    orb_pct: 33.9
+    ft_rate: 0.243
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Missouri
+  seed: 5
+  region: Lexington
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 10.09
+  advanced:
+    srs: 18.84
+    offensive_rating: 102.8
+    defensive_rating: 43.3
+    pace: 67.8
+    efg_pct: 0.53
+    tov_pct: 18.9
+    orb_pct: 32.4
+    ft_rate: 0.325
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Oregon State
+  seed: 6
+  region: Lexington
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 12.48
+  advanced:
+    srs: 26.24
+    offensive_rating: 108.2
+    defensive_rating: 36.48
+    pace: 66.4
+    efg_pct: 0.554
+    tov_pct: 17.8
+    orb_pct: 36.3
+    ft_rate: 0.224
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2018
+  tournament: womens
+  team: Michigan
+  seed: 7
+  region: Lexington
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 10-6
+  strength_of_schedule:
+    rating: 9.35
+  advanced:
+    srs: 21.77
+    offensive_rating: 103.5
+    defensive_rating: 40.7
+    pace: 71.6
+    efg_pct: 0.529
+    tov_pct: 19.2
+    orb_pct: 34.6
+    ft_rate: 0.29
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Marquette
+  seed: 8
+  region: Lexington
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 24-10
+    conference: 15-3
+  strength_of_schedule:
+    rating: 10.69
+  advanced:
+    srs: 20.13
+    offensive_rating: 105.6
+    defensive_rating: 47.06
+    pace: 75.1
+    efg_pct: 0.503
+    tov_pct: 14.2
+    orb_pct: 33.6
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Dayton
+  seed: 9
+  region: Lexington
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 23-7
+    conference: 15-1
+  strength_of_schedule:
+    rating: 1.31
+  advanced:
+    srs: 12.51
+    offensive_rating: 101.2
+    defensive_rating: 47.35
+    pace: 72.2
+    efg_pct: 0.489
+    tov_pct: 16.1
+    orb_pct: 32.1
+    ft_rate: 0.318
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Northern Colorado
+  seed: 10
+  region: Lexington
+  conference: Big Sky
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 0.46
+  advanced:
+    srs: 6.8
+    offensive_rating: 99.4
+    defensive_rating: 50.06
+    pace: 70.1
+    efg_pct: 0.514
+    tov_pct: 17.5
+    orb_pct: 22.2
+    ft_rate: 0.279
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Western Kentucky
+  seed: 11
+  region: Lexington
+  conference: CUSA
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 12-4
+  strength_of_schedule:
+    rating: 0.41
+  advanced:
+    srs: 11.88
+    offensive_rating: 109.4
+    defensive_rating: 49.96
+    pace: 68.6
+    efg_pct: 0.471
+    tov_pct: 12.7
+    orb_pct: 40.9
+    ft_rate: 0.316
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Florida Gulf Coast
+  seed: 12
+  region: Lexington
+  conference: A-Sun
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-5
+    conference: 13-1
+  strength_of_schedule:
+    rating: -4.02
+  advanced:
+    srs: 11.92
+    offensive_rating: 114.6
+    defensive_rating: 46.09
+    pace: 68.0
+    efg_pct: 0.537
+    tov_pct: 13.9
+    orb_pct: 31.9
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Gonzaga
+  seed: 13
+  region: Lexington
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-6
+    conference: 17-1
+  strength_of_schedule:
+    rating: 2.05
+  advanced:
+    srs: 14.87
+    offensive_rating: 105.8
+    defensive_rating: 43.71
+    pace: 68.3
+    efg_pct: 0.476
+    tov_pct: 15.7
+    orb_pct: 39.2
+    ft_rate: 0.316
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Liberty
+  seed: 14
+  region: Lexington
+  conference: Big South
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 16-2
+  strength_of_schedule:
+    rating: -8.24
+  advanced:
+    srs: 0.67
+    offensive_rating: 100.6
+    defensive_rating: 47.83
+    pace: 64.3
+    efg_pct: 0.48
+    tov_pct: 19.3
+    orb_pct: 43.2
+    ft_rate: 0.286
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Grambling
+  seed: 15
+  region: Lexington
+  conference: SWAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-14
+    conference: 13-5
+  strength_of_schedule:
+    rating: -10.36
+  advanced:
+    srs: -11.97
+    offensive_rating: 87.1
+    defensive_rating: 57.81
+    pace: 75.7
+    efg_pct: 0.434
+    tov_pct: 19.7
+    orb_pct: 28.6
+    ft_rate: 0.315
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Boise State
+  seed: 16
+  region: Lexington
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: 0.6
+  advanced:
+    srs: 5.18
+    offensive_rating: 101.3
+    defensive_rating: 46.53
+    pace: 67.6
+    efg_pct: 0.487
+    tov_pct: 19.3
+    orb_pct: 39.3
+    ft_rate: 0.239
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Notre Dame
+  seed: 1
+  region: Spokane
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 35-3
+    conference: 15-1
+  strength_of_schedule:
+    rating: 18.86
+  advanced:
+    srs: 36.21
+    offensive_rating: 112.0
+    defensive_rating: 37.39
+    pace: 75.5
+    efg_pct: 0.539
+    tov_pct: 15.6
+    orb_pct: 38.3
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2018
+  tournament: womens
+  team: Oregon
+  seed: 2
+  region: Spokane
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 33-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 14.58
+  advanced:
+    srs: 33.42
+    offensive_rating: 115.0
+    defensive_rating: 38.56
+    pace: 70.8
+    efg_pct: 0.571
+    tov_pct: 15.2
+    orb_pct: 35.1
+    ft_rate: 0.266
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2018
+  tournament: womens
+  team: Ohio State
+  seed: 3
+  region: Spokane
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-7
+    conference: 13-3
+  strength_of_schedule:
+    rating: 13.62
+  advanced:
+    srs: 27.51
+    offensive_rating: 109.0
+    defensive_rating: 42.45
+    pace: 77.1
+    efg_pct: 0.515
+    tov_pct: 12.7
+    orb_pct: 31.7
+    ft_rate: 0.24
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Texas A&M
+  seed: 4
+  region: Spokane
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: 13.67
+  advanced:
+    srs: 22.83
+    offensive_rating: 106.6
+    defensive_rating: 45.65
+    pace: 72.4
+    efg_pct: 0.492
+    tov_pct: 15.3
+    orb_pct: 40.0
+    ft_rate: 0.336
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2018
+  tournament: womens
+  team: DePaul
+  seed: 5
+  region: Spokane
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-8
+    conference: 15-3
+  strength_of_schedule:
+    rating: 10.88
+  advanced:
+    srs: 22.99
+    offensive_rating: 107.6
+    defensive_rating: 45.11
+    pace: 76.5
+    efg_pct: 0.528
+    tov_pct: 15.2
+    orb_pct: 31.9
+    ft_rate: 0.215
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: LSU
+  seed: 6
+  region: Spokane
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: 10.89
+  advanced:
+    srs: 15.58
+    offensive_rating: 94.5
+    defensive_rating: 40.46
+    pace: 69.9
+    efg_pct: 0.446
+    tov_pct: 15.5
+    orb_pct: 36.0
+    ft_rate: 0.301
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Green Bay
+  seed: 7
+  region: Spokane
+  conference: Horizon
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-4
+    conference: 16-2
+  strength_of_schedule:
+    rating: 2.77
+  advanced:
+    srs: 20.95
+    offensive_rating: 101.2
+    defensive_rating: 32.91
+    pace: 64.8
+    efg_pct: 0.492
+    tov_pct: 15.6
+    orb_pct: 35.9
+    ft_rate: 0.278
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: South Dakota State
+  seed: 8
+  region: Spokane
+  conference: Summit
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 12-2
+  strength_of_schedule:
+    rating: 2.59
+  advanced:
+    srs: 18.69
+    offensive_rating: 110.3
+    defensive_rating: 44.01
+    pace: 70.4
+    efg_pct: 0.525
+    tov_pct: 15.4
+    orb_pct: 33.8
+    ft_rate: 0.282
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Villanova
+  seed: 9
+  region: Spokane
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-9
+    conference: 12-6
+  strength_of_schedule:
+    rating: 9.19
+  advanced:
+    srs: 15.69
+    offensive_rating: 103.3
+    defensive_rating: 49.19
+    pace: 65.1
+    efg_pct: 0.51
+    tov_pct: 12.5
+    orb_pct: 22.8
+    ft_rate: 0.225
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Minnesota
+  seed: 10
+  region: Spokane
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 9.41
+  advanced:
+    srs: 19.53
+    offensive_rating: 108.9
+    defensive_rating: 50.04
+    pace: 77.7
+    efg_pct: 0.497
+    tov_pct: 13.4
+    orb_pct: 34.3
+    ft_rate: 0.296
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2018
+  tournament: womens
+  team: Central Michigan
+  seed: 11
+  region: Spokane
+  conference: MAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 30-5
+    conference: 17-1
+  strength_of_schedule:
+    rating: 5.54
+  advanced:
+    srs: 15.95
+    offensive_rating: 113.0
+    defensive_rating: 54.17
+    pace: 72.6
+    efg_pct: 0.54
+    tov_pct: 16.3
+    orb_pct: 37.0
+    ft_rate: 0.299
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2018
+  tournament: womens
+  team: Oklahoma
+  seed: 12
+  region: Spokane
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 16-15
+    conference: 11-7
+  strength_of_schedule:
+    rating: 18.06
+  advanced:
+    srs: 21.39
+    offensive_rating: 97.9
+    defensive_rating: 40.68
+    pace: 77.1
+    efg_pct: 0.492
+    tov_pct: 17.5
+    orb_pct: 28.2
+    ft_rate: 0.348
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Drake
+  seed: 13
+  region: Spokane
+  conference: MVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-8
+    conference: 18-0
+  strength_of_schedule:
+    rating: -0.53
+  advanced:
+    srs: 12.6
+    offensive_rating: 112.5
+    defensive_rating: 53.34
+    pace: 71.7
+    efg_pct: 0.566
+    tov_pct: 17.7
+    orb_pct: 35.3
+    ft_rate: 0.28
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: George Washington
+  seed: 14
+  region: Spokane
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-14
+    conference: 10-6
+  strength_of_schedule:
+    rating: 4.37
+  advanced:
+    srs: 5.58
+    offensive_rating: 91.4
+    defensive_rating: 47.38
+    pace: 64.8
+    efg_pct: 0.435
+    tov_pct: 13.6
+    orb_pct: 24.9
+    ft_rate: 0.247
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: Seattle
+  seed: 15
+  region: Spokane
+  conference: WAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 18-15
+    conference: 9-5
+  strength_of_schedule:
+    rating: -4.17
+  advanced:
+    srs: -4.54
+    offensive_rating: 94.8
+    defensive_rating: 57.39
+    pace: 71.4
+    efg_pct: 0.449
+    tov_pct: 15.8
+    orb_pct: 30.7
+    ft_rate: 0.243
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2018
+  tournament: womens
+  team: CSUN
+  seed: 16
+  region: Spokane
+  conference: Big West
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-16
+    conference: 8-8
+  strength_of_schedule:
+    rating: -1.67
+  advanced:
+    srs: -1.41
+    offensive_rating: 92.5
+    defensive_rating: 52.85
+    pace: 70.3
+    efg_pct: 0.446
+    tov_pct: 19.9
+    orb_pct: 38.0
+    ft_rate: 0.316
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null

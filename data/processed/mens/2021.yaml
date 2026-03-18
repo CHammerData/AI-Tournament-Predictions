@@ -1,0 +1,2243 @@
+year: 2021
+tournament: mens
+teams:
+- year: 2021
+  tournament: mens
+  team: Michigan
+  seed: 1
+  region: East
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 23-5
+    conference: 14-3
+  strength_of_schedule:
+    rating: 11.25
+  advanced:
+    srs: 22.0
+    offensive_rating: 111.3
+    defensive_rating: 86.42
+    pace: 67.8
+    efg_pct: 0.547
+    tov_pct: 14.7
+    orb_pct: 28.9
+    ft_rate: 0.304
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Alabama
+  seed: 2
+  region: East
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 16-2
+  strength_of_schedule:
+    rating: 10.01
+  advanced:
+    srs: 19.58
+    offensive_rating: 106.3
+    defensive_rating: 85.56
+    pace: 74.7
+    efg_pct: 0.517
+    tov_pct: 15.9
+    orb_pct: 31.8
+    ft_rate: 0.288
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Texas
+  seed: 3
+  region: East
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-8
+    conference: 11-6
+  strength_of_schedule:
+    rating: 9.36
+  advanced:
+    srs: 15.51
+    offensive_rating: 105.5
+    defensive_rating: 90.94
+    pace: 69.5
+    efg_pct: 0.529
+    tov_pct: 18.0
+    orb_pct: 30.9
+    ft_rate: 0.339
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Florida State
+  seed: 4
+  region: East
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-7
+    conference: 11-4
+  strength_of_schedule:
+    rating: 9.16
+  advanced:
+    srs: 17.12
+    offensive_rating: 109.1
+    defensive_rating: 90.59
+    pace: 70.0
+    efg_pct: 0.54
+    tov_pct: 17.6
+    orb_pct: 33.7
+    ft_rate: 0.324
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Colorado
+  seed: 5
+  region: East
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-9
+    conference: 14-6
+  strength_of_schedule:
+    rating: 9.57
+  advanced:
+    srs: 18.88
+    offensive_rating: 109.9
+    defensive_rating: 89.37
+    pace: 66.5
+    efg_pct: 0.524
+    tov_pct: 15.0
+    orb_pct: 30.6
+    ft_rate: 0.295
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: BYU
+  seed: 6
+  region: East
+  conference: WCC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-7
+    conference: 10-3
+  strength_of_schedule:
+    rating: 7.23
+  advanced:
+    srs: 15.19
+    offensive_rating: 109.8
+    defensive_rating: 91.2
+    pace: 70.2
+    efg_pct: 0.556
+    tov_pct: 16.4
+    orb_pct: 28.6
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: UConn
+  seed: 7
+  region: East
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 15-8
+    conference: 11-6
+  strength_of_schedule:
+    rating: 8.59
+  advanced:
+    srs: 15.77
+    offensive_rating: 107.8
+    defensive_rating: 90.66
+    pace: 66.2
+    efg_pct: 0.49
+    tov_pct: 14.5
+    orb_pct: 37.0
+    ft_rate: 0.29
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: LSU
+  seed: 8
+  region: East
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-10
+    conference: 11-6
+  strength_of_schedule:
+    rating: 9.14
+  advanced:
+    srs: 15.7
+    offensive_rating: 112.1
+    defensive_rating: 98.05
+    pace: 72.6
+    efg_pct: 0.523
+    tov_pct: 13.5
+    orb_pct: 31.2
+    ft_rate: 0.34
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: St. Bonaventure
+  seed: 9
+  region: East
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 16-5
+    conference: 11-4
+  strength_of_schedule:
+    rating: 4.49
+  advanced:
+    srs: 13.44
+    offensive_rating: 107.3
+    defensive_rating: 90.39
+    pace: 65.3
+    efg_pct: 0.498
+    tov_pct: 14.0
+    orb_pct: 32.7
+    ft_rate: 0.28
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Maryland
+  seed: 10
+  region: East
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 17-14
+    conference: 9-11
+  strength_of_schedule:
+    rating: 11.97
+  advanced:
+    srs: 13.94
+    offensive_rating: 104.4
+    defensive_rating: 93.34
+    pace: 65.9
+    efg_pct: 0.538
+    tov_pct: 15.3
+    orb_pct: 20.2
+    ft_rate: 0.329
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: UCLA
+  seed: 11
+  region: East
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 13-6
+  strength_of_schedule:
+    rating: 11.34
+  advanced:
+    srs: 16.3
+    offensive_rating: 108.4
+    defensive_rating: 93.15
+    pace: 65.4
+    efg_pct: 0.52
+    tov_pct: 13.6
+    orb_pct: 29.2
+    ft_rate: 0.316
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Georgetown
+  seed: 12
+  region: East
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 13-13
+    conference: 7-9
+  strength_of_schedule:
+    rating: 10.36
+  advanced:
+    srs: 10.13
+    offensive_rating: 101.0
+    defensive_rating: 92.63
+    pace: 70.4
+    efg_pct: 0.494
+    tov_pct: 18.5
+    orb_pct: 31.9
+    ft_rate: 0.308
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: UNC Greensboro
+  seed: 13
+  region: East
+  conference: Southern
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 21-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: -2.15
+  advanced:
+    srs: 3.48
+    offensive_rating: 103.1
+    defensive_rating: 96.16
+    pace: 70.5
+    efg_pct: 0.479
+    tov_pct: 13.1
+    orb_pct: 31.4
+    ft_rate: 0.237
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Abilene Christian
+  seed: 14
+  region: East
+  conference: Southland
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-5
+    conference: 13-2
+  strength_of_schedule:
+    rating: -6.37
+  advanced:
+    srs: 6.27
+    offensive_rating: 105.2
+    defensive_rating: 91.93
+    pace: 72.0
+    efg_pct: 0.512
+    tov_pct: 16.2
+    orb_pct: 31.3
+    ft_rate: 0.339
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Iona
+  seed: 15
+  region: East
+  conference: MAAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 12-6
+    conference: 6-3
+  strength_of_schedule:
+    rating: -6.42
+  advanced:
+    srs: -1.2
+    offensive_rating: 102.0
+    defensive_rating: 100.01
+    pace: 69.9
+    efg_pct: 0.507
+    tov_pct: 19.3
+    orb_pct: 32.2
+    ft_rate: 0.345
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Texas Southern
+  seed: 16
+  region: East
+  conference: SWAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 17-9
+    conference: 10-3
+  strength_of_schedule:
+    rating: -9.03
+  advanced:
+    srs: -6.15
+    offensive_rating: 99.6
+    defensive_rating: 104.28
+    pace: 73.9
+    efg_pct: 0.482
+    tov_pct: 17.8
+    orb_pct: 31.9
+    ft_rate: 0.379
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Illinois
+  seed: 1
+  region: Midwest
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-7
+    conference: 16-4
+  strength_of_schedule:
+    rating: 11.34
+  advanced:
+    srs: 23.25
+    offensive_rating: 111.7
+    defensive_rating: 86.45
+    pace: 71.2
+    efg_pct: 0.556
+    tov_pct: 15.8
+    orb_pct: 32.0
+    ft_rate: 0.379
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Houston
+  seed: 2
+  region: Midwest
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 28-4
+    conference: 14-3
+  strength_of_schedule:
+    rating: 5.37
+  advanced:
+    srs: 21.66
+    offensive_rating: 115.1
+    defensive_rating: 86.92
+    pace: 66.1
+    efg_pct: 0.51
+    tov_pct: 13.2
+    orb_pct: 39.4
+    ft_rate: 0.303
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: West Virginia
+  seed: 3
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-10
+    conference: 11-6
+  strength_of_schedule:
+    rating: 10.05
+  advanced:
+    srs: 15.36
+    offensive_rating: 108.2
+    defensive_rating: 93.99
+    pace: 70.6
+    efg_pct: 0.489
+    tov_pct: 14.1
+    orb_pct: 35.5
+    ft_rate: 0.379
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Oklahoma State
+  seed: 4
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-9
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.78
+  advanced:
+    srs: 13.65
+    offensive_rating: 102.7
+    defensive_rating: 89.4
+    pace: 73.0
+    efg_pct: 0.512
+    tov_pct: 18.2
+    orb_pct: 31.1
+    ft_rate: 0.376
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Tennessee
+  seed: 5
+  region: Midwest
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-9
+    conference: 10-7
+  strength_of_schedule:
+    rating: 8.46
+  advanced:
+    srs: 16.87
+    offensive_rating: 104.6
+    defensive_rating: 85.75
+    pace: 68.7
+    efg_pct: 0.496
+    tov_pct: 15.7
+    orb_pct: 31.3
+    ft_rate: 0.344
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: San Diego State
+  seed: 6
+  region: Midwest
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-5
+    conference: 14-3
+  strength_of_schedule:
+    rating: 2.99
+  advanced:
+    srs: 14.36
+    offensive_rating: 109.5
+    defensive_rating: 90.26
+    pace: 66.9
+    efg_pct: 0.526
+    tov_pct: 14.4
+    orb_pct: 29.0
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Clemson
+  seed: 7
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 16-8
+    conference: 10-6
+  strength_of_schedule:
+    rating: 9.49
+  advanced:
+    srs: 12.49
+    offensive_rating: 99.5
+    defensive_rating: 88.78
+    pace: 64.9
+    efg_pct: 0.5
+    tov_pct: 17.1
+    orb_pct: 26.4
+    ft_rate: 0.232
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Loyola Chicago
+  seed: 8
+  region: Midwest
+  conference: MVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 1.37
+  advanced:
+    srs: 15.12
+    offensive_rating: 110.5
+    defensive_rating: 87.76
+    pace: 63.8
+    efg_pct: 0.567
+    tov_pct: 16.4
+    orb_pct: 25.9
+    ft_rate: 0.322
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Georgia Tech
+  seed: 9
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 17-9
+    conference: 11-6
+  strength_of_schedule:
+    rating: 7.91
+  advanced:
+    srs: 12.79
+    offensive_rating: 107.8
+    defensive_rating: 95.48
+    pace: 67.9
+    efg_pct: 0.54
+    tov_pct: 14.4
+    orb_pct: 24.3
+    ft_rate: 0.284
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Rutgers
+  seed: 10
+  region: Midwest
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 16-12
+    conference: 10-10
+  strength_of_schedule:
+    rating: 12.5
+  advanced:
+    srs: 14.14
+    offensive_rating: 101.0
+    defensive_rating: 88.46
+    pace: 68.3
+    efg_pct: 0.501
+    tov_pct: 14.7
+    orb_pct: 27.3
+    ft_rate: 0.271
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Syracuse
+  seed: 11
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-10
+    conference: 9-7
+  strength_of_schedule:
+    rating: 8.59
+  advanced:
+    srs: 13.27
+    offensive_rating: 107.5
+    defensive_rating: 93.67
+    pace: 69.3
+    efg_pct: 0.512
+    tov_pct: 14.3
+    orb_pct: 28.8
+    ft_rate: 0.283
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Oregon State
+  seed: 12
+  region: Midwest
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 10-10
+  strength_of_schedule:
+    rating: 10.82
+  advanced:
+    srs: 11.48
+    offensive_rating: 105.7
+    defensive_rating: 95.39
+    pace: 66.2
+    efg_pct: 0.498
+    tov_pct: 15.1
+    orb_pct: 29.9
+    ft_rate: 0.349
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Liberty
+  seed: 13
+  region: Midwest
+  conference: A-Sun
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-6
+    conference: 11-2
+  strength_of_schedule:
+    rating: -6.14
+  advanced:
+    srs: 4.06
+    offensive_rating: 114.6
+    defensive_rating: 101.02
+    pace: 64.9
+    efg_pct: 0.58
+    tov_pct: 13.9
+    orb_pct: 23.4
+    ft_rate: 0.237
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Morehead State
+  seed: 14
+  region: Midwest
+  conference: OVC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-8
+    conference: 17-3
+  strength_of_schedule:
+    rating: -4.33
+  advanced:
+    srs: -0.95
+    offensive_rating: 101.6
+    defensive_rating: 98.24
+    pace: 67.1
+    efg_pct: 0.525
+    tov_pct: 19.8
+    orb_pct: 31.7
+    ft_rate: 0.354
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Cleveland State
+  seed: 15
+  region: Midwest
+  conference: Horizon
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 19-8
+    conference: 16-4
+  strength_of_schedule:
+    rating: -4.82
+  advanced:
+    srs: -5.12
+    offensive_rating: 102.6
+    defensive_rating: 102.78
+    pace: 67.6
+    efg_pct: 0.505
+    tov_pct: 16.2
+    orb_pct: 30.5
+    ft_rate: 0.325
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Drexel
+  seed: 16
+  region: Midwest
+  conference: CAA
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 12-8
+    conference: 4-5
+  strength_of_schedule:
+    rating: -3.92
+  advanced:
+    srs: -0.97
+    offensive_rating: 106.5
+    defensive_rating: 105.35
+    pace: 66.0
+    efg_pct: 0.533
+    tov_pct: 17.1
+    orb_pct: 28.4
+    ft_rate: 0.273
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Baylor
+  seed: 1
+  region: South
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 28-2
+    conference: 13-1
+  strength_of_schedule:
+    rating: 7.4
+  advanced:
+    srs: 24.83
+    offensive_rating: 118.6
+    defensive_rating: 89.29
+    pace: 69.6
+    efg_pct: 0.565
+    tov_pct: 14.0
+    orb_pct: 36.4
+    ft_rate: 0.265
+  momentum:
+    last_10: null
+  nba_prospects: 10
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Ohio State
+  seed: 2
+  region: South
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-10
+    conference: 12-8
+  strength_of_schedule:
+    rating: 12.19
+  advanced:
+    srs: 18.25
+    offensive_rating: 112.7
+    defensive_rating: 94.24
+    pace: 67.6
+    efg_pct: 0.529
+    tov_pct: 13.5
+    orb_pct: 29.2
+    ft_rate: 0.372
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Arkansas
+  seed: 3
+  region: South
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-7
+    conference: 13-4
+  strength_of_schedule:
+    rating: 7.18
+  advanced:
+    srs: 17.8
+    offensive_rating: 108.0
+    defensive_rating: 88.13
+    pace: 75.1
+    efg_pct: 0.508
+    tov_pct: 14.7
+    orb_pct: 31.3
+    ft_rate: 0.327
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Purdue
+  seed: 4
+  region: South
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-10
+    conference: 13-6
+  strength_of_schedule:
+    rating: 11.23
+  advanced:
+    srs: 15.55
+    offensive_rating: 105.8
+    defensive_rating: 91.26
+    pace: 66.5
+    efg_pct: 0.51
+    tov_pct: 16.0
+    orb_pct: 32.6
+    ft_rate: 0.317
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Villanova
+  seed: 5
+  region: South
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 18-7
+    conference: 11-4
+  strength_of_schedule:
+    rating: 9.19
+  advanced:
+    srs: 17.47
+    offensive_rating: 113.3
+    defensive_rating: 94.05
+    pace: 65.7
+    efg_pct: 0.532
+    tov_pct: 12.1
+    orb_pct: 27.5
+    ft_rate: 0.3
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Texas Tech
+  seed: 6
+  region: South
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-11
+    conference: 9-8
+  strength_of_schedule:
+    rating: 7.28
+  advanced:
+    srs: 16.59
+    offensive_rating: 107.1
+    defensive_rating: 88.11
+    pace: 67.1
+    efg_pct: 0.494
+    tov_pct: 13.7
+    orb_pct: 32.8
+    ft_rate: 0.379
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Florida
+  seed: 7
+  region: South
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 15-10
+    conference: 9-7
+  strength_of_schedule:
+    rating: 9.82
+  advanced:
+    srs: 13.7
+    offensive_rating: 104.6
+    defensive_rating: 92.08
+    pace: 70.6
+    efg_pct: 0.531
+    tov_pct: 18.7
+    orb_pct: 30.6
+    ft_rate: 0.339
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: UNC
+  seed: 8
+  region: South
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-11
+    conference: 10-6
+  strength_of_schedule:
+    rating: 9.52
+  advanced:
+    srs: 14.79
+    offensive_rating: 104.8
+    defensive_rating: 89.17
+    pace: 71.8
+    efg_pct: 0.483
+    tov_pct: 16.6
+    orb_pct: 40.6
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Wisconsin
+  seed: 9
+  region: South
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-13
+    conference: 10-10
+  strength_of_schedule:
+    rating: 11.93
+  advanced:
+    srs: 17.22
+    offensive_rating: 105.4
+    defensive_rating: 87.6
+    pace: 65.8
+    efg_pct: 0.499
+    tov_pct: 12.1
+    orb_pct: 23.6
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Virginia Tech
+  seed: 10
+  region: South
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 15-7
+    conference: 9-4
+  strength_of_schedule:
+    rating: 6.5
+  advanced:
+    srs: 12.59
+    offensive_rating: 106.7
+    defensive_rating: 92.47
+    pace: 66.4
+    efg_pct: 0.523
+    tov_pct: 15.1
+    orb_pct: 27.8
+    ft_rate: 0.334
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Utah State
+  seed: 11
+  region: South
+  conference: MWC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-9
+    conference: 13-4
+  strength_of_schedule:
+    rating: 1.32
+  advanced:
+    srs: 10.99
+    offensive_rating: 104.4
+    defensive_rating: 89.04
+    pace: 69.5
+    efg_pct: 0.5
+    tov_pct: 16.9
+    orb_pct: 35.4
+    ft_rate: 0.299
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Winthrop
+  seed: 12
+  region: South
+  conference: Big South
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-2
+    conference: 17-1
+  strength_of_schedule:
+    rating: -7.15
+  advanced:
+    srs: 4.69
+    offensive_rating: 108.8
+    defensive_rating: 97.13
+    pace: 72.5
+    efg_pct: 0.526
+    tov_pct: 16.4
+    orb_pct: 35.0
+    ft_rate: 0.356
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: North Texas
+  seed: 13
+  region: South
+  conference: CUSA(West)
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 18-10
+    conference: 9-5
+  strength_of_schedule:
+    rating: 1.02
+  advanced:
+    srs: 7.58
+    offensive_rating: 106.1
+    defensive_rating: 94.8
+    pace: 65.2
+    efg_pct: 0.544
+    tov_pct: 17.4
+    orb_pct: 28.1
+    ft_rate: 0.271
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Colgate
+  seed: 14
+  region: South
+  conference: Patriot(North)
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 14-2
+    conference: 11-1
+  strength_of_schedule:
+    rating: -1.9
+  advanced:
+    srs: 13.66
+    offensive_rating: 116.3
+    defensive_rating: 96.78
+    pace: 72.7
+    efg_pct: 0.566
+    tov_pct: 13.0
+    orb_pct: 27.6
+    ft_rate: 0.309
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Oral Roberts
+  seed: 15
+  region: South
+  conference: Summit
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 18-11
+    conference: 10-5
+  strength_of_schedule:
+    rating: -0.04
+  advanced:
+    srs: 1.73
+    offensive_rating: 109.7
+    defensive_rating: 104.16
+    pace: 73.6
+    efg_pct: 0.539
+    tov_pct: 13.9
+    orb_pct: 22.9
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Hartford
+  seed: 16
+  region: South
+  conference: AmEast
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 15-9
+    conference: 8-6
+  strength_of_schedule:
+    rating: -4.95
+  advanced:
+    srs: -3.45
+    offensive_rating: 97.6
+    defensive_rating: 99.52
+    pace: 67.0
+    efg_pct: 0.499
+    tov_pct: 17.5
+    orb_pct: 24.3
+    ft_rate: 0.286
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Gonzaga
+  seed: 1
+  region: West
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-1
+    conference: 15-0
+  strength_of_schedule:
+    rating: 5.92
+  advanced:
+    srs: 27.2
+    offensive_rating: 121.5
+    defensive_rating: 89.03
+    pace: 74.6
+    efg_pct: 0.61
+    tov_pct: 14.3
+    orb_pct: 29.2
+    ft_rate: 0.358
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Iowa
+  seed: 2
+  region: West
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 14-6
+  strength_of_schedule:
+    rating: 10.43
+  advanced:
+    srs: 21.4
+    offensive_rating: 117.5
+    defensive_rating: 95.09
+    pace: 71.0
+    efg_pct: 0.547
+    tov_pct: 11.5
+    orb_pct: 30.5
+    ft_rate: 0.32
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Kansas
+  seed: 3
+  region: West
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-9
+    conference: 12-6
+  strength_of_schedule:
+    rating: 10.26
+  advanced:
+    srs: 15.29
+    offensive_rating: 104.3
+    defensive_rating: 89.25
+    pace: 69.7
+    efg_pct: 0.499
+    tov_pct: 14.8
+    orb_pct: 30.5
+    ft_rate: 0.298
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Virginia
+  seed: 4
+  region: West
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 18-7
+    conference: 13-4
+  strength_of_schedule:
+    rating: 7.59
+  advanced:
+    srs: 15.27
+    offensive_rating: 111.5
+    defensive_rating: 92.54
+    pace: 60.8
+    efg_pct: 0.554
+    tov_pct: 13.5
+    orb_pct: 22.6
+    ft_rate: 0.217
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Creighton
+  seed: 5
+  region: West
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 14-6
+  strength_of_schedule:
+    rating: 8.54
+  advanced:
+    srs: 16.28
+    offensive_rating: 108.3
+    defensive_rating: 91.01
+    pace: 69.6
+    efg_pct: 0.55
+    tov_pct: 14.0
+    orb_pct: 24.3
+    ft_rate: 0.257
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: USC
+  seed: 6
+  region: West
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 15-5
+  strength_of_schedule:
+    rating: 10.65
+  advanced:
+    srs: 20.5
+    offensive_rating: 109.0
+    defensive_rating: 86.42
+    pace: 67.7
+    efg_pct: 0.528
+    tov_pct: 15.4
+    orb_pct: 34.4
+    ft_rate: 0.363
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Oregon
+  seed: 7
+  region: West
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 21-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: 9.65
+  advanced:
+    srs: 16.15
+    offensive_rating: 109.9
+    defensive_rating: 93.57
+    pace: 68.2
+    efg_pct: 0.542
+    tov_pct: 14.7
+    orb_pct: 28.8
+    ft_rate: 0.26
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Oklahoma
+  seed: 8
+  region: West
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 16-11
+    conference: 9-8
+  strength_of_schedule:
+    rating: 8.86
+  advanced:
+    srs: 13.52
+    offensive_rating: 106.2
+    defensive_rating: 93.63
+    pace: 69.2
+    efg_pct: 0.508
+    tov_pct: 13.7
+    orb_pct: 26.7
+    ft_rate: 0.293
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Missouri
+  seed: 9
+  region: West
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 16-10
+    conference: 8-8
+  strength_of_schedule:
+    rating: 10.87
+  advanced:
+    srs: 12.37
+    offensive_rating: 103.3
+    defensive_rating: 93.51
+    pace: 70.4
+    efg_pct: 0.508
+    tov_pct: 16.4
+    orb_pct: 28.3
+    ft_rate: 0.371
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: VCU
+  seed: 10
+  region: West
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-7
+    conference: 10-4
+  strength_of_schedule:
+    rating: 4.76
+  advanced:
+    srs: 11.3
+    offensive_rating: 101.2
+    defensive_rating: 88.4
+    pace: 70.5
+    efg_pct: 0.509
+    tov_pct: 18.3
+    orb_pct: 28.0
+    ft_rate: 0.34
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Drake
+  seed: 11
+  region: West
+  conference: MVC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-5
+    conference: 15-3
+  strength_of_schedule:
+    rating: -0.48
+  advanced:
+    srs: 9.42
+    offensive_rating: 112.8
+    defensive_rating: 98.03
+    pace: 66.8
+    efg_pct: 0.542
+    tov_pct: 13.3
+    orb_pct: 31.1
+    ft_rate: 0.239
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: UC Santa Barbara
+  seed: 12
+  region: West
+  conference: Big West
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 22-5
+    conference: 15-3
+  strength_of_schedule:
+    rating: -2.08
+  advanced:
+    srs: 7.8
+    offensive_rating: 112.0
+    defensive_rating: 95.68
+    pace: 67.2
+    efg_pct: 0.541
+    tov_pct: 14.2
+    orb_pct: 29.5
+    ft_rate: 0.34
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Ohio
+  seed: 13
+  region: West
+  conference: MAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 17-8
+    conference: 9-5
+  strength_of_schedule:
+    rating: -0.57
+  advanced:
+    srs: 5.48
+    offensive_rating: 110.6
+    defensive_rating: 101.46
+    pace: 71.6
+    efg_pct: 0.548
+    tov_pct: 14.8
+    orb_pct: 28.2
+    ft_rate: 0.295
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Eastern Washington
+  seed: 14
+  region: West
+  conference: Big Sky
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 16-8
+    conference: 12-3
+  strength_of_schedule:
+    rating: -3.15
+  advanced:
+    srs: 4.03
+    offensive_rating: 109.0
+    defensive_rating: 101.72
+    pace: 71.8
+    efg_pct: 0.54
+    tov_pct: 14.5
+    orb_pct: 23.0
+    ft_rate: 0.302
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Grand Canyon
+  seed: 15
+  region: West
+  conference: WAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 17-7
+    conference: 9-3
+  strength_of_schedule:
+    rating: -3.46
+  advanced:
+    srs: 5.11
+    offensive_rating: 110.7
+    defensive_rating: 95.94
+    pace: 68.2
+    efg_pct: 0.547
+    tov_pct: 16.2
+    orb_pct: 32.4
+    ft_rate: 0.314
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2021
+  tournament: mens
+  team: Norfolk State
+  seed: 16
+  region: West
+  conference: MEAC(Northern)
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 17-8
+    conference: 8-4
+  strength_of_schedule:
+    rating: -8.51
+  advanced:
+    srs: -6.16
+    offensive_rating: 101.7
+    defensive_rating: 103.45
+    pace: 72.0
+    efg_pct: 0.492
+    tov_pct: 15.6
+    orb_pct: 27.3
+    ft_rate: 0.37
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false

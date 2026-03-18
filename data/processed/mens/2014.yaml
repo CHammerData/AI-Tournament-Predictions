@@ -1,0 +1,2243 @@
+year: 2014
+tournament: mens
+teams:
+- year: 2014
+  tournament: mens
+  team: Virginia
+  seed: 1
+  region: East
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 30-7
+    conference: 16-2
+  strength_of_schedule:
+    rating: 7.86
+  advanced:
+    srs: 18.38
+    offensive_rating: 108.9
+    defensive_rating: 83.75
+    pace: 60.6
+    efg_pct: 0.508
+    tov_pct: 13.8
+    orb_pct: 33.2
+    ft_rate: 0.42
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Villanova
+  seed: 2
+  region: East
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 7.5
+  advanced:
+    srs: 18.97
+    offensive_rating: 113.3
+    defensive_rating: 87.97
+    pace: 67.6
+    efg_pct: 0.536
+    tov_pct: 14.9
+    orb_pct: 32.6
+    ft_rate: 0.445
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Iowa State
+  seed: 3
+  region: East
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 28-8
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.88
+  advanced:
+    srs: 18.52
+    offensive_rating: 113.9
+    defensive_rating: 92.67
+    pace: 71.7
+    efg_pct: 0.542
+    tov_pct: 12.6
+    orb_pct: 28.8
+    ft_rate: 0.364
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Michigan State
+  seed: 4
+  region: East
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 29-9
+    conference: 12-6
+  strength_of_schedule:
+    rating: 9.38
+  advanced:
+    srs: 19.35
+    offensive_rating: 113.3
+    defensive_rating: 89.98
+    pace: 66.0
+    efg_pct: 0.545
+    tov_pct: 14.7
+    orb_pct: 32.2
+    ft_rate: 0.337
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Cincinnati
+  seed: 5
+  region: East
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 5.28
+  advanced:
+    srs: 15.26
+    offensive_rating: 107.6
+    defensive_rating: 86.61
+    pace: 63.6
+    efg_pct: 0.477
+    tov_pct: 14.4
+    orb_pct: 39.1
+    ft_rate: 0.387
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: UNC
+  seed: 6
+  region: East
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-10
+    conference: 13-5
+  strength_of_schedule:
+    rating: 8.42
+  advanced:
+    srs: 15.24
+    offensive_rating: 108.5
+    defensive_rating: 89.9
+    pace: 70.0
+    efg_pct: 0.499
+    tov_pct: 14.1
+    orb_pct: 38.1
+    ft_rate: 0.429
+  momentum:
+    last_10: null
+  nba_prospects: 8
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: UConn
+  seed: 7
+  region: East
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 32-8
+    conference: 12-6
+  strength_of_schedule:
+    rating: 8.63
+  advanced:
+    srs: 17.23
+    offensive_rating: 108.9
+    defensive_rating: 87.67
+    pace: 65.5
+    efg_pct: 0.515
+    tov_pct: 15.2
+    orb_pct: 30.4
+    ft_rate: 0.383
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Memphis
+  seed: 8
+  region: East
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-10
+    conference: 12-6
+  strength_of_schedule:
+    rating: 7.14
+  advanced:
+    srs: 13.02
+    offensive_rating: 108.2
+    defensive_rating: 92.85
+    pace: 70.6
+    efg_pct: 0.522
+    tov_pct: 15.8
+    orb_pct: 35.6
+    ft_rate: 0.399
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: George Washington
+  seed: 9
+  region: East
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 4.42
+  advanced:
+    srs: 10.6
+    offensive_rating: 107.3
+    defensive_rating: 94.38
+    pace: 67.9
+    efg_pct: 0.515
+    tov_pct: 16.2
+    orb_pct: 35.1
+    ft_rate: 0.466
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Saint Joseph's
+  seed: 10
+  region: East
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: 5.08
+  advanced:
+    srs: 9.05
+    offensive_rating: 108.1
+    defensive_rating: 96.86
+    pace: 66.0
+    efg_pct: 0.539
+    tov_pct: 15.9
+    orb_pct: 29.0
+    ft_rate: 0.436
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Providence
+  seed: 11
+  region: East
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 7.85
+  advanced:
+    srs: 11.37
+    offensive_rating: 109.1
+    defensive_rating: 96.47
+    pace: 64.9
+    efg_pct: 0.483
+    tov_pct: 14.6
+    orb_pct: 35.4
+    ft_rate: 0.419
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Harvard
+  seed: 12
+  region: East
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-5
+    conference: 13-1
+  strength_of_schedule:
+    rating: -0.47
+  advanced:
+    srs: 10.79
+    offensive_rating: 111.6
+    defensive_rating: 92.13
+    pace: 64.6
+    efg_pct: 0.519
+    tov_pct: 15.0
+    orb_pct: 32.8
+    ft_rate: 0.48
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Delaware
+  seed: 13
+  region: East
+  conference: CAA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 25-10
+    conference: 14-2
+  strength_of_schedule:
+    rating: -1.1
+  advanced:
+    srs: 2.73
+    offensive_rating: 111.7
+    defensive_rating: 104.91
+    pace: 70.9
+    efg_pct: 0.504
+    tov_pct: 11.6
+    orb_pct: 29.1
+    ft_rate: 0.439
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: North Carolina Central
+  seed: 14
+  region: East
+  conference: MEAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-6
+    conference: 16-1
+  strength_of_schedule:
+    rating: -8.03
+  advanced:
+    srs: 3.97
+    offensive_rating: 112.5
+    defensive_rating: 98.5
+    pace: 64.8
+    efg_pct: 0.513
+    tov_pct: 14.8
+    orb_pct: 36.6
+    ft_rate: 0.476
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Milwaukee
+  seed: 15
+  region: East
+  conference: Horizon
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 21-14
+    conference: 7-9
+  strength_of_schedule:
+    rating: -0.44
+  advanced:
+    srs: -1.53
+    offensive_rating: 102.6
+    defensive_rating: 102.55
+    pace: 67.9
+    efg_pct: 0.493
+    tov_pct: 17.1
+    orb_pct: 28.3
+    ft_rate: 0.436
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Coastal Carolina
+  seed: 16
+  region: East
+  conference: Big South(South)
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 21-13
+    conference: 11-5
+  strength_of_schedule:
+    rating: -6.31
+  advanced:
+    srs: -5.21
+    offensive_rating: 104.2
+    defensive_rating: 101.56
+    pace: 68.6
+    efg_pct: 0.491
+    tov_pct: 16.9
+    orb_pct: 35.1
+    ft_rate: 0.385
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Wichita State
+  seed: 1
+  region: Midwest
+  conference: MVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 35-1
+    conference: 18-0
+  strength_of_schedule:
+    rating: 1.74
+  advanced:
+    srs: 16.65
+    offensive_rating: 116.2
+    defensive_rating: 88.6
+    pace: 64.5
+    efg_pct: 0.526
+    tov_pct: 13.6
+    orb_pct: 35.1
+    ft_rate: 0.472
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Michigan
+  seed: 2
+  region: Midwest
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 28-9
+    conference: 15-3
+  strength_of_schedule:
+    rating: 9.65
+  advanced:
+    srs: 18.52
+    offensive_rating: 117.5
+    defensive_rating: 95.64
+    pace: 62.5
+    efg_pct: 0.557
+    tov_pct: 12.7
+    orb_pct: 28.6
+    ft_rate: 0.349
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Duke
+  seed: 3
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: 8.48
+  advanced:
+    srs: 19.51
+    offensive_rating: 119.4
+    defensive_rating: 95.42
+    pace: 65.5
+    efg_pct: 0.538
+    tov_pct: 12.1
+    orb_pct: 34.5
+    ft_rate: 0.388
+  momentum:
+    last_10: null
+  nba_prospects: 16
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Louisville
+  seed: 4
+  region: Midwest
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-6
+    conference: 15-3
+  strength_of_schedule:
+    rating: 4.8
+  advanced:
+    srs: 24.69
+    offensive_rating: 117.4
+    defensive_rating: 84.26
+    pace: 69.0
+    efg_pct: 0.535
+    tov_pct: 12.8
+    orb_pct: 37.1
+    ft_rate: 0.412
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Saint Louis
+  seed: 5
+  region: Midwest
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-7
+    conference: 13-3
+  strength_of_schedule:
+    rating: 4.24
+  advanced:
+    srs: 11.63
+    offensive_rating: 102.4
+    defensive_rating: 86.93
+    pace: 67.4
+    efg_pct: 0.494
+    tov_pct: 16.2
+    orb_pct: 29.4
+    ft_rate: 0.404
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: UMass
+  seed: 6
+  region: Midwest
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-9
+    conference: 10-6
+  strength_of_schedule:
+    rating: 6.0
+  advanced:
+    srs: 10.61
+    offensive_rating: 105.3
+    defensive_rating: 92.51
+    pace: 71.7
+    efg_pct: 0.504
+    tov_pct: 16.1
+    orb_pct: 34.4
+    ft_rate: 0.392
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Texas
+  seed: 7
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.15
+  advanced:
+    srs: 12.67
+    offensive_rating: 107.0
+    defensive_rating: 92.41
+    pace: 69.1
+    efg_pct: 0.474
+    tov_pct: 14.4
+    orb_pct: 39.6
+    ft_rate: 0.434
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Kentucky
+  seed: 8
+  region: Midwest
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 29-11
+    conference: 12-6
+  strength_of_schedule:
+    rating: 9.9
+  advanced:
+    srs: 18.07
+    offensive_rating: 112.4
+    defensive_rating: 91.3
+    pace: 65.9
+    efg_pct: 0.5
+    tov_pct: 14.5
+    orb_pct: 41.4
+    ft_rate: 0.518
+  momentum:
+    last_10: null
+  nba_prospects: 21
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Kansas State
+  seed: 9
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-13
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.47
+  advanced:
+    srs: 12.14
+    offensive_rating: 104.2
+    defensive_rating: 89.24
+    pace: 65.6
+    efg_pct: 0.488
+    tov_pct: 15.6
+    orb_pct: 34.7
+    ft_rate: 0.403
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Arizona State
+  seed: 10
+  region: Midwest
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 7.41
+  advanced:
+    srs: 13.32
+    offensive_rating: 107.2
+    defensive_rating: 91.77
+    pace: 69.0
+    efg_pct: 0.524
+    tov_pct: 14.5
+    orb_pct: 24.5
+    ft_rate: 0.425
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Tennessee
+  seed: 11
+  region: Midwest
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 7.84
+  advanced:
+    srs: 17.34
+    offensive_rating: 114.2
+    defensive_rating: 91.07
+    pace: 62.8
+    efg_pct: 0.503
+    tov_pct: 13.7
+    orb_pct: 39.8
+    ft_rate: 0.416
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: NC State
+  seed: 12
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-14
+    conference: 9-9
+  strength_of_schedule:
+    rating: 7.44
+  advanced:
+    srs: 9.02
+    offensive_rating: 108.1
+    defensive_rating: 98.34
+    pace: 64.9
+    efg_pct: 0.5
+    tov_pct: 13.4
+    orb_pct: 34.2
+    ft_rate: 0.37
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Manhattan
+  seed: 13
+  region: Midwest
+  conference: MAAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-8
+    conference: 15-5
+  strength_of_schedule:
+    rating: -0.9
+  advanced:
+    srs: 6.04
+    offensive_rating: 107.1
+    defensive_rating: 95.39
+    pace: 70.3
+    efg_pct: 0.507
+    tov_pct: 16.8
+    orb_pct: 34.4
+    ft_rate: 0.555
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Mercer
+  seed: 14
+  region: Midwest
+  conference: A-Sun
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-9
+    conference: 14-4
+  strength_of_schedule:
+    rating: -3.42
+  advanced:
+    srs: 5.33
+    offensive_rating: 115.7
+    defensive_rating: 99.48
+    pace: 65.8
+    efg_pct: 0.547
+    tov_pct: 14.7
+    orb_pct: 34.0
+    ft_rate: 0.384
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Wofford
+  seed: 15
+  region: Midwest
+  conference: Southern
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 11-5
+  strength_of_schedule:
+    rating: -5.95
+  advanced:
+    srs: -4.32
+    offensive_rating: 105.6
+    defensive_rating: 102.74
+    pace: 63.1
+    efg_pct: 0.502
+    tov_pct: 14.4
+    orb_pct: 31.7
+    ft_rate: 0.328
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Cal Poly
+  seed: 16
+  region: Midwest
+  conference: Big West
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 14-20
+    conference: 6-10
+  strength_of_schedule:
+    rating: 1.69
+  advanced:
+    srs: -1.34
+    offensive_rating: 103.5
+    defensive_rating: 101.8
+    pace: 60.8
+    efg_pct: 0.466
+    tov_pct: 12.4
+    orb_pct: 31.8
+    ft_rate: 0.326
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Florida
+  seed: 1
+  region: South
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 36-3
+    conference: 18-0
+  strength_of_schedule:
+    rating: 8.54
+  advanced:
+    srs: 20.69
+    offensive_rating: 111.1
+    defensive_rating: 84.22
+    pace: 62.7
+    efg_pct: 0.522
+    tov_pct: 14.5
+    orb_pct: 34.7
+    ft_rate: 0.424
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Kansas
+  seed: 2
+  region: South
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 25-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: 11.4
+  advanced:
+    srs: 20.25
+    offensive_rating: 114.3
+    defensive_rating: 90.71
+    pace: 68.6
+    efg_pct: 0.542
+    tov_pct: 16.3
+    orb_pct: 37.3
+    ft_rate: 0.483
+  momentum:
+    last_10: null
+  nba_prospects: 11
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Syracuse
+  seed: 3
+  region: South
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-6
+    conference: 14-4
+  strength_of_schedule:
+    rating: 7.25
+  advanced:
+    srs: 16.05
+    offensive_rating: 111.6
+    defensive_rating: 89.85
+    pace: 60.5
+    efg_pct: 0.482
+    tov_pct: 12.1
+    orb_pct: 38.1
+    ft_rate: 0.382
+  momentum:
+    last_10: null
+  nba_prospects: 10
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: UCLA
+  seed: 4
+  region: South
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 28-9
+    conference: 12-6
+  strength_of_schedule:
+    rating: 7.62
+  advanced:
+    srs: 18.4
+    offensive_rating: 115.1
+    defensive_rating: 92.3
+    pace: 70.0
+    efg_pct: 0.541
+    tov_pct: 12.7
+    orb_pct: 29.8
+    ft_rate: 0.382
+  momentum:
+    last_10: null
+  nba_prospects: 13
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: VCU
+  seed: 5
+  region: South
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 12-4
+  strength_of_schedule:
+    rating: 4.78
+  advanced:
+    srs: 14.55
+    offensive_rating: 105.0
+    defensive_rating: 86.79
+    pace: 70.4
+    efg_pct: 0.479
+    tov_pct: 14.2
+    orb_pct: 34.3
+    ft_rate: 0.352
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Ohio State
+  seed: 6
+  region: South
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-10
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.12
+  advanced:
+    srs: 17.84
+    offensive_rating: 106.1
+    defensive_rating: 83.32
+    pace: 65.0
+    efg_pct: 0.503
+    tov_pct: 14.9
+    orb_pct: 29.6
+    ft_rate: 0.423
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: New Mexico
+  seed: 7
+  region: South
+  conference: MWC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 27-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 4.84
+  advanced:
+    srs: 12.72
+    offensive_rating: 111.2
+    defensive_rating: 93.81
+    pace: 65.6
+    efg_pct: 0.511
+    tov_pct: 13.8
+    orb_pct: 32.5
+    ft_rate: 0.466
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Colorado
+  seed: 8
+  region: South
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.8
+  advanced:
+    srs: 10.8
+    offensive_rating: 103.7
+    defensive_rating: 93.38
+    pace: 67.0
+    efg_pct: 0.483
+    tov_pct: 16.8
+    orb_pct: 34.0
+    ft_rate: 0.483
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Pitt
+  seed: 9
+  region: South
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 7.54
+  advanced:
+    srs: 17.46
+    offensive_rating: 113.0
+    defensive_rating: 90.65
+    pace: 62.5
+    efg_pct: 0.507
+    tov_pct: 13.7
+    orb_pct: 37.3
+    ft_rate: 0.443
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Stanford
+  seed: 10
+  region: South
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-13
+    conference: 10-8
+  strength_of_schedule:
+    rating: 9.0
+  advanced:
+    srs: 13.42
+    offensive_rating: 108.0
+    defensive_rating: 92.34
+    pace: 67.1
+    efg_pct: 0.513
+    tov_pct: 14.7
+    orb_pct: 29.3
+    ft_rate: 0.45
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Dayton
+  seed: 11
+  region: South
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-11
+    conference: 10-6
+  strength_of_schedule:
+    rating: 5.34
+  advanced:
+    srs: 10.55
+    offensive_rating: 109.6
+    defensive_rating: 96.29
+    pace: 65.4
+    efg_pct: 0.524
+    tov_pct: 15.5
+    orb_pct: 34.0
+    ft_rate: 0.406
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Stephen F. Austin
+  seed: 12
+  region: South
+  conference: Southland
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 32-3
+    conference: 18-0
+  strength_of_schedule:
+    rating: -6.76
+  advanced:
+    srs: 4.82
+    offensive_rating: 115.2
+    defensive_rating: 100.7
+    pace: 65.5
+    efg_pct: 0.525
+    tov_pct: 14.2
+    orb_pct: 38.4
+    ft_rate: 0.402
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Tulsa
+  seed: 13
+  region: South
+  conference: CUSA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 21-13
+    conference: 13-3
+  strength_of_schedule:
+    rating: 1.17
+  advanced:
+    srs: 6.23
+    offensive_rating: 105.0
+    defensive_rating: 94.77
+    pace: 68.7
+    efg_pct: 0.492
+    tov_pct: 14.5
+    orb_pct: 30.2
+    ft_rate: 0.471
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Western Michigan
+  seed: 14
+  region: South
+  conference: MAC(West)
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: -1.45
+  advanced:
+    srs: 1.73
+    offensive_rating: 106.5
+    defensive_rating: 100.52
+    pace: 66.5
+    efg_pct: 0.52
+    tov_pct: 18.2
+    orb_pct: 31.6
+    ft_rate: 0.508
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Eastern Kentucky
+  seed: 15
+  region: South
+  conference: OVC(East)
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: -4.34
+  advanced:
+    srs: 0.6
+    offensive_rating: 116.3
+    defensive_rating: 107.49
+    pace: 67.4
+    efg_pct: 0.574
+    tov_pct: 14.1
+    orb_pct: 23.6
+    ft_rate: 0.441
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Albany (NY)
+  seed: 16
+  region: South
+  conference: AmEast
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-15
+    conference: 9-7
+  strength_of_schedule:
+    rating: -5.22
+  advanced:
+    srs: -3.31
+    offensive_rating: 103.3
+    defensive_rating: 102.75
+    pace: 63.1
+    efg_pct: 0.488
+    tov_pct: 17.1
+    orb_pct: 31.9
+    ft_rate: 0.42
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Arizona
+  seed: 1
+  region: West
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 33-5
+    conference: 15-3
+  strength_of_schedule:
+    rating: 9.04
+  advanced:
+    srs: 23.36
+    offensive_rating: 112.3
+    defensive_rating: 80.93
+    pace: 64.1
+    efg_pct: 0.517
+    tov_pct: 13.2
+    orb_pct: 36.4
+    ft_rate: 0.41
+  momentum:
+    last_10: null
+  nba_prospects: 12
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Wisconsin
+  seed: 2
+  region: West
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 30-8
+    conference: 12-6
+  strength_of_schedule:
+    rating: 10.19
+  advanced:
+    srs: 19.69
+    offensive_rating: 115.7
+    defensive_rating: 92.18
+    pace: 63.3
+    efg_pct: 0.533
+    tov_pct: 11.2
+    orb_pct: 28.1
+    ft_rate: 0.426
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Creighton
+  seed: 3
+  region: West
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 7.17
+  advanced:
+    srs: 18.03
+    offensive_rating: 120.6
+    defensive_rating: 98.02
+    pace: 65.3
+    efg_pct: 0.589
+    tov_pct: 13.3
+    orb_pct: 27.7
+    ft_rate: 0.339
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: San Diego State
+  seed: 4
+  region: West
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 31-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 4.86
+  advanced:
+    srs: 14.95
+    offensive_rating: 109.2
+    defensive_rating: 85.52
+    pace: 63.9
+    efg_pct: 0.481
+    tov_pct: 12.7
+    orb_pct: 36.7
+    ft_rate: 0.449
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Oklahoma
+  seed: 5
+  region: West
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 12-6
+  strength_of_schedule:
+    rating: 8.97
+  advanced:
+    srs: 14.91
+    offensive_rating: 113.0
+    defensive_rating: 96.09
+    pace: 71.7
+    efg_pct: 0.517
+    tov_pct: 13.5
+    orb_pct: 32.4
+    ft_rate: 0.394
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Baylor
+  seed: 6
+  region: West
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-12
+    conference: 9-9
+  strength_of_schedule:
+    rating: 10.11
+  advanced:
+    srs: 15.8
+    offensive_rating: 115.1
+    defensive_rating: 94.81
+    pace: 64.2
+    efg_pct: 0.521
+    tov_pct: 14.7
+    orb_pct: 40.6
+    ft_rate: 0.45
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Oregon
+  seed: 7
+  region: West
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-10
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.05
+  advanced:
+    srs: 15.75
+    offensive_rating: 115.0
+    defensive_rating: 95.42
+    pace: 69.9
+    efg_pct: 0.535
+    tov_pct: 14.0
+    orb_pct: 32.2
+    ft_rate: 0.438
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Gonzaga
+  seed: 8
+  region: West
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 5.36
+  advanced:
+    srs: 15.56
+    offensive_rating: 114.1
+    defensive_rating: 90.9
+    pace: 67.2
+    efg_pct: 0.56
+    tov_pct: 15.2
+    orb_pct: 30.6
+    ft_rate: 0.404
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Oklahoma State
+  seed: 9
+  region: West
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-13
+    conference: 8-10
+  strength_of_schedule:
+    rating: 8.34
+  advanced:
+    srs: 19.02
+    offensive_rating: 112.8
+    defensive_rating: 90.18
+    pace: 69.6
+    efg_pct: 0.524
+    tov_pct: 12.9
+    orb_pct: 28.0
+    ft_rate: 0.497
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: BYU
+  seed: 10
+  region: West
+  conference: WCC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-12
+    conference: 13-5
+  strength_of_schedule:
+    rating: 5.72
+  advanced:
+    srs: 11.63
+    offensive_rating: 111.9
+    defensive_rating: 96.69
+    pace: 73.5
+    efg_pct: 0.503
+    tov_pct: 12.8
+    orb_pct: 34.7
+    ft_rate: 0.483
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Nebraska
+  seed: 11
+  region: West
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 8.5
+  advanced:
+    srs: 10.13
+    offensive_rating: 102.1
+    defensive_rating: 93.02
+    pace: 65.4
+    efg_pct: 0.483
+    tov_pct: 14.7
+    orb_pct: 25.7
+    ft_rate: 0.423
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: North Dakota State
+  seed: 12
+  region: West
+  conference: Summit
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 12-2
+  strength_of_schedule:
+    rating: -0.02
+  advanced:
+    srs: 6.31
+    offensive_rating: 117.7
+    defensive_rating: 103.27
+    pace: 63.9
+    efg_pct: 0.555
+    tov_pct: 13.4
+    orb_pct: 31.7
+    ft_rate: 0.409
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: New Mexico State
+  seed: 13
+  region: West
+  conference: WAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 26-10
+    conference: 12-4
+  strength_of_schedule:
+    rating: -2.58
+  advanced:
+    srs: 6.16
+    offensive_rating: 113.8
+    defensive_rating: 99.67
+    pace: 66.9
+    efg_pct: 0.539
+    tov_pct: 16.0
+    orb_pct: 37.5
+    ft_rate: 0.535
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Louisiana
+  seed: 14
+  region: West
+  conference: Sun Belt
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-12
+    conference: 11-7
+  strength_of_schedule:
+    rating: -0.28
+  advanced:
+    srs: 2.91
+    offensive_rating: 111.4
+    defensive_rating: 103.43
+    pace: 71.2
+    efg_pct: 0.522
+    tov_pct: 15.2
+    orb_pct: 36.3
+    ft_rate: 0.429
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: American
+  seed: 15
+  region: West
+  conference: Patriot
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 13-5
+  strength_of_schedule:
+    rating: -3.25
+  advanced:
+    srs: 0.69
+    offensive_rating: 103.4
+    defensive_rating: 98.72
+    pace: 60.7
+    efg_pct: 0.558
+    tov_pct: 20.7
+    orb_pct: 26.5
+    ft_rate: 0.35
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2014
+  tournament: mens
+  team: Weber State
+  seed: 16
+  region: West
+  conference: Big Sky
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 19-12
+    conference: 14-6
+  strength_of_schedule:
+    rating: -4.23
+  advanced:
+    srs: -0.92
+    offensive_rating: 111.3
+    defensive_rating: 105.15
+    pace: 64.3
+    efg_pct: 0.547
+    tov_pct: 16.7
+    orb_pct: 28.9
+    ft_rate: 0.498
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false

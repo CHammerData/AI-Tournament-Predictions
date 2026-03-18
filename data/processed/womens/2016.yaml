@@ -1,0 +1,2243 @@
+year: 2016
+tournament: womens
+teams:
+- year: 2016
+  tournament: womens
+  team: UConn
+  seed: 1
+  region: Bridgeport
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 38-0
+    conference: 18-0
+  strength_of_schedule:
+    rating: 12.62
+  advanced:
+    srs: 52.33
+    offensive_rating: 122.2
+    defensive_rating: 22.42
+    pace: 72.1
+    efg_pct: 0.59
+    tov_pct: 14.1
+    orb_pct: 39.3
+    ft_rate: 0.231
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 9
+- year: 2016
+  tournament: womens
+  team: Texas
+  seed: 2
+  region: Bridgeport
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 31-5
+    conference: 15-3
+  strength_of_schedule:
+    rating: 12.4
+  advanced:
+    srs: 27.09
+    offensive_rating: 96.8
+    defensive_rating: 31.97
+    pace: 73.4
+    efg_pct: 0.473
+    tov_pct: 18.3
+    orb_pct: 38.3
+    ft_rate: 0.322
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: UCLA
+  seed: 3
+  region: Bridgeport
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 14-4
+  strength_of_schedule:
+    rating: 15.53
+  advanced:
+    srs: 25.36
+    offensive_rating: 95.4
+    defensive_rating: 35.61
+    pace: 76.3
+    efg_pct: 0.443
+    tov_pct: 15.8
+    orb_pct: 37.0
+    ft_rate: 0.313
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2016
+  tournament: womens
+  team: Michigan State
+  seed: 4
+  region: Bridgeport
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: 13.26
+  advanced:
+    srs: 24.73
+    offensive_rating: 100.5
+    defensive_rating: 37.53
+    pace: 74.7
+    efg_pct: 0.485
+    tov_pct: 18.7
+    orb_pct: 38.0
+    ft_rate: 0.32
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Mississippi St.
+  seed: 5
+  region: Bridgeport
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 8.89
+  advanced:
+    srs: 22.17
+    offensive_rating: 97.8
+    defensive_rating: 35.54
+    pace: 70.4
+    efg_pct: 0.435
+    tov_pct: 16.3
+    orb_pct: 42.9
+    ft_rate: 0.304
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: South Florida
+  seed: 6
+  region: Bridgeport
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: 12.43
+  advanced:
+    srs: 23.11
+    offensive_rating: 99.0
+    defensive_rating: 40.74
+    pace: 73.2
+    efg_pct: 0.46
+    tov_pct: 14.6
+    orb_pct: 31.6
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: BYU
+  seed: 7
+  region: Bridgeport
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 16-2
+  strength_of_schedule:
+    rating: 4.91
+  advanced:
+    srs: 11.32
+    offensive_rating: 100.8
+    defensive_rating: 46.07
+    pace: 69.1
+    efg_pct: 0.482
+    tov_pct: 18.3
+    orb_pct: 32.8
+    ft_rate: 0.367
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Seton Hall
+  seed: 8
+  region: Bridgeport
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-9
+    conference: 12-6
+  strength_of_schedule:
+    rating: 7.68
+  advanced:
+    srs: 14.15
+    offensive_rating: 98.8
+    defensive_rating: 48.96
+    pace: 74.2
+    efg_pct: 0.479
+    tov_pct: 15.9
+    orb_pct: 33.7
+    ft_rate: 0.29
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Duquesne
+  seed: 9
+  region: Bridgeport
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 28-6
+    conference: 13-3
+  strength_of_schedule:
+    rating: 3.83
+  advanced:
+    srs: 12.98
+    offensive_rating: 98.7
+    defensive_rating: 45.92
+    pace: 72.2
+    efg_pct: 0.467
+    tov_pct: 16.3
+    orb_pct: 33.3
+    ft_rate: 0.268
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Missouri
+  seed: 10
+  region: Bridgeport
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 8-8
+  strength_of_schedule:
+    rating: 8.37
+  advanced:
+    srs: 17.93
+    offensive_rating: 96.1
+    defensive_rating: 40.67
+    pace: 70.5
+    efg_pct: 0.497
+    tov_pct: 21.5
+    orb_pct: 34.2
+    ft_rate: 0.331
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Colorado State
+  seed: 11
+  region: Bridgeport
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-2
+    conference: 18-0
+  strength_of_schedule:
+    rating: -3.07
+  advanced:
+    srs: 12.0
+    offensive_rating: 103.1
+    defensive_rating: 40.32
+    pace: 65.4
+    efg_pct: 0.498
+    tov_pct: 15.2
+    orb_pct: 28.8
+    ft_rate: 0.224
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Chattanooga
+  seed: 12
+  region: Bridgeport
+  conference: Southern
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-8
+    conference: 12-2
+  strength_of_schedule:
+    rating: 0.14
+  advanced:
+    srs: 4.99
+    offensive_rating: 92.7
+    defensive_rating: 46.16
+    pace: 62.0
+    efg_pct: 0.466
+    tov_pct: 18.9
+    orb_pct: 30.8
+    ft_rate: 0.247
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Belmont
+  seed: 13
+  region: Bridgeport
+  conference: OVC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 13-3
+  strength_of_schedule:
+    rating: -4.96
+  advanced:
+    srs: 4.52
+    offensive_rating: 108.5
+    defensive_rating: 53.22
+    pace: 68.3
+    efg_pct: 0.512
+    tov_pct: 16.7
+    orb_pct: 39.5
+    ft_rate: 0.283
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Hawaii
+  seed: 14
+  region: Bridgeport
+  conference: Big West
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 21-11
+    conference: 12-4
+  strength_of_schedule:
+    rating: -0.19
+  advanced:
+    srs: 5.06
+    offensive_rating: 91.7
+    defensive_rating: 48.35
+    pace: 70.5
+    efg_pct: 0.447
+    tov_pct: 20.2
+    orb_pct: 39.4
+    ft_rate: 0.371
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Alabama State
+  seed: 15
+  region: Bridgeport
+  conference: SWAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 19-12
+    conference: 14-4
+  strength_of_schedule:
+    rating: -18.24
+  advanced:
+    srs: -15.84
+    offensive_rating: 87.7
+    defensive_rating: 53.01
+    pace: 71.2
+    efg_pct: 0.429
+    tov_pct: 21.9
+    orb_pct: 36.0
+    ft_rate: 0.416
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Robert Morris
+  seed: 16
+  region: Bridgeport
+  conference: NEC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: -7.93
+  advanced:
+    srs: -5.86
+    offensive_rating: 92.7
+    defensive_rating: 53.6
+    pace: 68.6
+    efg_pct: 0.453
+    tov_pct: 19.1
+    orb_pct: 34.9
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Baylor
+  seed: 1
+  region: Dallas
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 36-2
+    conference: 17-1
+  strength_of_schedule:
+    rating: 11.66
+  advanced:
+    srs: 35.77
+    offensive_rating: 106.9
+    defensive_rating: 28.5
+    pace: 72.7
+    efg_pct: 0.513
+    tov_pct: 17.2
+    orb_pct: 41.8
+    ft_rate: 0.34
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 6
+- year: 2016
+  tournament: womens
+  team: Oregon State
+  seed: 2
+  region: Dallas
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 32-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 14.82
+  advanced:
+    srs: 29.76
+    offensive_rating: 97.5
+    defensive_rating: 29.56
+    pace: 68.6
+    efg_pct: 0.495
+    tov_pct: 19.0
+    orb_pct: 35.6
+    ft_rate: 0.254
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2016
+  tournament: womens
+  team: Louisville
+  seed: 3
+  region: Dallas
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 15-1
+  strength_of_schedule:
+    rating: 10.83
+  advanced:
+    srs: 23.57
+    offensive_rating: 102.2
+    defensive_rating: 41.03
+    pace: 70.6
+    efg_pct: 0.481
+    tov_pct: 17.4
+    orb_pct: 40.5
+    ft_rate: 0.303
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2016
+  tournament: womens
+  team: Texas A&M
+  seed: 4
+  region: Dallas
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: 13.05
+  advanced:
+    srs: 21.95
+    offensive_rating: 95.7
+    defensive_rating: 38.45
+    pace: 72.7
+    efg_pct: 0.46
+    tov_pct: 17.2
+    orb_pct: 37.4
+    ft_rate: 0.311
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Florida State
+  seed: 5
+  region: Dallas
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 13-3
+  strength_of_schedule:
+    rating: 11.04
+  advanced:
+    srs: 27.01
+    offensive_rating: 100.2
+    defensive_rating: 34.77
+    pace: 73.3
+    efg_pct: 0.496
+    tov_pct: 20.0
+    orb_pct: 43.9
+    ft_rate: 0.305
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2016
+  tournament: womens
+  team: DePaul
+  seed: 6
+  region: Dallas
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-9
+    conference: 16-2
+  strength_of_schedule:
+    rating: 10.55
+  advanced:
+    srs: 25.99
+    offensive_rating: 108.3
+    defensive_rating: 45.4
+    pace: 74.7
+    efg_pct: 0.525
+    tov_pct: 14.5
+    orb_pct: 33.9
+    ft_rate: 0.2
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Oklahoma State
+  seed: 7
+  region: Dallas
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 10.13
+  advanced:
+    srs: 17.13
+    offensive_rating: 92.3
+    defensive_rating: 36.13
+    pace: 70.2
+    efg_pct: 0.452
+    tov_pct: 18.3
+    orb_pct: 35.7
+    ft_rate: 0.298
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: St. John's
+  seed: 8
+  region: Dallas
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 7.92
+  advanced:
+    srs: 14.86
+    offensive_rating: 93.8
+    defensive_rating: 43.89
+    pace: 70.8
+    efg_pct: 0.48
+    tov_pct: 18.0
+    orb_pct: 29.3
+    ft_rate: 0.325
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Auburn
+  seed: 9
+  region: Dallas
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-13
+    conference: 8-8
+  strength_of_schedule:
+    rating: 10.62
+  advanced:
+    srs: 12.16
+    offensive_rating: 86.9
+    defensive_rating: 38.95
+    pace: 70.6
+    efg_pct: 0.446
+    tov_pct: 21.0
+    orb_pct: 35.1
+    ft_rate: 0.273
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: St. Bonaventure
+  seed: 10
+  region: Dallas
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-8
+    conference: 12-4
+  strength_of_schedule:
+    rating: 3.77
+  advanced:
+    srs: 10.68
+    offensive_rating: 90.4
+    defensive_rating: 43.23
+    pace: 68.7
+    efg_pct: 0.478
+    tov_pct: 19.7
+    orb_pct: 22.9
+    ft_rate: 0.264
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: James Madison
+  seed: 11
+  region: Dallas
+  conference: CAA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-6
+    conference: 17-1
+  strength_of_schedule:
+    rating: 0.44
+  advanced:
+    srs: 14.47
+    offensive_rating: 97.0
+    defensive_rating: 42.73
+    pace: 70.8
+    efg_pct: 0.432
+    tov_pct: 14.8
+    orb_pct: 40.3
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Middle Tennessee
+  seed: 12
+  region: Dallas
+  conference: CUSA
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 15-3
+  strength_of_schedule:
+    rating: 1.89
+  advanced:
+    srs: 9.92
+    offensive_rating: 97.3
+    defensive_rating: 47.76
+    pace: 71.2
+    efg_pct: 0.482
+    tov_pct: 19.1
+    orb_pct: 34.1
+    ft_rate: 0.357
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Missouri State
+  seed: 13
+  region: Dallas
+  conference: MVC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: 2.35
+  advanced:
+    srs: 9.23
+    offensive_rating: 97.0
+    defensive_rating: 48.09
+    pace: 71.9
+    efg_pct: 0.445
+    tov_pct: 16.2
+    orb_pct: 36.0
+    ft_rate: 0.324
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Central Arkansas
+  seed: 14
+  region: Dallas
+  conference: Southland
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 28-4
+    conference: 16-2
+  strength_of_schedule:
+    rating: -12.67
+  advanced:
+    srs: -4.85
+    offensive_rating: 110.1
+    defensive_rating: 46.22
+    pace: 59.1
+    efg_pct: 0.463
+    tov_pct: 17.7
+    orb_pct: 43.6
+    ft_rate: 0.322
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Troy
+  seed: 15
+  region: Dallas
+  conference: Sun Belt
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 12-8
+  strength_of_schedule:
+    rating: -4.13
+  advanced:
+    srs: -2.55
+    offensive_rating: 98.3
+    defensive_rating: 54.08
+    pace: 81.3
+    efg_pct: 0.46
+    tov_pct: 18.6
+    orb_pct: 35.7
+    ft_rate: 0.304
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Idaho
+  seed: 16
+  region: Dallas
+  conference: Big Sky
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-10
+    conference: 13-5
+  strength_of_schedule:
+    rating: -1.77
+  advanced:
+    srs: 7.57
+    offensive_rating: 101.5
+    defensive_rating: 47.11
+    pace: 72.8
+    efg_pct: 0.482
+    tov_pct: 15.6
+    orb_pct: 32.5
+    ft_rate: 0.261
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Notre Dame
+  seed: 1
+  region: Lexington
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 33-2
+    conference: 16-0
+  strength_of_schedule:
+    rating: 14.19
+  advanced:
+    srs: 32.96
+    offensive_rating: 107.7
+    defensive_rating: 36.77
+    pace: 74.0
+    efg_pct: 0.545
+    tov_pct: 17.1
+    orb_pct: 33.4
+    ft_rate: 0.347
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 6
+- year: 2016
+  tournament: womens
+  team: Maryland
+  seed: 2
+  region: Lexington
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-4
+    conference: 16-2
+  strength_of_schedule:
+    rating: 10.84
+  advanced:
+    srs: 33.7
+    offensive_rating: 111.1
+    defensive_rating: 35.57
+    pace: 74.9
+    efg_pct: 0.547
+    tov_pct: 17.7
+    orb_pct: 42.8
+    ft_rate: 0.256
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: Kentucky
+  seed: 3
+  region: Lexington
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 10-6
+  strength_of_schedule:
+    rating: 12.15
+  advanced:
+    srs: 26.24
+    offensive_rating: 99.5
+    defensive_rating: 36.56
+    pace: 74.8
+    efg_pct: 0.492
+    tov_pct: 17.4
+    orb_pct: 35.1
+    ft_rate: 0.305
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Stanford
+  seed: 4
+  region: Lexington
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 14.66
+  advanced:
+    srs: 27.49
+    offensive_rating: 99.8
+    defensive_rating: 35.63
+    pace: 68.4
+    efg_pct: 0.485
+    tov_pct: 16.8
+    orb_pct: 36.0
+    ft_rate: 0.3
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2016
+  tournament: womens
+  team: Miami
+  seed: 5
+  region: Lexington
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-9
+    conference: 10-6
+  strength_of_schedule:
+    rating: 9.68
+  advanced:
+    srs: 19.71
+    offensive_rating: 95.4
+    defensive_rating: 39.18
+    pace: 73.9
+    efg_pct: 0.483
+    tov_pct: 17.5
+    orb_pct: 33.8
+    ft_rate: 0.256
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Oklahoma
+  seed: 6
+  region: Lexington
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 13.11
+  advanced:
+    srs: 20.78
+    offensive_rating: 92.6
+    defensive_rating: 37.59
+    pace: 75.1
+    efg_pct: 0.465
+    tov_pct: 18.9
+    orb_pct: 29.7
+    ft_rate: 0.322
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Washington
+  seed: 7
+  region: Lexington
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 14.56
+  advanced:
+    srs: 22.74
+    offensive_rating: 97.2
+    defensive_rating: 41.47
+    pace: 73.5
+    efg_pct: 0.476
+    tov_pct: 15.4
+    orb_pct: 25.3
+    ft_rate: 0.3
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: Georgia
+  seed: 8
+  region: Lexington
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-10
+    conference: 9-7
+  strength_of_schedule:
+    rating: 9.51
+  advanced:
+    srs: 19.32
+    offensive_rating: 91.2
+    defensive_rating: 33.77
+    pace: 69.8
+    efg_pct: 0.45
+    tov_pct: 18.2
+    orb_pct: 35.7
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: Indiana
+  seed: 9
+  region: Lexington
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 12-6
+  strength_of_schedule:
+    rating: 12.63
+  advanced:
+    srs: 16.21
+    offensive_rating: 96.8
+    defensive_rating: 45.41
+    pace: 73.4
+    efg_pct: 0.477
+    tov_pct: 16.7
+    orb_pct: 27.3
+    ft_rate: 0.369
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Penn
+  seed: 10
+  region: Lexington
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 24-5
+    conference: 13-1
+  strength_of_schedule:
+    rating: 0.24
+  advanced:
+    srs: 9.95
+    offensive_rating: 95.7
+    defensive_rating: 42.36
+    pace: 65.3
+    efg_pct: 0.434
+    tov_pct: 13.6
+    orb_pct: 32.0
+    ft_rate: 0.271
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Purdue
+  seed: 11
+  region: Lexington
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 12.5
+  advanced:
+    srs: 18.31
+    offensive_rating: 93.9
+    defensive_rating: 39.29
+    pace: 70.6
+    efg_pct: 0.461
+    tov_pct: 17.3
+    orb_pct: 31.4
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: South Dakota State
+  seed: 12
+  region: Lexington
+  conference: Summit
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 27-7
+    conference: 13-3
+  strength_of_schedule:
+    rating: 3.42
+  advanced:
+    srs: 13.66
+    offensive_rating: 99.2
+    defensive_rating: 45.72
+    pace: 69.7
+    efg_pct: 0.478
+    tov_pct: 15.3
+    orb_pct: 31.6
+    ft_rate: 0.249
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: San Francisco
+  seed: 13
+  region: Lexington
+  conference: WCC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 21-12
+    conference: 9-9
+  strength_of_schedule:
+    rating: 2.87
+  advanced:
+    srs: 4.9
+    offensive_rating: 103.7
+    defensive_rating: 50.4
+    pace: 68.0
+    efg_pct: 0.484
+    tov_pct: 19.4
+    orb_pct: 34.5
+    ft_rate: 0.353
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: UNC Asheville
+  seed: 14
+  region: Lexington
+  conference: Big South
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 16-4
+  strength_of_schedule:
+    rating: -11.11
+  advanced:
+    srs: -4.3
+    offensive_rating: 100.6
+    defensive_rating: 53.65
+    pace: 67.1
+    efg_pct: 0.459
+    tov_pct: 16.9
+    orb_pct: 38.5
+    ft_rate: 0.36
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Iona
+  seed: 15
+  region: Lexington
+  conference: MAAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-12
+    conference: 16-4
+  strength_of_schedule:
+    rating: -2.52
+  advanced:
+    srs: 2.83
+    offensive_rating: 89.0
+    defensive_rating: 50.12
+    pace: 70.0
+    efg_pct: 0.437
+    tov_pct: 18.8
+    orb_pct: 35.0
+    ft_rate: 0.233
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: North Carolina A&T
+  seed: 16
+  region: Lexington
+  conference: MEAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 19-12
+    conference: 12-4
+  strength_of_schedule:
+    rating: -10.21
+  advanced:
+    srs: -7.42
+    offensive_rating: 90.8
+    defensive_rating: 45.81
+    pace: 69.3
+    efg_pct: 0.42
+    tov_pct: 19.8
+    orb_pct: 38.1
+    ft_rate: 0.306
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: South Carolina
+  seed: 1
+  region: Siouxfalls
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 33-2
+    conference: 16-0
+  strength_of_schedule:
+    rating: 13.37
+  advanced:
+    srs: 31.29
+    offensive_rating: 102.8
+    defensive_rating: 33.02
+    pace: 71.6
+    efg_pct: 0.503
+    tov_pct: 17.1
+    orb_pct: 37.1
+    ft_rate: 0.415
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2016
+  tournament: womens
+  team: Arizona State
+  seed: 2
+  region: Siouxfalls
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 16-2
+  strength_of_schedule:
+    rating: 14.05
+  advanced:
+    srs: 23.08
+    offensive_rating: 93.9
+    defensive_rating: 35.46
+    pace: 67.6
+    efg_pct: 0.46
+    tov_pct: 18.0
+    orb_pct: 36.4
+    ft_rate: 0.269
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Ohio State
+  seed: 3
+  region: Siouxfalls
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 15-3
+  strength_of_schedule:
+    rating: 15.63
+  advanced:
+    srs: 27.1
+    offensive_rating: 107.7
+    defensive_rating: 45.21
+    pace: 78.7
+    efg_pct: 0.535
+    tov_pct: 14.6
+    orb_pct: 27.8
+    ft_rate: 0.293
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2016
+  tournament: womens
+  team: Syracuse
+  seed: 4
+  region: Siouxfalls
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 30-8
+    conference: 13-3
+  strength_of_schedule:
+    rating: 12.67
+  advanced:
+    srs: 25.04
+    offensive_rating: 95.5
+    defensive_rating: 35.09
+    pace: 75.9
+    efg_pct: 0.438
+    tov_pct: 14.9
+    orb_pct: 37.0
+    ft_rate: 0.27
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: Florida
+  seed: 5
+  region: Siouxfalls
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 10-6
+  strength_of_schedule:
+    rating: 10.35
+  advanced:
+    srs: 18.7
+    offensive_rating: 95.0
+    defensive_rating: 39.89
+    pace: 81.1
+    efg_pct: 0.474
+    tov_pct: 21.8
+    orb_pct: 40.0
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: West Virginia
+  seed: 6
+  region: Siouxfalls
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-10
+    conference: 12-6
+  strength_of_schedule:
+    rating: 9.96
+  advanced:
+    srs: 21.84
+    offensive_rating: 96.9
+    defensive_rating: 37.36
+    pace: 72.5
+    efg_pct: 0.492
+    tov_pct: 19.4
+    orb_pct: 35.8
+    ft_rate: 0.315
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2016
+  tournament: womens
+  team: Tennessee
+  seed: 7
+  region: Siouxfalls
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-14
+    conference: 8-8
+  strength_of_schedule:
+    rating: 15.24
+  advanced:
+    srs: 21.83
+    offensive_rating: 91.8
+    defensive_rating: 36.66
+    pace: 71.0
+    efg_pct: 0.438
+    tov_pct: 18.2
+    orb_pct: 37.7
+    ft_rate: 0.282
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2016
+  tournament: womens
+  team: George Washington
+  seed: 8
+  region: Siouxfalls
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 13-3
+  strength_of_schedule:
+    rating: 3.68
+  advanced:
+    srs: 12.89
+    offensive_rating: 92.8
+    defensive_rating: 43.6
+    pace: 75.6
+    efg_pct: 0.439
+    tov_pct: 18.4
+    orb_pct: 42.5
+    ft_rate: 0.269
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Kansas State
+  seed: 9
+  region: Siouxfalls
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-13
+    conference: 8-10
+  strength_of_schedule:
+    rating: 11.73
+  advanced:
+    srs: 14.76
+    offensive_rating: 89.1
+    defensive_rating: 40.12
+    pace: 72.0
+    efg_pct: 0.469
+    tov_pct: 19.0
+    orb_pct: 24.7
+    ft_rate: 0.315
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Green Bay
+  seed: 10
+  region: Siouxfalls
+  conference: Horizon
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 2.44
+  advanced:
+    srs: 16.44
+    offensive_rating: 99.1
+    defensive_rating: 39.07
+    pace: 66.3
+    efg_pct: 0.487
+    tov_pct: 16.2
+    orb_pct: 34.7
+    ft_rate: 0.244
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Princeton
+  seed: 11
+  region: Siouxfalls
+  conference: Ivy
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-6
+    conference: 12-2
+  strength_of_schedule:
+    rating: 0.15
+  advanced:
+    srs: 17.46
+    offensive_rating: 104.1
+    defensive_rating: 44.79
+    pace: 72.3
+    efg_pct: 0.513
+    tov_pct: 18.1
+    orb_pct: 38.8
+    ft_rate: 0.305
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: Albany (NY)
+  seed: 12
+  region: Siouxfalls
+  conference: AmEast
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-5
+    conference: 15-1
+  strength_of_schedule:
+    rating: -3.35
+  advanced:
+    srs: 13.74
+    offensive_rating: 102.7
+    defensive_rating: 47.88
+    pace: 68.5
+    efg_pct: 0.505
+    tov_pct: 18.0
+    orb_pct: 41.9
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Army
+  seed: 13
+  region: Siouxfalls
+  conference: Patriot
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-3
+    conference: 17-1
+  strength_of_schedule:
+    rating: -6.75
+  advanced:
+    srs: 12.12
+    offensive_rating: 105.3
+    defensive_rating: 45.59
+    pace: 66.7
+    efg_pct: 0.511
+    tov_pct: 17.2
+    orb_pct: 37.8
+    ft_rate: 0.278
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Buffalo
+  seed: 14
+  region: Siouxfalls
+  conference: MAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-14
+    conference: 8-10
+  strength_of_schedule:
+    rating: 0.31
+  advanced:
+    srs: 0.78
+    offensive_rating: 85.0
+    defensive_rating: 47.66
+    pace: 71.7
+    efg_pct: 0.413
+    tov_pct: 18.8
+    orb_pct: 36.6
+    ft_rate: 0.255
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2016
+  tournament: womens
+  team: New Mexico State
+  seed: 15
+  region: Siouxfalls
+  conference: WAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-5
+    conference: 13-1
+  strength_of_schedule:
+    rating: -4.62
+  advanced:
+    srs: 3.28
+    offensive_rating: 98.4
+    defensive_rating: 47.9
+    pace: 69.4
+    efg_pct: 0.471
+    tov_pct: 17.6
+    orb_pct: 34.2
+    ft_rate: 0.259
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2016
+  tournament: womens
+  team: Jacksonville
+  seed: 16
+  region: Siouxfalls
+  conference: A-Sun
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-11
+    conference: 11-3
+  strength_of_schedule:
+    rating: -5.08
+  advanced:
+    srs: 3.43
+    offensive_rating: 95.1
+    defensive_rating: 38.51
+    pace: 67.6
+    efg_pct: 0.457
+    tov_pct: 21.3
+    orb_pct: 42.3
+    ft_rate: 0.319
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null

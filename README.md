@@ -2,7 +2,17 @@
 
 > Have not watched a single college basketball game this year so I will instead be doing some basic DS and AI dev work to make all the predictions for me.
 
-A data-driven NCAA March Madness bracket prediction system covering both the Men's and Women's tournaments. Uses historical data (2014–2024), advanced analytics, and machine learning to generate bracket picks.
+A data-driven NCAA March Madness bracket prediction system covering both the Men's and Women's tournaments. Uses historical data (2014–2025), advanced analytics, and machine learning to generate bracket picks.
+
+### Current Status
+| Phase | Status |
+|---|---|
+| Phase 1 — Data scraping (mens + womens, 2014–2025) | ✅ Complete |
+| Phase 1 — YAML processing | ✅ Complete |
+| Phase 2 — Feature engineering | 🔲 Not started |
+| Phase 2 — Trend analysis | 🔲 Not started |
+| Phase 3 — Model training | 🔲 Not started |
+| Phase 4 — Bracket generation | 🔲 Not started |
 
 ---
 
@@ -46,11 +56,11 @@ AI-Tournament-Predictions/
 ### Data Sources
 | Source | What we pull |
 |---|---|
-| Sports-Reference (basketball-reference.com / sports-reference.com/cbb) | Team stats, season records, advanced metrics (SRS, SOS, ORtg, DRtg, Pace) |
-| NCAA.com / NCAA API | Bracket structure, seed assignments, game-by-game results |
-| ESPN API (unofficial) | Additional game logs, team metadata |
-| NBA.com / RealGM | NBA draft classes to tag tournament rosters |
-| Her Hoop Stats / sports-reference WCBB | Women's equivalent stats |
+| sports-reference.com/cbb — advanced school stats | Team stats, season records, advanced metrics (SRS, SOS, ORtg, Pace, eFG%, TOV%, ORB%, FT rate) |
+| sports-reference.com/cbb — ratings | Adjusted DRtg (defensive rating — merged separately from ratings table) |
+| sports-reference.com/cbb — standings | Conference affiliations, regular season champion flags |
+| sports-reference.com/cbb — postseason bracket | Seed, region, round-by-round results, upset flags |
+| Wikipedia | NBA/WNBA draft classes to tag tournament rosters |
 
 ### Features Captured Per Team Per Year
 - **Seed & Region**
@@ -232,23 +242,26 @@ pip install -r requirements.txt
 
 ### Run Order
 ```bash
-# 1. Scrape historical data
-python scrapers/mens_scraper.py --years 2014-2024
-python scrapers/womens_scraper.py --years 2014-2024
+# 1. Scrape historical data (run sequentially — sports-reference rate-limits parallel requests)
+python scrapers/mens_scraper.py --years 2014-2025
+python scrapers/womens_scraper.py --years 2014-2025
 python scrapers/nba_wnba_scraper.py
 
 # 2. Process and write YAML
+python processing/yaml_writer.py --gender both
+
+# 3. Feature engineering & trend analysis
 python processing/feature_engineering.py
 python processing/trend_analysis.py
 
-# 3. Train models
+# 4. Train models
 python models/train.py --gender mens
 python models/train.py --gender womens
 
-# 4. Evaluate backtesting accuracy
+# 5. Evaluate backtesting accuracy
 python models/evaluate.py
 
-# 5. Generate bracket
+# 6. Generate bracket
 python bracket/simulate.py --year 2025 --gender mens
 python bracket/simulate.py --year 2025 --gender womens
 python bracket/output_bracket.py

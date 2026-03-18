@@ -46,7 +46,7 @@ class NCAAScraper:
         self.adv_stats_url = self.base + f"/cbb/seasons/{self._gender_path()}/{{year}}-advanced-school-stats.html"
         self.standings_url = self.base + f"/cbb/seasons/{self._gender_path()}/{{year}}-standings.html"
         self.tournament_url = self.base + f"/cbb/postseason/{self._gender_path()}/{{year}}-ncaa.html"
-        self.output_dir = PROJECT_ROOT / "data" / "raw" / self._gender_path()
+        self.output_dir = PROJECT_ROOT / "data" / "raw" / self.gender
         self.round_map = {
             0: "First Round",
             1: "Second Round",
@@ -92,21 +92,42 @@ class NCAAScraper:
         return result
 
     def scrape_all_stats(self, year: int) -> Optional[pd.DataFrame]:
-        url = self.adv_stats_url.format(year=year)
-        html = fetch(url, cache_subdir=self.gender)
-        df = parse_sr_table(html, "adv_school_stats")
-
-        if df is None:
+        # Fetch advanced stats
+        adv_url = self.adv_stats_url.format(year=year)
+        adv_html = fetch(adv_url, cache_subdir=self.gender)
+        adv_df = parse_sr_table(adv_html, "adv_school_stats")
+        if adv_df is None:
             logger.error("Could not parse adv_school_stats for year %d", year)
             return None
 
-        df = self._normalise_columns(df)
+        # Normalise columns now so "School" exists before the merge
+        adv_df = self._normalise_columns(adv_df)
+        if "School" not in adv_df.columns:
+            logger.error("School column not found in adv stats for year %d. Cols: %s", year, list(adv_df.columns))
+            return None
+        adv_df["School"] = adv_df["School"].apply(normalize_team_name)
+
+        # Fetch ratings for DRtg
+        ratings_url = self.base + f"/cbb/seasons/{self._gender_path()}/{year}-ratings.html"
+        ratings_html = fetch(ratings_url, cache_subdir=self.gender)
+        ratings_df = parse_sr_table(ratings_html, "ratings")
+        if ratings_df is None:
+            logger.warning("Could not parse ratings for year %d, continuing without it.", year)
+            df = adv_df
+        else:
+            ratings_df = self._normalise_columns(ratings_df)
+            if "School" not in ratings_df.columns:
+                logger.warning("School column not found in ratings for year %d, skipping merge.", year)
+                df = adv_df
+            else:
+                ratings_df["School"] = ratings_df["School"].apply(normalize_team_name)
+                # Bring only DRtg from ratings to avoid duplicating other columns
+                merge_cols = ["School"] + [c for c in ["DRtg"] if c in ratings_df.columns]
+                df = pd.merge(adv_df, ratings_df[merge_cols], on="School", how="left")
 
         if "School" not in df.columns:
-            logger.error("School column not found after normalisation for year %d. Cols: %s", year, list(df.columns))
+            logger.error("School column not found after merge for year %d. Cols: %s", year, list(df.columns))
             return None
-
-        df["School"] = df["School"].apply(normalize_team_name)
 
         standings = self.scrape_standings(year)
         df["Conf"] = df["School"].map(lambda s: standings.get(s, {}).get("conf"))
@@ -141,7 +162,7 @@ class NCAAScraper:
                 rename[col] = "L_conf"
             elif re.search(r"advanced_ortg|advanced_off_rtg", c):
                 rename[col] = "ORtg"
-            elif re.search(r"advanced_drtg|advanced_def_rtg", c):
+            elif re.search(r"advanced_drtg|advanced_def_rtg|adjusted_drtg", c):
                 rename[col] = "DRtg"
             elif re.search(r"advanced_pace", c):
                 rename[col] = "Pace"

@@ -1,0 +1,2173 @@
+year: 2014
+tournament: womens
+teams:
+- year: 2014
+  tournament: womens
+  team: UConn
+  seed: 1
+  region: Lincoln
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 40-0
+    conference: 18-0
+  strength_of_schedule:
+    rating: 12.84
+  advanced:
+    srs: 47.09
+    offensive_rating: 115.7
+    defensive_rating: 29.09
+    pace: 70.9
+    efg_pct: 0.562
+    tov_pct: 14.2
+    orb_pct: 36.0
+    ft_rate: 0.261
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 8
+- year: 2014
+  tournament: womens
+  team: Duke
+  seed: 2
+  region: Lincoln
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 17.38
+  advanced:
+    srs: 33.72
+    offensive_rating: 106.8
+    defensive_rating: 41.31
+    pace: 74.7
+    efg_pct: 0.543
+    tov_pct: 19.3
+    orb_pct: 41.4
+    ft_rate: 0.341
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2014
+  tournament: womens
+  team: Texas A&M
+  seed: 3
+  region: Lincoln
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-9
+    conference: 13-3
+  strength_of_schedule:
+    rating: 13.33
+  advanced:
+    srs: 24.3
+    offensive_rating: 96.8
+    defensive_rating: 41.25
+    pace: 72.4
+    efg_pct: 0.47
+    tov_pct: 17.6
+    orb_pct: 35.9
+    ft_rate: 0.338
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Nebraska
+  seed: 4
+  region: Lincoln
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 9.3
+  advanced:
+    srs: 21.51
+    offensive_rating: 104.4
+    defensive_rating: 49.54
+    pace: 71.8
+    efg_pct: 0.497
+    tov_pct: 15.1
+    orb_pct: 28.6
+    ft_rate: 0.318
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: NC State
+  seed: 5
+  region: Lincoln
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 10.72
+  advanced:
+    srs: 19.56
+    offensive_rating: 106.2
+    defensive_rating: 54.63
+    pace: 70.2
+    efg_pct: 0.507
+    tov_pct: 16.2
+    orb_pct: 37.2
+    ft_rate: 0.314
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Gonzaga
+  seed: 6
+  region: Lincoln
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 5.25
+  advanced:
+    srs: 23.84
+    offensive_rating: 106.1
+    defensive_rating: 40.7
+    pace: 70.3
+    efg_pct: 0.472
+    tov_pct: 14.8
+    orb_pct: 41.8
+    ft_rate: 0.298
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: DePaul
+  seed: 7
+  region: Lincoln
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 7.59
+  advanced:
+    srs: 19.51
+    offensive_rating: 106.0
+    defensive_rating: 54.84
+    pace: 78.8
+    efg_pct: 0.516
+    tov_pct: 15.6
+    orb_pct: 33.2
+    ft_rate: 0.32
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Georgia
+  seed: 8
+  region: Lincoln
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-12
+    conference: 7-9
+  strength_of_schedule:
+    rating: 9.5
+  advanced:
+    srs: 16.84
+    offensive_rating: 92.7
+    defensive_rating: 43.13
+    pace: 71.0
+    efg_pct: 0.455
+    tov_pct: 18.5
+    orb_pct: 36.9
+    ft_rate: 0.289
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Saint Joseph's
+  seed: 9
+  region: Lincoln
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 10-6
+  strength_of_schedule:
+    rating: 6.27
+  advanced:
+    srs: 13.3
+    offensive_rating: 99.0
+    defensive_rating: 54.71
+    pace: 71.6
+    efg_pct: 0.475
+    tov_pct: 14.8
+    orb_pct: 27.0
+    ft_rate: 0.289
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Oklahoma
+  seed: 10
+  region: Lincoln
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-15
+    conference: 9-9
+  strength_of_schedule:
+    rating: 13.9
+  advanced:
+    srs: 22.47
+    offensive_rating: 100.0
+    defensive_rating: 47.1
+    pace: 76.6
+    efg_pct: 0.493
+    tov_pct: 18.1
+    orb_pct: 30.8
+    ft_rate: 0.397
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: James Madison
+  seed: 11
+  region: Lincoln
+  conference: CAA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-6
+    conference: 15-1
+  strength_of_schedule:
+    rating: 1.15
+  advanced:
+    srs: 20.12
+    offensive_rating: 102.7
+    defensive_rating: 45.35
+    pace: 72.7
+    efg_pct: 0.476
+    tov_pct: 16.9
+    orb_pct: 41.9
+    ft_rate: 0.341
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: BYU
+  seed: 12
+  region: Lincoln
+  conference: WCC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: 6.93
+  advanced:
+    srs: 14.7
+    offensive_rating: 100.1
+    defensive_rating: 49.94
+    pace: 70.6
+    efg_pct: 0.492
+    tov_pct: 19.3
+    orb_pct: 32.3
+    ft_rate: 0.413
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Fresno State
+  seed: 13
+  region: Lincoln
+  conference: MWC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-11
+    conference: 13-5
+  strength_of_schedule:
+    rating: 0.97
+  advanced:
+    srs: 5.26
+    offensive_rating: 98.1
+    defensive_rating: 51.81
+    pace: 71.2
+    efg_pct: 0.473
+    tov_pct: 17.6
+    orb_pct: 30.0
+    ft_rate: 0.323
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: North Dakota
+  seed: 14
+  region: Lincoln
+  conference: Big Sky
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 22-10
+    conference: 15-5
+  strength_of_schedule:
+    rating: -0.72
+  advanced:
+    srs: 3.54
+    offensive_rating: 97.5
+    defensive_rating: 49.97
+    pace: 70.7
+    efg_pct: 0.449
+    tov_pct: 21.3
+    orb_pct: 40.8
+    ft_rate: 0.479
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Winthrop
+  seed: 15
+  region: Lincoln
+  conference: Big South
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 15-5
+  strength_of_schedule:
+    rating: -6.82
+  advanced:
+    srs: 1.3
+    offensive_rating: 94.7
+    defensive_rating: 53.09
+    pace: 71.7
+    efg_pct: 0.447
+    tov_pct: 16.5
+    orb_pct: 35.6
+    ft_rate: 0.321
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Tennessee
+  seed: 1
+  region: Louisville
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 29-6
+    conference: 13-3
+  strength_of_schedule:
+    rating: 14.78
+  advanced:
+    srs: 29.75
+    offensive_rating: 103.6
+    defensive_rating: 41.15
+    pace: 75.2
+    efg_pct: 0.494
+    tov_pct: 18.2
+    orb_pct: 43.4
+    ft_rate: 0.363
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 7
+- year: 2014
+  tournament: womens
+  team: West Virginia
+  seed: 2
+  region: Louisville
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 30-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 11.78
+  advanced:
+    srs: 26.55
+    offensive_rating: 102.0
+    defensive_rating: 42.11
+    pace: 72.0
+    efg_pct: 0.479
+    tov_pct: 16.6
+    orb_pct: 36.8
+    ft_rate: 0.443
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Louisville
+  seed: 3
+  region: Louisville
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 33-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 11.39
+  advanced:
+    srs: 30.97
+    offensive_rating: 104.5
+    defensive_rating: 41.07
+    pace: 75.0
+    efg_pct: 0.51
+    tov_pct: 17.4
+    orb_pct: 37.0
+    ft_rate: 0.337
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Maryland
+  seed: 4
+  region: Louisville
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-7
+    conference: 12-4
+  strength_of_schedule:
+    rating: 12.76
+  advanced:
+    srs: 31.94
+    offensive_rating: 110.7
+    defensive_rating: 45.52
+    pace: 73.9
+    efg_pct: 0.524
+    tov_pct: 16.8
+    orb_pct: 41.6
+    ft_rate: 0.328
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2014
+  tournament: womens
+  team: Texas
+  seed: 5
+  region: Louisville
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-12
+    conference: 11-7
+  strength_of_schedule:
+    rating: 14.64
+  advanced:
+    srs: 24.32
+    offensive_rating: 95.7
+    defensive_rating: 40.44
+    pace: 72.2
+    efg_pct: 0.482
+    tov_pct: 21.0
+    orb_pct: 39.9
+    ft_rate: 0.333
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Iowa
+  seed: 6
+  region: Louisville
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 10.15
+  advanced:
+    srs: 18.98
+    offensive_rating: 103.5
+    defensive_rating: 53.16
+    pace: 75.3
+    efg_pct: 0.517
+    tov_pct: 16.8
+    orb_pct: 28.1
+    ft_rate: 0.344
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: LSU
+  seed: 7
+  region: Louisville
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-13
+    conference: 7-9
+  strength_of_schedule:
+    rating: 14.84
+  advanced:
+    srs: 19.75
+    offensive_rating: 94.9
+    defensive_rating: 46.16
+    pace: 73.8
+    efg_pct: 0.451
+    tov_pct: 19.2
+    orb_pct: 39.2
+    ft_rate: 0.351
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: St. John's
+  seed: 8
+  region: Louisville
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-11
+    conference: 13-5
+  strength_of_schedule:
+    rating: 8.51
+  advanced:
+    srs: 12.66
+    offensive_rating: 93.3
+    defensive_rating: 50.05
+    pace: 70.3
+    efg_pct: 0.463
+    tov_pct: 18.5
+    orb_pct: 31.8
+    ft_rate: 0.395
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: USC
+  seed: 9
+  region: Louisville
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 12.46
+  advanced:
+    srs: 15.03
+    offensive_rating: 91.4
+    defensive_rating: 48.23
+    pace: 73.2
+    efg_pct: 0.455
+    tov_pct: 18.2
+    orb_pct: 31.0
+    ft_rate: 0.363
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Georgia Tech
+  seed: 10
+  region: Louisville
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-12
+    conference: 9-7
+  strength_of_schedule:
+    rating: 12.01
+  advanced:
+    srs: 19.95
+    offensive_rating: 100.7
+    defensive_rating: 49.44
+    pace: 78.8
+    efg_pct: 0.466
+    tov_pct: 17.2
+    orb_pct: 41.6
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Marist
+  seed: 11
+  region: Louisville
+  conference: MAAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-7
+    conference: 18-2
+  strength_of_schedule:
+    rating: -2.78
+  advanced:
+    srs: 9.43
+    offensive_rating: 105.1
+    defensive_rating: 59.3
+    pace: 68.6
+    efg_pct: 0.54
+    tov_pct: 16.4
+    orb_pct: 21.6
+    ft_rate: 0.41
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Penn
+  seed: 12
+  region: Louisville
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 22-7
+    conference: 12-2
+  strength_of_schedule:
+    rating: -1.1
+  advanced:
+    srs: 7.25
+    offensive_rating: 92.9
+    defensive_rating: 50.86
+    pace: 70.0
+    efg_pct: 0.452
+    tov_pct: 17.2
+    orb_pct: 29.1
+    ft_rate: 0.374
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Army
+  seed: 13
+  region: Louisville
+  conference: Patriot
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: -3.31
+  advanced:
+    srs: 3.1
+    offensive_rating: 102.5
+    defensive_rating: 59.78
+    pace: 64.5
+    efg_pct: 0.47
+    tov_pct: 16.0
+    orb_pct: 36.4
+    ft_rate: 0.364
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Idaho
+  seed: 14
+  region: Louisville
+  conference: WAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 25-9
+    conference: 15-1
+  strength_of_schedule:
+    rating: -3.06
+  advanced:
+    srs: 6.62
+    offensive_rating: 103.6
+    defensive_rating: 52.05
+    pace: 70.4
+    efg_pct: 0.48
+    tov_pct: 14.6
+    orb_pct: 30.1
+    ft_rate: 0.281
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Albany (NY)
+  seed: 15
+  region: Louisville
+  conference: AmEast
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-5
+    conference: 15-1
+  strength_of_schedule:
+    rating: -9.11
+  advanced:
+    srs: 7.07
+    offensive_rating: 101.9
+    defensive_rating: 56.1
+    pace: 70.1
+    efg_pct: 0.502
+    tov_pct: 19.5
+    orb_pct: 42.0
+    ft_rate: 0.392
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Northwestern State
+  seed: 16
+  region: Louisville
+  conference: Southland
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 21-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: -4.97
+  advanced:
+    srs: -4.72
+    offensive_rating: 100.5
+    defensive_rating: 58.31
+    pace: 63.4
+    efg_pct: 0.47
+    tov_pct: 16.5
+    orb_pct: 30.8
+    ft_rate: 0.337
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Notre Dame
+  seed: 1
+  region: Southbend
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 37-1
+    conference: 16-0
+  strength_of_schedule:
+    rating: 16.9
+  advanced:
+    srs: 41.35
+    offensive_rating: 113.5
+    defensive_rating: 37.59
+    pace: 75.9
+    efg_pct: 0.546
+    tov_pct: 16.3
+    orb_pct: 40.3
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2014
+  tournament: womens
+  team: Baylor
+  seed: 2
+  region: Southbend
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 32-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 12.43
+  advanced:
+    srs: 33.08
+    offensive_rating: 111.6
+    defensive_rating: 39.43
+    pace: 73.7
+    efg_pct: 0.48
+    tov_pct: 13.4
+    orb_pct: 42.0
+    ft_rate: 0.355
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2014
+  tournament: womens
+  team: Kentucky
+  seed: 3
+  region: Southbend
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 10-6
+  strength_of_schedule:
+    rating: 13.22
+  advanced:
+    srs: 26.05
+    offensive_rating: 100.2
+    defensive_rating: 42.35
+    pace: 79.7
+    efg_pct: 0.475
+    tov_pct: 16.2
+    orb_pct: 36.8
+    ft_rate: 0.373
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Purdue
+  seed: 4
+  region: Southbend
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 13.09
+  advanced:
+    srs: 19.71
+    offensive_rating: 98.8
+    defensive_rating: 48.17
+    pace: 75.5
+    efg_pct: 0.476
+    tov_pct: 18.1
+    orb_pct: 33.6
+    ft_rate: 0.343
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Oklahoma State
+  seed: 5
+  region: Southbend
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-9
+    conference: 11-7
+  strength_of_schedule:
+    rating: 13.58
+  advanced:
+    srs: 23.49
+    offensive_rating: 97.3
+    defensive_rating: 42.79
+    pace: 72.2
+    efg_pct: 0.46
+    tov_pct: 16.2
+    orb_pct: 34.3
+    ft_rate: 0.322
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Syracuse
+  seed: 6
+  region: Southbend
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 10-6
+  strength_of_schedule:
+    rating: 12.57
+  advanced:
+    srs: 21.64
+    offensive_rating: 98.6
+    defensive_rating: 45.67
+    pace: 73.6
+    efg_pct: 0.45
+    tov_pct: 15.9
+    orb_pct: 40.2
+    ft_rate: 0.298
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: California
+  seed: 7
+  region: Southbend
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 13-5
+  strength_of_schedule:
+    rating: 13.36
+  advanced:
+    srs: 17.14
+    offensive_rating: 92.0
+    defensive_rating: 46.92
+    pace: 74.9
+    efg_pct: 0.43
+    tov_pct: 16.4
+    orb_pct: 33.6
+    ft_rate: 0.369
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Vanderbilt
+  seed: 8
+  region: Southbend
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-13
+    conference: 7-9
+  strength_of_schedule:
+    rating: 11.46
+  advanced:
+    srs: 16.36
+    offensive_rating: 99.7
+    defensive_rating: 53.88
+    pace: 71.5
+    efg_pct: 0.508
+    tov_pct: 20.2
+    orb_pct: 33.7
+    ft_rate: 0.388
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Arizona State
+  seed: 9
+  region: Southbend
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 12.4
+  advanced:
+    srs: 16.55
+    offensive_rating: 96.1
+    defensive_rating: 49.65
+    pace: 71.9
+    efg_pct: 0.458
+    tov_pct: 19.4
+    orb_pct: 38.2
+    ft_rate: 0.422
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Fordham
+  seed: 10
+  region: Southbend
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-8
+    conference: 11-5
+  strength_of_schedule:
+    rating: 1.35
+  advanced:
+    srs: 11.93
+    offensive_rating: 99.7
+    defensive_rating: 52.65
+    pace: 66.6
+    efg_pct: 0.505
+    tov_pct: 17.4
+    orb_pct: 30.8
+    ft_rate: 0.247
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Chattanooga
+  seed: 11
+  region: Southbend
+  conference: Southern
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-4
+    conference: 18-0
+  strength_of_schedule:
+    rating: -5.69
+  advanced:
+    srs: 7.83
+    offensive_rating: 101.1
+    defensive_rating: 53.97
+    pace: 68.2
+    efg_pct: 0.491
+    tov_pct: 15.6
+    orb_pct: 31.5
+    ft_rate: 0.285
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Florida Gulf Coast
+  seed: 12
+  region: Southbend
+  conference: A-Sun
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-8
+    conference: 17-1
+  strength_of_schedule:
+    rating: -1.41
+  advanced:
+    srs: 9.14
+    offensive_rating: 99.1
+    defensive_rating: 52.54
+    pace: 70.0
+    efg_pct: 0.499
+    tov_pct: 15.5
+    orb_pct: 25.1
+    ft_rate: 0.321
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Akron
+  seed: 13
+  region: Southbend
+  conference: MAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: -0.96
+  advanced:
+    srs: 6.91
+    offensive_rating: 106.5
+    defensive_rating: 62.24
+    pace: 77.0
+    efg_pct: 0.497
+    tov_pct: 16.1
+    orb_pct: 35.5
+    ft_rate: 0.353
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Wright State
+  seed: 14
+  region: Southbend
+  conference: Horizon
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 26-9
+    conference: 12-4
+  strength_of_schedule:
+    rating: -1.86
+  advanced:
+    srs: 4.14
+    offensive_rating: 103.5
+    defensive_rating: 60.46
+    pace: 80.2
+    efg_pct: 0.466
+    tov_pct: 12.8
+    orb_pct: 30.4
+    ft_rate: 0.357
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Western Kentucky
+  seed: 15
+  region: Southbend
+  conference: Sun Belt
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: -4.73
+  advanced:
+    srs: 4.03
+    offensive_rating: 99.7
+    defensive_rating: 58.75
+    pace: 73.1
+    efg_pct: 0.477
+    tov_pct: 16.9
+    orb_pct: 33.5
+    ft_rate: 0.36
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Robert Morris
+  seed: 16
+  region: Southbend
+  conference: NEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 21-12
+    conference: 14-4
+  strength_of_schedule:
+    rating: -6.91
+  advanced:
+    srs: -2.98
+    offensive_rating: 96.6
+    defensive_rating: 65.35
+    pace: 70.8
+    efg_pct: 0.462
+    tov_pct: 18.4
+    orb_pct: 37.7
+    ft_rate: 0.344
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: South Carolina
+  seed: 1
+  region: Stanford
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-5
+    conference: 14-2
+  strength_of_schedule:
+    rating: 10.64
+  advanced:
+    srs: 27.64
+    offensive_rating: 106.0
+    defensive_rating: 38.97
+    pace: 68.5
+    efg_pct: 0.511
+    tov_pct: 17.4
+    orb_pct: 37.8
+    ft_rate: 0.514
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 5
+- year: 2014
+  tournament: womens
+  team: Stanford
+  seed: 2
+  region: Stanford
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 33-4
+    conference: 17-1
+  strength_of_schedule:
+    rating: 14.64
+  advanced:
+    srs: 31.21
+    offensive_rating: 107.4
+    defensive_rating: 43.73
+    pace: 71.5
+    efg_pct: 0.523
+    tov_pct: 14.8
+    orb_pct: 34.2
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2014
+  tournament: womens
+  team: Penn State
+  seed: 3
+  region: Stanford
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 24-8
+    conference: 13-3
+  strength_of_schedule:
+    rating: 12.63
+  advanced:
+    srs: 20.79
+    offensive_rating: 96.4
+    defensive_rating: 46.37
+    pace: 77.9
+    efg_pct: 0.448
+    tov_pct: 17.4
+    orb_pct: 34.5
+    ft_rate: 0.379
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: UNC
+  seed: 4
+  region: Stanford
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-10
+    conference: 10-6
+  strength_of_schedule:
+    rating: 13.37
+  advanced:
+    srs: 26.69
+    offensive_rating: 99.4
+    defensive_rating: 40.35
+    pace: 79.0
+    efg_pct: 0.49
+    tov_pct: 18.2
+    orb_pct: 37.0
+    ft_rate: 0.355
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Michigan State
+  seed: 5
+  region: Stanford
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 13-3
+  strength_of_schedule:
+    rating: 11.25
+  advanced:
+    srs: 20.8
+    offensive_rating: 98.4
+    defensive_rating: 46.6
+    pace: 74.2
+    efg_pct: 0.496
+    tov_pct: 18.6
+    orb_pct: 33.0
+    ft_rate: 0.325
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2014
+  tournament: womens
+  team: Dayton
+  seed: 6
+  region: Stanford
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 23-8
+    conference: 14-2
+  strength_of_schedule:
+    rating: 4.96
+  advanced:
+    srs: 13.55
+    offensive_rating: 99.9
+    defensive_rating: 54.1
+    pace: 80.9
+    efg_pct: 0.494
+    tov_pct: 18.2
+    orb_pct: 32.3
+    ft_rate: 0.334
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Iowa State
+  seed: 7
+  region: Stanford
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-11
+    conference: 9-9
+  strength_of_schedule:
+    rating: 12.86
+  advanced:
+    srs: 21.18
+    offensive_rating: 103.6
+    defensive_rating: 51.74
+    pace: 69.6
+    efg_pct: 0.489
+    tov_pct: 15.9
+    orb_pct: 28.6
+    ft_rate: 0.389
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Middle Tennessee
+  seed: 8
+  region: Stanford
+  conference: CUSA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-5
+    conference: 15-1
+  strength_of_schedule:
+    rating: 3.86
+  advanced:
+    srs: 15.36
+    offensive_rating: 95.6
+    defensive_rating: 44.64
+    pace: 69.7
+    efg_pct: 0.447
+    tov_pct: 16.7
+    orb_pct: 37.8
+    ft_rate: 0.422
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Oregon State
+  seed: 9
+  region: Stanford
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 24-11
+    conference: 13-5
+  strength_of_schedule:
+    rating: 11.73
+  advanced:
+    srs: 20.18
+    offensive_rating: 99.9
+    defensive_rating: 44.54
+    pace: 70.5
+    efg_pct: 0.506
+    tov_pct: 19.5
+    orb_pct: 36.5
+    ft_rate: 0.321
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2014
+  tournament: womens
+  team: Florida State
+  seed: 10
+  region: Stanford
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 7-9
+  strength_of_schedule:
+    rating: 13.06
+  advanced:
+    srs: 18.61
+    offensive_rating: 91.0
+    defensive_rating: 42.89
+    pace: 75.3
+    efg_pct: 0.458
+    tov_pct: 21.4
+    orb_pct: 39.7
+    ft_rate: 0.344
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2014
+  tournament: womens
+  team: Florida
+  seed: 11
+  region: Stanford
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-13
+    conference: 8-8
+  strength_of_schedule:
+    rating: 10.69
+  advanced:
+    srs: 15.12
+    offensive_rating: 96.8
+    defensive_rating: 53.15
+    pace: 77.1
+    efg_pct: 0.493
+    tov_pct: 19.2
+    orb_pct: 29.0
+    ft_rate: 0.378
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: Hampton
+  seed: 12
+  region: Stanford
+  conference: MEAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-5
+    conference: 16-0
+  strength_of_schedule:
+    rating: -6.38
+  advanced:
+    srs: 7.31
+    offensive_rating: 96.4
+    defensive_rating: 44.04
+    pace: 72.8
+    efg_pct: 0.415
+    tov_pct: 14.9
+    orb_pct: 39.6
+    ft_rate: 0.387
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: Wichita State
+  seed: 14
+  region: Stanford
+  conference: MVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: -4.36
+  advanced:
+    srs: 9.4
+    offensive_rating: 100.8
+    defensive_rating: 52.26
+    pace: 70.2
+    efg_pct: 0.481
+    tov_pct: 15.8
+    orb_pct: 35.0
+    ft_rate: 0.35
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2014
+  tournament: womens
+  team: South Dakota
+  seed: 15
+  region: Stanford
+  conference: Summit
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-14
+    conference: 7-7
+  strength_of_schedule:
+    rating: 0.55
+  advanced:
+    srs: 0.68
+    offensive_rating: 103.4
+    defensive_rating: 61.33
+    pace: 72.1
+    efg_pct: 0.47
+    tov_pct: 16.3
+    orb_pct: 34.2
+    ft_rate: 0.407
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2014
+  tournament: womens
+  team: CSUN
+  seed: 16
+  region: Stanford
+  conference: Big West
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 18-15
+    conference: 12-4
+  strength_of_schedule:
+    rating: 1.03
+  advanced:
+    srs: 2.43
+    offensive_rating: 92.6
+    defensive_rating: 56.29
+    pace: 73.1
+    efg_pct: 0.45
+    tov_pct: 17.4
+    orb_pct: 33.7
+    ft_rate: 0.254
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null

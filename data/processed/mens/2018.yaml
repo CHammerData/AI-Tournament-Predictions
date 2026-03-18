@@ -1,0 +1,2243 @@
+year: 2018
+tournament: mens
+teams:
+- year: 2018
+  tournament: mens
+  team: Villanova
+  seed: 1
+  region: East
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 36-4
+    conference: 14-4
+  strength_of_schedule:
+    rating: 10.24
+  advanced:
+    srs: 26.64
+    offensive_rating: 122.3
+    defensive_rating: 89.79
+    pace: 70.1
+    efg_pct: 0.595
+    tov_pct: 13.3
+    orb_pct: 29.3
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Purdue
+  seed: 2
+  region: East
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 30-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 8.74
+  advanced:
+    srs: 23.41
+    offensive_rating: 117.7
+    defensive_rating: 89.6
+    pace: 68.1
+    efg_pct: 0.577
+    tov_pct: 14.0
+    orb_pct: 27.8
+    ft_rate: 0.356
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Texas Tech
+  seed: 3
+  region: East
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.6
+  advanced:
+    srs: 19.38
+    offensive_rating: 108.4
+    defensive_rating: 85.68
+    pace: 68.3
+    efg_pct: 0.52
+    tov_pct: 15.4
+    orb_pct: 32.9
+    ft_rate: 0.393
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Wichita State
+  seed: 4
+  region: East
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 5.46
+  advanced:
+    srs: 16.58
+    offensive_rating: 117.3
+    defensive_rating: 96.32
+    pace: 70.0
+    efg_pct: 0.551
+    tov_pct: 14.1
+    orb_pct: 35.6
+    ft_rate: 0.348
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: West Virginia
+  seed: 5
+  region: East
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.38
+  advanced:
+    srs: 19.89
+    offensive_rating: 113.2
+    defensive_rating: 91.07
+    pace: 70.5
+    efg_pct: 0.504
+    tov_pct: 13.3
+    orb_pct: 36.8
+    ft_rate: 0.313
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Florida
+  seed: 6
+  region: East
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 10.08
+  advanced:
+    srs: 16.66
+    offensive_rating: 109.6
+    defensive_rating: 91.51
+    pace: 68.4
+    efg_pct: 0.507
+    tov_pct: 12.3
+    orb_pct: 28.7
+    ft_rate: 0.326
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Arkansas
+  seed: 7
+  region: East
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 9.85
+  advanced:
+    srs: 14.76
+    offensive_rating: 111.8
+    defensive_rating: 96.6
+    pace: 71.3
+    efg_pct: 0.538
+    tov_pct: 13.2
+    orb_pct: 28.7
+    ft_rate: 0.374
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Virginia Tech
+  seed: 8
+  region: East
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 6.71
+  advanced:
+    srs: 14.35
+    offensive_rating: 113.0
+    defensive_rating: 95.92
+    pace: 69.9
+    efg_pct: 0.577
+    tov_pct: 15.3
+    orb_pct: 23.9
+    ft_rate: 0.365
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Alabama
+  seed: 9
+  region: East
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-16
+    conference: 8-10
+  strength_of_schedule:
+    rating: 10.64
+  advanced:
+    srs: 12.34
+    offensive_rating: 103.0
+    defensive_rating: 91.63
+    pace: 70.2
+    efg_pct: 0.519
+    tov_pct: 17.8
+    orb_pct: 29.4
+    ft_rate: 0.419
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Butler
+  seed: 10
+  region: East
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-14
+    conference: 9-9
+  strength_of_schedule:
+    rating: 10.55
+  advanced:
+    srs: 16.92
+    offensive_rating: 111.0
+    defensive_rating: 91.85
+    pace: 69.6
+    efg_pct: 0.54
+    tov_pct: 13.9
+    orb_pct: 27.4
+    ft_rate: 0.261
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: St. Bonaventure
+  seed: 11
+  region: East
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 2.61
+  advanced:
+    srs: 8.87
+    offensive_rating: 109.5
+    defensive_rating: 95.99
+    pace: 69.4
+    efg_pct: 0.516
+    tov_pct: 14.3
+    orb_pct: 29.2
+    ft_rate: 0.405
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Murray State
+  seed: 12
+  region: East
+  conference: OVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-6
+    conference: 16-2
+  strength_of_schedule:
+    rating: -3.53
+  advanced:
+    srs: 6.87
+    offensive_rating: 115.3
+    defensive_rating: 99.6
+    pace: 68.1
+    efg_pct: 0.558
+    tov_pct: 15.3
+    orb_pct: 33.0
+    ft_rate: 0.381
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Marshall
+  seed: 13
+  region: East
+  conference: CUSA
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-11
+    conference: 12-6
+  strength_of_schedule:
+    rating: 0.44
+  advanced:
+    srs: 4.21
+    offensive_rating: 108.7
+    defensive_rating: 100.84
+    pace: 76.3
+    efg_pct: 0.548
+    tov_pct: 15.5
+    orb_pct: 22.5
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Stephen F. Austin
+  seed: 14
+  region: East
+  conference: Southland
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 28-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: -6.47
+  advanced:
+    srs: 2.66
+    offensive_rating: 109.2
+    defensive_rating: 98.01
+    pace: 73.8
+    efg_pct: 0.544
+    tov_pct: 18.1
+    orb_pct: 33.5
+    ft_rate: 0.398
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: CS Fullerton
+  seed: 15
+  region: East
+  conference: Big West
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-12
+    conference: 10-6
+  strength_of_schedule:
+    rating: -1.03
+  advanced:
+    srs: -0.93
+    offensive_rating: 102.8
+    defensive_rating: 100.77
+    pace: 69.9
+    efg_pct: 0.516
+    tov_pct: 18.0
+    orb_pct: 27.1
+    ft_rate: 0.433
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Radford
+  seed: 16
+  region: East
+  conference: Big South
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-13
+    conference: 12-6
+  strength_of_schedule:
+    rating: -4.09
+  advanced:
+    srs: -2.62
+    offensive_rating: 104.3
+    defensive_rating: 102.62
+    pace: 63.4
+    efg_pct: 0.494
+    tov_pct: 16.1
+    orb_pct: 33.7
+    ft_rate: 0.307
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Kansas
+  seed: 1
+  region: Midwest
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: 11.88
+  advanced:
+    srs: 21.39
+    offensive_rating: 115.5
+    defensive_rating: 91.96
+    pace: 70.2
+    efg_pct: 0.575
+    tov_pct: 14.6
+    orb_pct: 29.3
+    ft_rate: 0.27
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Duke
+  seed: 2
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 29-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: 9.7
+  advanced:
+    srs: 24.43
+    offensive_rating: 118.6
+    defensive_rating: 88.6
+    pace: 70.6
+    efg_pct: 0.559
+    tov_pct: 14.7
+    orb_pct: 38.8
+    ft_rate: 0.346
+  momentum:
+    last_10: null
+  nba_prospects: 16
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Michigan State
+  seed: 3
+  region: Midwest
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 30-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 7.1
+  advanced:
+    srs: 22.41
+    offensive_rating: 117.3
+    defensive_rating: 88.55
+    pace: 68.1
+    efg_pct: 0.569
+    tov_pct: 16.4
+    orb_pct: 37.0
+    ft_rate: 0.359
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Auburn
+  seed: 4
+  region: Midwest
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: 7.29
+  advanced:
+    srs: 15.97
+    offensive_rating: 111.5
+    defensive_rating: 93.0
+    pace: 73.4
+    efg_pct: 0.508
+    tov_pct: 14.1
+    orb_pct: 32.0
+    ft_rate: 0.398
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Clemson
+  seed: 5
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 9.25
+  advanced:
+    srs: 17.16
+    offensive_rating: 108.5
+    defensive_rating: 88.21
+    pace: 67.5
+    efg_pct: 0.529
+    tov_pct: 15.3
+    orb_pct: 27.1
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: TCU
+  seed: 6
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 9-9
+  strength_of_schedule:
+    rating: 9.68
+  advanced:
+    srs: 16.38
+    offensive_rating: 115.1
+    defensive_rating: 96.55
+    pace: 70.0
+    efg_pct: 0.566
+    tov_pct: 15.4
+    orb_pct: 34.1
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Rhode Island
+  seed: 7
+  region: Midwest
+  conference: A-10
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-8
+    conference: 15-3
+  strength_of_schedule:
+    rating: 4.61
+  advanced:
+    srs: 11.81
+    offensive_rating: 109.0
+    defensive_rating: 93.46
+    pace: 69.2
+    efg_pct: 0.511
+    tov_pct: 13.1
+    orb_pct: 31.0
+    ft_rate: 0.301
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Seton Hall
+  seed: 8
+  region: Midwest
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 10.11
+  advanced:
+    srs: 15.67
+    offensive_rating: 111.0
+    defensive_rating: 94.04
+    pace: 71.1
+    efg_pct: 0.529
+    tov_pct: 15.2
+    orb_pct: 34.2
+    ft_rate: 0.352
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: NC State
+  seed: 9
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 11-7
+  strength_of_schedule:
+    rating: 6.7
+  advanced:
+    srs: 12.91
+    offensive_rating: 112.3
+    defensive_rating: 97.53
+    pace: 72.1
+    efg_pct: 0.534
+    tov_pct: 14.3
+    orb_pct: 33.4
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Oklahoma
+  seed: 10
+  region: Midwest
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 18-14
+    conference: 8-10
+  strength_of_schedule:
+    rating: 10.56
+  advanced:
+    srs: 13.81
+    offensive_rating: 109.8
+    defensive_rating: 96.7
+    pace: 76.5
+    efg_pct: 0.535
+    tov_pct: 15.2
+    orb_pct: 28.4
+    ft_rate: 0.332
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Syracuse
+  seed: 11
+  region: Midwest
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-14
+    conference: 8-10
+  strength_of_schedule:
+    rating: 10.02
+  advanced:
+    srs: 12.89
+    offensive_rating: 102.4
+    defensive_rating: 87.58
+    pace: 64.2
+    efg_pct: 0.469
+    tov_pct: 16.2
+    orb_pct: 34.6
+    ft_rate: 0.405
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: New Mexico State
+  seed: 12
+  region: Midwest
+  conference: WAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-6
+    conference: 12-2
+  strength_of_schedule:
+    rating: -1.1
+  advanced:
+    srs: 9.06
+    offensive_rating: 107.5
+    defensive_rating: 93.41
+    pace: 70.1
+    efg_pct: 0.519
+    tov_pct: 15.2
+    orb_pct: 34.2
+    ft_rate: 0.287
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: College of Charleston
+  seed: 13
+  region: Midwest
+  conference: CAA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: -3.29
+  advanced:
+    srs: 1.83
+    offensive_rating: 111.1
+    defensive_rating: 101.88
+    pace: 65.9
+    efg_pct: 0.527
+    tov_pct: 13.2
+    orb_pct: 25.7
+    ft_rate: 0.367
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Bucknell
+  seed: 14
+  region: Midwest
+  conference: Patriot
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 25-10
+    conference: 16-2
+  strength_of_schedule:
+    rating: -3.46
+  advanced:
+    srs: 4.49
+    offensive_rating: 110.3
+    defensive_rating: 100.39
+    pace: 72.4
+    efg_pct: 0.539
+    tov_pct: 15.1
+    orb_pct: 27.0
+    ft_rate: 0.425
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Iona
+  seed: 15
+  region: Midwest
+  conference: MAAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-14
+    conference: 11-7
+  strength_of_schedule:
+    rating: -2.19
+  advanced:
+    srs: 0.75
+    offensive_rating: 109.2
+    defensive_rating: 106.0
+    pace: 71.5
+    efg_pct: 0.539
+    tov_pct: 14.3
+    orb_pct: 24.4
+    ft_rate: 0.302
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Penn
+  seed: 16
+  region: Midwest
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 12-2
+  strength_of_schedule:
+    rating: -3.16
+  advanced:
+    srs: 2.24
+    offensive_rating: 105.3
+    defensive_rating: 97.35
+    pace: 70.2
+    efg_pct: 0.533
+    tov_pct: 14.8
+    orb_pct: 23.6
+    ft_rate: 0.334
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Virginia
+  seed: 1
+  region: South
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-3
+    conference: 17-1
+  strength_of_schedule:
+    rating: 9.05
+  advanced:
+    srs: 22.2
+    offensive_rating: 110.5
+    defensive_rating: 80.94
+    pace: 60.6
+    efg_pct: 0.527
+    tov_pct: 12.3
+    orb_pct: 26.9
+    ft_rate: 0.245
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Cincinnati
+  seed: 2
+  region: South
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 3.53
+  advanced:
+    srs: 20.25
+    offensive_rating: 112.3
+    defensive_rating: 82.87
+    pace: 66.1
+    efg_pct: 0.512
+    tov_pct: 14.1
+    orb_pct: 38.5
+    ft_rate: 0.36
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Tennessee
+  seed: 3
+  region: South
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: 10.12
+  advanced:
+    srs: 18.2
+    offensive_rating: 109.3
+    defensive_rating: 88.25
+    pace: 67.1
+    efg_pct: 0.508
+    tov_pct: 15.2
+    orb_pct: 33.3
+    ft_rate: 0.355
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Arizona
+  seed: 4
+  region: South
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 6.84
+  advanced:
+    srs: 15.67
+    offensive_rating: 115.6
+    defensive_rating: 96.27
+    pace: 68.6
+    efg_pct: 0.563
+    tov_pct: 15.3
+    orb_pct: 33.3
+    ft_rate: 0.37
+  momentum:
+    last_10: null
+  nba_prospects: 7
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Kentucky
+  seed: 5
+  region: South
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 26-11
+    conference: 10-8
+  strength_of_schedule:
+    rating: 10.73
+  advanced:
+    srs: 17.24
+    offensive_rating: 109.6
+    defensive_rating: 91.12
+    pace: 69.8
+    efg_pct: 0.518
+    tov_pct: 15.8
+    orb_pct: 35.5
+    ft_rate: 0.44
+  momentum:
+    last_10: null
+  nba_prospects: 15
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Miami
+  seed: 6
+  region: South
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 6.96
+  advanced:
+    srs: 12.83
+    offensive_rating: 107.9
+    defensive_rating: 92.38
+    pace: 67.8
+    efg_pct: 0.531
+    tov_pct: 14.6
+    orb_pct: 29.1
+    ft_rate: 0.291
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Nevada
+  seed: 7
+  region: South
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-8
+    conference: 15-3
+  strength_of_schedule:
+    rating: 4.93
+  advanced:
+    srs: 14.44
+    offensive_rating: 115.5
+    defensive_rating: 97.88
+    pace: 70.5
+    efg_pct: 0.548
+    tov_pct: 12.0
+    orb_pct: 26.4
+    ft_rate: 0.363
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Creighton
+  seed: 8
+  region: South
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.1
+  advanced:
+    srs: 16.35
+    offensive_rating: 113.8
+    defensive_rating: 94.26
+    pace: 72.8
+    efg_pct: 0.575
+    tov_pct: 13.9
+    orb_pct: 22.5
+    ft_rate: 0.259
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Kansas State
+  seed: 9
+  region: South
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 8.74
+  advanced:
+    srs: 12.85
+    offensive_rating: 106.4
+    defensive_rating: 91.61
+    pace: 66.6
+    efg_pct: 0.525
+    tov_pct: 15.3
+    orb_pct: 25.8
+    ft_rate: 0.338
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Texas
+  seed: 10
+  region: South
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-15
+    conference: 8-10
+  strength_of_schedule:
+    rating: 10.67
+  advanced:
+    srs: 13.96
+    offensive_rating: 103.9
+    defensive_rating: 90.0
+    pace: 66.9
+    efg_pct: 0.5
+    tov_pct: 14.6
+    orb_pct: 29.5
+    ft_rate: 0.33
+  momentum:
+    last_10: null
+  nba_prospects: 5
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Loyola Chicago
+  seed: 11
+  region: South
+  conference: MVC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 32-6
+    conference: 15-3
+  strength_of_schedule:
+    rating: 1.8
+  advanced:
+    srs: 10.37
+    offensive_rating: 108.6
+    defensive_rating: 93.84
+    pace: 65.9
+    efg_pct: 0.577
+    tov_pct: 17.3
+    orb_pct: 22.4
+    ft_rate: 0.319
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Davidson
+  seed: 12
+  region: South
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 21-12
+    conference: 13-5
+  strength_of_schedule:
+    rating: 2.57
+  advanced:
+    srs: 11.02
+    offensive_rating: 115.7
+    defensive_rating: 100.16
+    pace: 65.3
+    efg_pct: 0.574
+    tov_pct: 13.1
+    orb_pct: 22.6
+    ft_rate: 0.246
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Buffalo
+  seed: 13
+  region: South
+  conference: MAC(East)
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-9
+    conference: 15-3
+  strength_of_schedule:
+    rating: 0.25
+  advanced:
+    srs: 7.99
+    offensive_rating: 113.4
+    defensive_rating: 100.78
+    pace: 73.9
+    efg_pct: 0.549
+    tov_pct: 14.3
+    orb_pct: 31.8
+    ft_rate: 0.298
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Wright State
+  seed: 14
+  region: South
+  conference: Horizon
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: -3.64
+  advanced:
+    srs: 0.58
+    offensive_rating: 101.4
+    defensive_rating: 95.69
+    pace: 69.9
+    efg_pct: 0.491
+    tov_pct: 16.3
+    orb_pct: 28.9
+    ft_rate: 0.358
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Georgia State
+  seed: 15
+  region: South
+  conference: Sun Belt
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-11
+    conference: 12-6
+  strength_of_schedule:
+    rating: -2.78
+  advanced:
+    srs: 3.22
+    offensive_rating: 108.8
+    defensive_rating: 99.93
+    pace: 67.9
+    efg_pct: 0.54
+    tov_pct: 14.5
+    orb_pct: 26.0
+    ft_rate: 0.303
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: UMBC
+  seed: 16
+  region: South
+  conference: AmEast
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 25-11
+    conference: 12-4
+  strength_of_schedule:
+    rating: -3.84
+  advanced:
+    srs: -2.02
+    offensive_rating: 105.6
+    defensive_rating: 102.28
+    pace: 69.2
+    efg_pct: 0.531
+    tov_pct: 15.5
+    orb_pct: 26.8
+    ft_rate: 0.307
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Xavier
+  seed: 1
+  region: West
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-6
+    conference: 15-3
+  strength_of_schedule:
+    rating: 9.43
+  advanced:
+    srs: 19.06
+    offensive_rating: 115.5
+    defensive_rating: 94.08
+    pace: 72.3
+    efg_pct: 0.559
+    tov_pct: 15.2
+    orb_pct: 30.2
+    ft_rate: 0.41
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: UNC
+  seed: 2
+  region: West
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 11.78
+  advanced:
+    srs: 20.07
+    offensive_rating: 113.4
+    defensive_rating: 91.4
+    pace: 71.7
+    efg_pct: 0.52
+    tov_pct: 14.0
+    orb_pct: 37.4
+    ft_rate: 0.28
+  momentum:
+    last_10: null
+  nba_prospects: 6
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Michigan
+  seed: 3
+  region: West
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 33-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: 9.41
+  advanced:
+    srs: 19.03
+    offensive_rating: 111.0
+    defensive_rating: 86.75
+    pace: 65.7
+    efg_pct: 0.545
+    tov_pct: 12.4
+    orb_pct: 25.4
+    ft_rate: 0.307
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Gonzaga
+  seed: 4
+  region: West
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 32-5
+    conference: 17-1
+  strength_of_schedule:
+    rating: 2.6
+  advanced:
+    srs: 18.44
+    offensive_rating: 118.2
+    defensive_rating: 91.42
+    pace: 69.7
+    efg_pct: 0.57
+    tov_pct: 13.9
+    orb_pct: 32.9
+    ft_rate: 0.321
+  momentum:
+    last_10: null
+  nba_prospects: 8
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Ohio State
+  seed: 5
+  region: West
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-9
+    conference: 15-3
+  strength_of_schedule:
+    rating: 9.02
+  advanced:
+    srs: 17.67
+    offensive_rating: 111.0
+    defensive_rating: 90.38
+    pace: 67.9
+    efg_pct: 0.541
+    tov_pct: 14.9
+    orb_pct: 30.1
+    ft_rate: 0.311
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Houston
+  seed: 6
+  region: West
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-8
+    conference: 14-4
+  strength_of_schedule:
+    rating: 4.16
+  advanced:
+    srs: 15.99
+    offensive_rating: 112.0
+    defensive_rating: 90.59
+    pace: 68.5
+    efg_pct: 0.533
+    tov_pct: 14.9
+    orb_pct: 33.6
+    ft_rate: 0.326
+  momentum:
+    last_10: null
+  nba_prospects: 4
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Texas A&M
+  seed: 7
+  region: West
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-13
+    conference: 9-9
+  strength_of_schedule:
+    rating: 10.62
+  advanced:
+    srs: 15.3
+    offensive_rating: 106.1
+    defensive_rating: 89.51
+    pace: 70.9
+    efg_pct: 0.514
+    tov_pct: 16.3
+    orb_pct: 33.9
+    ft_rate: 0.32
+  momentum:
+    last_10: null
+  nba_prospects: 2
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Missouri
+  seed: 8
+  region: West
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-13
+    conference: 10-8
+  strength_of_schedule:
+    rating: 9.19
+  advanced:
+    srs: 13.81
+    offensive_rating: 107.2
+    defensive_rating: 92.5
+    pace: 67.3
+    efg_pct: 0.537
+    tov_pct: 18.3
+    orb_pct: 31.2
+    ft_rate: 0.39
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Florida State
+  seed: 9
+  region: West
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-12
+    conference: 9-9
+  strength_of_schedule:
+    rating: 8.5
+  advanced:
+    srs: 15.78
+    offensive_rating: 109.5
+    defensive_rating: 92.47
+    pace: 72.2
+    efg_pct: 0.532
+    tov_pct: 15.4
+    orb_pct: 32.0
+    ft_rate: 0.37
+  momentum:
+    last_10: null
+  nba_prospects: 9
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Providence
+  seed: 10
+  region: West
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-14
+    conference: 10-8
+  strength_of_schedule:
+    rating: 10.23
+  advanced:
+    srs: 11.12
+    offensive_rating: 104.1
+    defensive_rating: 92.55
+    pace: 69.5
+    efg_pct: 0.496
+    tov_pct: 15.1
+    orb_pct: 28.8
+    ft_rate: 0.386
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: San Diego State
+  seed: 11
+  region: West
+  conference: MWC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 3.91
+  advanced:
+    srs: 12.23
+    offensive_rating: 109.6
+    defensive_rating: 92.77
+    pace: 70.4
+    efg_pct: 0.519
+    tov_pct: 14.6
+    orb_pct: 31.9
+    ft_rate: 0.357
+  momentum:
+    last_10: null
+  nba_prospects: 3
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: South Dakota State
+  seed: 12
+  region: West
+  conference: Summit
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-7
+    conference: 13-1
+  strength_of_schedule:
+    rating: -0.38
+  advanced:
+    srs: 6.84
+    offensive_rating: 115.7
+    defensive_rating: 101.55
+    pace: 72.3
+    efg_pct: 0.554
+    tov_pct: 12.3
+    orb_pct: 24.8
+    ft_rate: 0.354
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: UNC Greensboro
+  seed: 13
+  region: West
+  conference: Southern
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 27-8
+    conference: 15-3
+  strength_of_schedule:
+    rating: -3.87
+  advanced:
+    srs: 4.54
+    offensive_rating: 107.1
+    defensive_rating: 94.43
+    pace: 66.9
+    efg_pct: 0.525
+    tov_pct: 17.1
+    orb_pct: 34.2
+    ft_rate: 0.265
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Montana
+  seed: 14
+  region: West
+  conference: Big Sky
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-8
+    conference: 16-2
+  strength_of_schedule:
+    rating: -2.24
+  advanced:
+    srs: 6.29
+    offensive_rating: 108.8
+    defensive_rating: 96.64
+    pace: 69.9
+    efg_pct: 0.513
+    tov_pct: 15.0
+    orb_pct: 33.3
+    ft_rate: 0.386
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Lipscomb
+  seed: 15
+  region: West
+  conference: A-Sun
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 10-4
+  strength_of_schedule:
+    rating: -3.8
+  advanced:
+    srs: -2.1
+    offensive_rating: 105.0
+    defensive_rating: 102.25
+    pace: 77.0
+    efg_pct: 0.518
+    tov_pct: 16.9
+    orb_pct: 28.3
+    ft_rate: 0.405
+  momentum:
+    last_10: null
+  nba_prospects: 1
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+- year: 2018
+  tournament: mens
+  team: Texas Southern
+  seed: 16
+  region: West
+  conference: SWAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 16-20
+    conference: 12-6
+  strength_of_schedule:
+    rating: -5.53
+  advanced:
+    srs: -7.53
+    offensive_rating: 105.8
+    defensive_rating: 110.91
+    pace: 72.7
+    efg_pct: 0.505
+    tov_pct: 15.1
+    orb_pct: 28.4
+    ft_rate: 0.429
+  momentum:
+    last_10: null
+  nba_prospects: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false

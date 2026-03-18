@@ -1,0 +1,2243 @@
+year: 2023
+tournament: womens
+teams:
+- year: 2023
+  tournament: womens
+  team: South Carolina
+  seed: 1
+  region: Greenville1
+  conference: SEC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 36-1
+    conference: 16-0
+  strength_of_schedule:
+    rating: 15.7
+  advanced:
+    srs: 44.26
+    offensive_rating: 114.7
+    defensive_rating: 62.37
+    pace: 69.6
+    efg_pct: 0.495
+    tov_pct: 14.2
+    orb_pct: 48.9
+    ft_rate: 0.341
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 9
+- year: 2023
+  tournament: womens
+  team: Maryland
+  seed: 2
+  region: Greenville1
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 18.11
+  advanced:
+    srs: 28.51
+    offensive_rating: 105.1
+    defensive_rating: 77.25
+    pace: 75.3
+    efg_pct: 0.5
+    tov_pct: 15.5
+    orb_pct: 31.6
+    ft_rate: 0.285
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: Notre Dame
+  seed: 3
+  region: Greenville1
+  conference: ACC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-6
+    conference: 15-3
+  strength_of_schedule:
+    rating: 14.68
+  advanced:
+    srs: 29.65
+    offensive_rating: 102.7
+    defensive_rating: 71.34
+    pace: 71.7
+    efg_pct: 0.493
+    tov_pct: 18.5
+    orb_pct: 39.0
+    ft_rate: 0.349
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: UCLA
+  seed: 4
+  region: Greenville1
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 27-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 16.87
+  advanced:
+    srs: 24.93
+    offensive_rating: 99.4
+    defensive_rating: 75.79
+    pace: 69.2
+    efg_pct: 0.446
+    tov_pct: 15.6
+    orb_pct: 37.9
+    ft_rate: 0.257
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Oklahoma
+  seed: 5
+  region: Greenville1
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: 13.19
+  advanced:
+    srs: 21.92
+    offensive_rating: 105.7
+    defensive_rating: 85.89
+    pace: 79.0
+    efg_pct: 0.517
+    tov_pct: 18.0
+    orb_pct: 35.6
+    ft_rate: 0.278
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Creighton
+  seed: 6
+  region: Greenville1
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-9
+    conference: 15-5
+  strength_of_schedule:
+    rating: 13.96
+  advanced:
+    srs: 23.09
+    offensive_rating: 105.5
+    defensive_rating: 81.94
+    pace: 67.0
+    efg_pct: 0.525
+    tov_pct: 15.3
+    orb_pct: 27.3
+    ft_rate: 0.196
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Arizona
+  seed: 7
+  region: Greenville1
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 14.9
+  advanced:
+    srs: 23.87
+    offensive_rating: 101.4
+    defensive_rating: 77.66
+    pace: 72.2
+    efg_pct: 0.48
+    tov_pct: 14.6
+    orb_pct: 31.9
+    ft_rate: 0.292
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: South Florida
+  seed: 8
+  region: Greenville1
+  conference: AAC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-7
+    conference: 15-1
+  strength_of_schedule:
+    rating: 8.68
+  advanced:
+    srs: 18.86
+    offensive_rating: 102.1
+    defensive_rating: 83.11
+    pace: 67.9
+    efg_pct: 0.5
+    tov_pct: 18.8
+    orb_pct: 37.2
+    ft_rate: 0.302
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: Marquette
+  seed: 9
+  region: Greenville1
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-11
+    conference: 13-7
+  strength_of_schedule:
+    rating: 12.32
+  advanced:
+    srs: 19.1
+    offensive_rating: 94.1
+    defensive_rating: 74.7
+    pace: 68.6
+    efg_pct: 0.446
+    tov_pct: 16.6
+    orb_pct: 33.5
+    ft_rate: 0.206
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: West Virginia
+  seed: 10
+  region: Greenville1
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 19-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 10.79
+  advanced:
+    srs: 15.31
+    offensive_rating: 90.7
+    defensive_rating: 77.64
+    pace: 72.2
+    efg_pct: 0.442
+    tov_pct: 16.2
+    orb_pct: 26.5
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Mississippi St.
+  seed: 11
+  region: Greenville1
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-11
+    conference: 9-7
+  strength_of_schedule:
+    rating: 10.58
+  advanced:
+    srs: 22.61
+    offensive_rating: 98.6
+    defensive_rating: 75.42
+    pace: 71.3
+    efg_pct: 0.495
+    tov_pct: 18.9
+    orb_pct: 33.0
+    ft_rate: 0.307
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Portland
+  seed: 12
+  region: Greenville1
+  conference: WCC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-9
+    conference: 15-3
+  strength_of_schedule:
+    rating: 6.18
+  advanced:
+    srs: 10.24
+    offensive_rating: 99.3
+    defensive_rating: 87.6
+    pace: 69.5
+    efg_pct: 0.511
+    tov_pct: 20.2
+    orb_pct: 32.4
+    ft_rate: 0.306
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Sacramento State
+  seed: 13
+  region: Greenville1
+  conference: Big Sky
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 25-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: -1.78
+  advanced:
+    srs: 6.85
+    offensive_rating: 106.0
+    defensive_rating: 93.47
+    pace: 64.1
+    efg_pct: 0.549
+    tov_pct: 19.8
+    orb_pct: 32.9
+    ft_rate: 0.277
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Southern Utah
+  seed: 14
+  region: Greenville1
+  conference: WAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 16-2
+  strength_of_schedule:
+    rating: 1.83
+  advanced:
+    srs: 1.8
+    offensive_rating: 94.7
+    defensive_rating: 90.77
+    pace: 71.2
+    efg_pct: 0.475
+    tov_pct: 20.0
+    orb_pct: 33.0
+    ft_rate: 0.297
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Holy Cross
+  seed: 15
+  region: Greenville1
+  conference: Patriot
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 24-9
+    conference: 13-5
+  strength_of_schedule:
+    rating: -9.05
+  advanced:
+    srs: -3.52
+    offensive_rating: 92.8
+    defensive_rating: 92.42
+    pace: 66.0
+    efg_pct: 0.468
+    tov_pct: 19.6
+    orb_pct: 30.2
+    ft_rate: 0.263
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Norfolk State
+  seed: 16
+  region: Greenville1
+  conference: MEAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 11-3
+  strength_of_schedule:
+    rating: -11.7
+  advanced:
+    srs: -3.73
+    offensive_rating: 86.9
+    defensive_rating: 84.39
+    pace: 70.7
+    efg_pct: 0.422
+    tov_pct: 20.6
+    orb_pct: 36.9
+    ft_rate: 0.323
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Indiana
+  seed: 1
+  region: Greenville2
+  conference: Big Ten
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 28-4
+    conference: 16-2
+  strength_of_schedule:
+    rating: 14.66
+  advanced:
+    srs: 33.51
+    offensive_rating: 111.7
+    defensive_rating: 74.36
+    pace: 72.1
+    efg_pct: 0.557
+    tov_pct: 15.5
+    orb_pct: 27.8
+    ft_rate: 0.313
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: Utah
+  seed: 2
+  region: Greenville2
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 27-5
+    conference: 14-3
+  strength_of_schedule:
+    rating: 13.38
+  advanced:
+    srs: 30.23
+    offensive_rating: 112.0
+    defensive_rating: 80.63
+    pace: 73.7
+    efg_pct: 0.553
+    tov_pct: 17.1
+    orb_pct: 32.8
+    ft_rate: 0.355
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: LSU
+  seed: 3
+  region: Greenville2
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 34-2
+    conference: 15-1
+  strength_of_schedule:
+    rating: 10.78
+  advanced:
+    srs: 35.14
+    offensive_rating: 112.5
+    defensive_rating: 71.59
+    pace: 72.9
+    efg_pct: 0.503
+    tov_pct: 15.2
+    orb_pct: 45.3
+    ft_rate: 0.37
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Champion
+    wins: 6
+    losses: 0
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2023
+  tournament: womens
+  team: Villanova
+  seed: 4
+  region: Greenville2
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 30-7
+    conference: 17-3
+  strength_of_schedule:
+    rating: 12.51
+  advanced:
+    srs: 24.61
+    offensive_rating: 106.4
+    defensive_rating: 78.42
+    pace: 66.6
+    efg_pct: 0.493
+    tov_pct: 13.1
+    orb_pct: 32.2
+    ft_rate: 0.238
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Washington State
+  seed: 5
+  region: Greenville2
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-11
+    conference: 9-9
+  strength_of_schedule:
+    rating: 15.73
+  advanced:
+    srs: 21.47
+    offensive_rating: 97.4
+    defensive_rating: 77.5
+    pace: 68.1
+    efg_pct: 0.488
+    tov_pct: 18.8
+    orb_pct: 31.9
+    ft_rate: 0.252
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Michigan
+  seed: 6
+  region: Greenville2
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 13.78
+  advanced:
+    srs: 23.9
+    offensive_rating: 102.4
+    defensive_rating: 78.56
+    pace: 71.8
+    efg_pct: 0.516
+    tov_pct: 19.6
+    orb_pct: 32.7
+    ft_rate: 0.32
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: NC State
+  seed: 7
+  region: Greenville2
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-12
+    conference: 9-9
+  strength_of_schedule:
+    rating: 16.68
+  advanced:
+    srs: 24.93
+    offensive_rating: 98.5
+    defensive_rating: 76.21
+    pace: 71.6
+    efg_pct: 0.481
+    tov_pct: 16.1
+    orb_pct: 29.5
+    ft_rate: 0.264
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: Oklahoma State
+  seed: 8
+  region: Greenville2
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-12
+    conference: 10-8
+  strength_of_schedule:
+    rating: 13.55
+  advanced:
+    srs: 20.64
+    offensive_rating: 103.4
+    defensive_rating: 84.15
+    pace: 72.0
+    efg_pct: 0.518
+    tov_pct: 16.1
+    orb_pct: 27.6
+    ft_rate: 0.269
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Miami
+  seed: 9
+  region: Greenville2
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-13
+    conference: 11-7
+  strength_of_schedule:
+    rating: 14.25
+  advanced:
+    srs: 20.25
+    offensive_rating: 97.5
+    defensive_rating: 79.51
+    pace: 70.9
+    efg_pct: 0.476
+    tov_pct: 18.9
+    orb_pct: 35.6
+    ft_rate: 0.285
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Princeton
+  seed: 10
+  region: Greenville2
+  conference: Ivy
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 24-6
+    conference: 12-2
+  strength_of_schedule:
+    rating: 4.35
+  advanced:
+    srs: 16.39
+    offensive_rating: 97.1
+    defensive_rating: 76.62
+    pace: 66.9
+    efg_pct: 0.455
+    tov_pct: 16.2
+    orb_pct: 35.7
+    ft_rate: 0.264
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: UNLV
+  seed: 11
+  region: Greenville2
+  conference: MWC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-3
+    conference: 18-0
+  strength_of_schedule:
+    rating: 0.88
+  advanced:
+    srs: 15.18
+    offensive_rating: 108.3
+    defensive_rating: 86.96
+    pace: 70.5
+    efg_pct: 0.514
+    tov_pct: 15.3
+    orb_pct: 33.4
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Florida Gulf Coast
+  seed: 12
+  region: Greenville2
+  conference: A-Sun
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 33-4
+    conference: 17-1
+  strength_of_schedule:
+    rating: -1.47
+  advanced:
+    srs: 17.39
+    offensive_rating: 111.1
+    defensive_rating: 84.94
+    pace: 69.4
+    efg_pct: 0.574
+    tov_pct: 15.8
+    orb_pct: 25.0
+    ft_rate: 0.227
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Cleveland State
+  seed: 13
+  region: Greenville2
+  conference: Horizon
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 30-5
+    conference: 17-3
+  strength_of_schedule:
+    rating: -5.62
+  advanced:
+    srs: 10.47
+    offensive_rating: 102.1
+    defensive_rating: 83.45
+    pace: 72.0
+    efg_pct: 0.478
+    tov_pct: 17.5
+    orb_pct: 36.2
+    ft_rate: 0.399
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Hawaii
+  seed: 14
+  region: Greenville2
+  conference: Big West
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 18-15
+    conference: 13-7
+  strength_of_schedule:
+    rating: 1.15
+  advanced:
+    srs: 1.42
+    offensive_rating: 90.1
+    defensive_rating: 90.19
+    pace: 65.6
+    efg_pct: 0.457
+    tov_pct: 20.2
+    orb_pct: 28.6
+    ft_rate: 0.307
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Gardner-Webb
+  seed: 15
+  region: Greenville2
+  conference: Big South
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-5
+    conference: 18-0
+  strength_of_schedule:
+    rating: -11.3
+  advanced:
+    srs: -1.21
+    offensive_rating: 102.9
+    defensive_rating: 98.97
+    pace: 74.5
+    efg_pct: 0.495
+    tov_pct: 17.4
+    orb_pct: 35.9
+    ft_rate: 0.326
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Tennessee Tech
+  seed: 16
+  region: Greenville2
+  conference: OVC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 13-5
+  strength_of_schedule:
+    rating: -8.23
+  advanced:
+    srs: -3.81
+    offensive_rating: 100.4
+    defensive_rating: 100.7
+    pace: 68.4
+    efg_pct: 0.485
+    tov_pct: 17.1
+    orb_pct: 32.6
+    ft_rate: 0.291
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Virginia Tech
+  seed: 1
+  region: Seattle3
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 31-5
+    conference: 14-4
+  strength_of_schedule:
+    rating: 14.45
+  advanced:
+    srs: 29.12
+    offensive_rating: 105.7
+    defensive_rating: 76.14
+    pace: 68.5
+    efg_pct: 0.518
+    tov_pct: 17.2
+    orb_pct: 31.9
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Final Four
+    wins: 4
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: UConn
+  seed: 2
+  region: Seattle3
+  conference: Big East
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 31-6
+    conference: 18-2
+  strength_of_schedule:
+    rating: 16.96
+  advanced:
+    srs: 34.04
+    offensive_rating: 106.1
+    defensive_rating: 70.01
+    pace: 71.5
+    efg_pct: 0.546
+    tov_pct: 19.9
+    orb_pct: 35.4
+    ft_rate: 0.283
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 7
+- year: 2023
+  tournament: womens
+  team: Ohio State
+  seed: 3
+  region: Seattle3
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 28-8
+    conference: 12-6
+  strength_of_schedule:
+    rating: 15.3
+  advanced:
+    srs: 26.91
+    offensive_rating: 104.6
+    defensive_rating: 77.7
+    pace: 76.2
+    efg_pct: 0.517
+    tov_pct: 15.8
+    orb_pct: 28.3
+    ft_rate: 0.313
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2023
+  tournament: womens
+  team: Tennessee
+  seed: 4
+  region: Seattle3
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-12
+    conference: 13-3
+  strength_of_schedule:
+    rating: 17.52
+  advanced:
+    srs: 28.66
+    offensive_rating: 104.4
+    defensive_rating: 76.0
+    pace: 73.3
+    efg_pct: 0.49
+    tov_pct: 17.2
+    orb_pct: 40.4
+    ft_rate: 0.319
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: Iowa State
+  seed: 5
+  region: Seattle3
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 16.49
+  advanced:
+    srs: 27.31
+    offensive_rating: 103.7
+    defensive_rating: 76.51
+    pace: 72.2
+    efg_pct: 0.494
+    tov_pct: 16.1
+    orb_pct: 30.3
+    ft_rate: 0.296
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: UNC
+  seed: 6
+  region: Seattle3
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-11
+    conference: 11-7
+  strength_of_schedule:
+    rating: 15.29
+  advanced:
+    srs: 24.41
+    offensive_rating: 95.1
+    defensive_rating: 72.94
+    pace: 72.2
+    efg_pct: 0.466
+    tov_pct: 17.3
+    orb_pct: 30.7
+    ft_rate: 0.278
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Baylor
+  seed: 7
+  region: Seattle3
+  conference: Big 12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-13
+    conference: 10-8
+  strength_of_schedule:
+    rating: 14.78
+  advanced:
+    srs: 23.02
+    offensive_rating: 97.7
+    defensive_rating: 75.06
+    pace: 72.6
+    efg_pct: 0.482
+    tov_pct: 17.8
+    orb_pct: 32.1
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: USC
+  seed: 8
+  region: Seattle3
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 21-10
+    conference: 11-7
+  strength_of_schedule:
+    rating: 13.05
+  advanced:
+    srs: 22.21
+    offensive_rating: 92.3
+    defensive_rating: 69.87
+    pace: 67.4
+    efg_pct: 0.431
+    tov_pct: 18.6
+    orb_pct: 35.6
+    ft_rate: 0.309
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 6
+- year: 2023
+  tournament: womens
+  team: South Dakota State
+  seed: 9
+  region: Seattle3
+  conference: Summit
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-6
+    conference: 18-0
+  strength_of_schedule:
+    rating: 1.63
+  advanced:
+    srs: 19.4
+    offensive_rating: 109.2
+    defensive_rating: 81.55
+    pace: 71.5
+    efg_pct: 0.531
+    tov_pct: 16.3
+    orb_pct: 33.0
+    ft_rate: 0.374
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Alabama
+  seed: 10
+  region: Seattle3
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 20-11
+    conference: 9-7
+  strength_of_schedule:
+    rating: 11.72
+  advanced:
+    srs: 21.37
+    offensive_rating: 101.6
+    defensive_rating: 80.07
+    pace: 68.9
+    efg_pct: 0.52
+    tov_pct: 19.5
+    orb_pct: 32.1
+    ft_rate: 0.261
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2023
+  tournament: womens
+  team: St. John's
+  seed: 11
+  region: Seattle3
+  conference: Big East
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-9
+    conference: 13-7
+  strength_of_schedule:
+    rating: 9.31
+  advanced:
+    srs: 15.03
+    offensive_rating: 100.6
+    defensive_rating: 86.44
+    pace: 64.9
+    efg_pct: 0.495
+    tov_pct: 18.6
+    orb_pct: 33.0
+    ft_rate: 0.281
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Toledo
+  seed: 12
+  region: Seattle3
+  conference: MAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 29-5
+    conference: 16-2
+  strength_of_schedule:
+    rating: 1.19
+  advanced:
+    srs: 10.51
+    offensive_rating: 103.8
+    defensive_rating: 88.28
+    pace: 69.6
+    efg_pct: 0.507
+    tov_pct: 15.8
+    orb_pct: 26.2
+    ft_rate: 0.342
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Saint Louis
+  seed: 13
+  region: Seattle3
+  conference: A-10
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 17-18
+    conference: 10-6
+  strength_of_schedule:
+    rating: 3.63
+  advanced:
+    srs: 2.28
+    offensive_rating: 92.6
+    defensive_rating: 90.96
+    pace: 74.0
+    efg_pct: 0.439
+    tov_pct: 19.5
+    orb_pct: 36.1
+    ft_rate: 0.264
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: James Madison
+  seed: 14
+  region: Seattle3
+  conference: Sun Belt
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-8
+    conference: 13-5
+  strength_of_schedule:
+    rating: -4.31
+  advanced:
+    srs: 3.48
+    offensive_rating: 98.6
+    defensive_rating: 89.95
+    pace: 70.3
+    efg_pct: 0.463
+    tov_pct: 17.0
+    orb_pct: 34.3
+    ft_rate: 0.335
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Vermont
+  seed: 15
+  region: Seattle3
+  conference: AmEast
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 25-7
+    conference: 14-2
+  strength_of_schedule:
+    rating: -10.15
+  advanced:
+    srs: -3.47
+    offensive_rating: 96.2
+    defensive_rating: 92.9
+    pace: 63.5
+    efg_pct: 0.483
+    tov_pct: 18.0
+    orb_pct: 31.0
+    ft_rate: 0.244
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Chattanooga
+  seed: 16
+  region: Seattle3
+  conference: Southern
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 20-13
+    conference: 9-5
+  strength_of_schedule:
+    rating: -4.8
+  advanced:
+    srs: -1.86
+    offensive_rating: 90.7
+    defensive_rating: 89.54
+    pace: 64.1
+    efg_pct: 0.464
+    tov_pct: 19.5
+    orb_pct: 23.6
+    ft_rate: 0.294
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Stanford
+  seed: 1
+  region: Seattle4
+  conference: Pac-12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 29-6
+    conference: 15-3
+  strength_of_schedule:
+    rating: 15.99
+  advanced:
+    srs: 33.91
+    offensive_rating: 109.8
+    defensive_rating: 72.27
+    pace: 68.6
+    efg_pct: 0.511
+    tov_pct: 16.1
+    orb_pct: 39.8
+    ft_rate: 0.289
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: Iowa
+  seed: 2
+  region: Seattle4
+  conference: Big Ten
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 31-7
+    conference: 15-3
+  strength_of_schedule:
+    rating: 17.75
+  advanced:
+    srs: 33.25
+    offensive_rating: 113.8
+    defensive_rating: 80.56
+    pace: 76.2
+    efg_pct: 0.586
+    tov_pct: 16.8
+    orb_pct: 26.7
+    ft_rate: 0.332
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Championship Game
+    wins: 5
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 4
+- year: 2023
+  tournament: womens
+  team: Duke
+  seed: 3
+  region: Seattle4
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-7
+    conference: 14-4
+  strength_of_schedule:
+    rating: 15.24
+  advanced:
+    srs: 27.82
+    offensive_rating: 93.0
+    defensive_rating: 65.01
+    pace: 68.1
+    efg_pct: 0.458
+    tov_pct: 19.1
+    orb_pct: 34.7
+    ft_rate: 0.256
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Texas
+  seed: 4
+  region: Seattle4
+  conference: Big 12
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 26-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: 14.18
+  advanced:
+    srs: 29.59
+    offensive_rating: 102.4
+    defensive_rating: 71.36
+    pace: 71.2
+    efg_pct: 0.479
+    tov_pct: 17.5
+    orb_pct: 41.0
+    ft_rate: 0.311
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Louisville
+  seed: 5
+  region: Seattle4
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 26-12
+    conference: 12-6
+  strength_of_schedule:
+    rating: 15.9
+  advanced:
+    srs: 24.96
+    offensive_rating: 102.1
+    defensive_rating: 78.27
+    pace: 71.3
+    efg_pct: 0.494
+    tov_pct: 17.7
+    orb_pct: 35.2
+    ft_rate: 0.275
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Elite Eight
+    wins: 3
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Colorado
+  seed: 6
+  region: Seattle4
+  conference: Pac-12
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-9
+    conference: 12-5
+  strength_of_schedule:
+    rating: 14.51
+  advanced:
+    srs: 24.4
+    offensive_rating: 98.6
+    defensive_rating: 74.15
+    pace: 68.9
+    efg_pct: 0.484
+    tov_pct: 18.4
+    orb_pct: 34.7
+    ft_rate: 0.285
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Florida State
+  seed: 7
+  region: Seattle4
+  conference: ACC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 23-10
+    conference: 12-6
+  strength_of_schedule:
+    rating: 12.7
+  advanced:
+    srs: 25.06
+    offensive_rating: 102.1
+    defensive_rating: 78.35
+    pace: 77.1
+    efg_pct: 0.476
+    tov_pct: 15.0
+    orb_pct: 31.4
+    ft_rate: 0.329
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Ole Miss
+  seed: 8
+  region: Seattle4
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 25-9
+    conference: 11-5
+  strength_of_schedule:
+    rating: 11.96
+  advanced:
+    srs: 23.87
+    offensive_rating: 97.7
+    defensive_rating: 71.95
+    pace: 69.5
+    efg_pct: 0.455
+    tov_pct: 16.9
+    orb_pct: 38.2
+    ft_rate: 0.299
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Sweet Sixteen
+    wins: 2
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: 2
+- year: 2023
+  tournament: womens
+  team: Gonzaga
+  seed: 9
+  region: Seattle4
+  conference: WCC
+  conf_champion: true
+  conf_tourn_champion: false
+  record:
+    overall: 28-5
+    conference: 17-1
+  strength_of_schedule:
+    rating: 5.43
+  advanced:
+    srs: 17.16
+    offensive_rating: 106.5
+    defensive_rating: 85.43
+    pace: 67.0
+    efg_pct: 0.515
+    tov_pct: 18.0
+    orb_pct: 37.5
+    ft_rate: 0.262
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 3
+- year: 2023
+  tournament: womens
+  team: Georgia
+  seed: 10
+  region: Seattle4
+  conference: SEC
+  conf_champion: false
+  conf_tourn_champion: false
+  record:
+    overall: 22-12
+    conference: 9-7
+  strength_of_schedule:
+    rating: 13.91
+  advanced:
+    srs: 22.23
+    offensive_rating: 95.0
+    defensive_rating: 73.0
+    pace: 70.3
+    efg_pct: 0.466
+    tov_pct: 19.8
+    orb_pct: 37.3
+    ft_rate: 0.312
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: Second Round
+    wins: 1
+    losses: 1
+    upset_caused: true
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Middle Tennessee
+  seed: 11
+  region: Seattle4
+  conference: CUSA
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 28-5
+    conference: 18-2
+  strength_of_schedule:
+    rating: 2.75
+  advanced:
+    srs: 18.78
+    offensive_rating: 107.3
+    defensive_rating: 80.22
+    pace: 68.2
+    efg_pct: 0.5
+    tov_pct: 15.1
+    orb_pct: 31.5
+    ft_rate: 0.347
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: 1
+- year: 2023
+  tournament: womens
+  team: Drake
+  seed: 12
+  region: Seattle4
+  conference: MVC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 22-10
+    conference: 14-6
+  strength_of_schedule:
+    rating: 2.95
+  advanced:
+    srs: 16.08
+    offensive_rating: 104.9
+    defensive_rating: 83.15
+    pace: 74.8
+    efg_pct: 0.547
+    tov_pct: 20.3
+    orb_pct: 33.2
+    ft_rate: 0.328
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: East Carolina
+  seed: 13
+  region: Seattle4
+  conference: AAC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 23-10
+    conference: 11-5
+  strength_of_schedule:
+    rating: 2.01
+  advanced:
+    srs: 7.95
+    offensive_rating: 85.9
+    defensive_rating: 78.63
+    pace: 71.5
+    efg_pct: 0.4
+    tov_pct: 19.1
+    orb_pct: 36.6
+    ft_rate: 0.364
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Iona
+  seed: 14
+  region: Seattle4
+  conference: MAAC
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 26-7
+    conference: 18-2
+  strength_of_schedule:
+    rating: -10.45
+  advanced:
+    srs: -2.93
+    offensive_rating: 92.7
+    defensive_rating: 92.94
+    pace: 68.0
+    efg_pct: 0.546
+    tov_pct: 24.9
+    orb_pct: 24.7
+    ft_rate: 0.183
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Southeastern Louisiana
+  seed: 15
+  region: Seattle4
+  conference: Southland
+  conf_champion: true
+  conf_tourn_champion: true
+  record:
+    overall: 21-10
+    conference: 14-4
+  strength_of_schedule:
+    rating: -6.82
+  advanced:
+    srs: -3.64
+    offensive_rating: 90.9
+    defensive_rating: 89.86
+    pace: 67.7
+    efg_pct: 0.44
+    tov_pct: 16.3
+    orb_pct: 28.4
+    ft_rate: 0.272
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
+- year: 2023
+  tournament: womens
+  team: Sacred Heart
+  seed: 16
+  region: Seattle4
+  conference: NEC
+  conf_champion: false
+  conf_tourn_champion: true
+  record:
+    overall: 19-14
+    conference: 12-4
+  strength_of_schedule:
+    rating: -12.95
+  advanced:
+    srs: -11.02
+    offensive_rating: 87.6
+    defensive_rating: 94.63
+    pace: 71.1
+    efg_pct: 0.424
+    tov_pct: 18.5
+    orb_pct: 31.8
+    ft_rate: 0.293
+  momentum:
+    last_10: null
+  coach:
+    name: null
+    years_experience: null
+    prior_tournament_appearances: null
+  tournament_result:
+    round_reached: First Round
+    wins: 0
+    losses: 1
+    upset_caused: false
+    upset_suffered: false
+  wnba_prospects: null
