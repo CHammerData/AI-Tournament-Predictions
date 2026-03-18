@@ -7,6 +7,13 @@ round,round_name,region,winner,loser,winner_seed,loser_seed,win_prob,upset
 1,First Round,Fortworth1,Ohio State,Howard,3,14,0.99,False
 1,First Round,Fortworth1,Colorado,Illinois,10,7,0.591,True
 1,First Round,Fortworth1,Vanderbilt,High Point,2,15,0.993,False
+2,Second Round,Fortworth1,UConn,Syracuse,1,9,0.99,False
+2,Second Round,Fortworth1,Maryland,UNC,5,4,0.609,True
+2,Second Round,Fortworth1,Ohio State,Notre Dame,3,6,0.774,False
+2,Second Round,Fortworth1,Vanderbilt,Colorado,2,10,0.891,False
+3,Sweet Sixteen,Fortworth1,UConn,Maryland,1,5,0.977,False
+3,Sweet Sixteen,Fortworth1,Vanderbilt,Ohio State,2,3,0.508,False
+4,Elite Eight,Fortworth1,UConn,Vanderbilt,1,2,0.954,False
 1,First Round,Fortworth3,Oregon,Virginia Tech,8,9,0.656,False
 1,First Round,Fortworth3,Kentucky,James Madison,5,12,0.824,False
 1,First Round,Fortworth3,West Virginia,Miami (OH),4,13,0.98,False
@@ -14,6 +21,13 @@ round,round_name,region,winner,loser,winner_seed,loser_seed,win_prob,upset
 1,First Round,Fortworth3,Louisville,Vermont,3,14,0.99,False
 1,First Round,Fortworth3,Tennessee,NC State,10,7,0.615,True
 1,First Round,Fortworth3,Michigan,Holy Cross,2,15,0.992,False
+2,Second Round,Fortworth3,Texas,Oregon,1,8,0.976,False
+2,Second Round,Fortworth3,West Virginia,Kentucky,4,5,0.62,False
+2,Second Round,Fortworth3,Louisville,Alabama,3,6,0.693,False
+2,Second Round,Fortworth3,Michigan,Tennessee,2,10,0.826,False
+3,Sweet Sixteen,Fortworth3,Texas,West Virginia,1,4,0.931,False
+3,Sweet Sixteen,Fortworth3,Michigan,Louisville,2,3,0.797,False
+4,Elite Eight,Fortworth3,Texas,Michigan,1,2,0.828,False
 1,First Round,Sacramento2,UCLA,California Baptist,1,16,0.998,False
 1,First Round,Sacramento2,Oklahoma State,Princeton,8,9,0.613,False
 1,First Round,Sacramento2,Ole Miss,Gonzaga,5,12,0.864,False
@@ -21,40 +35,26 @@ round,round_name,region,winner,loser,winner_seed,loser_seed,win_prob,upset
 1,First Round,Sacramento2,Duke,College of Charleston,3,14,0.991,False
 1,First Round,Sacramento2,Villanova,Texas Tech,10,7,0.627,True
 1,First Round,Sacramento2,LSU,Jacksonville,2,15,0.993,False
+2,Second Round,Sacramento2,UCLA,Oklahoma State,1,8,0.997,False
+2,Second Round,Sacramento2,Minnesota,Ole Miss,4,5,0.664,False
+2,Second Round,Sacramento2,Duke,Baylor,3,6,0.827,False
+2,Second Round,Sacramento2,LSU,Villanova,2,10,0.829,False
+3,Sweet Sixteen,Sacramento2,UCLA,Minnesota,1,4,0.989,False
+3,Sweet Sixteen,Sacramento2,LSU,Duke,2,3,0.555,False
+4,Elite Eight,Sacramento2,UCLA,LSU,1,2,0.963,False
 1,First Round,Sacramento4,USC,Clemson,9,8,0.911,True
 1,First Round,Sacramento4,Michigan State,Colorado State,5,12,0.943,False
 1,First Round,Sacramento4,Oklahoma,Idaho,4,13,0.971,False
 1,First Round,Sacramento4,Washington,South Dakota State,6,11,0.829,False
 1,First Round,Sacramento4,TCU,UC San Diego,3,14,0.989,False
 1,First Round,Sacramento4,Iowa,FDU,2,15,0.991,False
-2,Second Round,Fortworth1,UConn,Syracuse,1,9,0.99,False
-2,Second Round,Fortworth1,Maryland,UNC,5,4,0.609,True
-2,Second Round,Fortworth1,Ohio State,Notre Dame,3,6,0.774,False
-2,Second Round,Fortworth1,Vanderbilt,Colorado,2,10,0.891,False
-2,Second Round,Fortworth3,Texas,Oregon,1,8,0.976,False
-2,Second Round,Fortworth3,West Virginia,Kentucky,4,5,0.62,False
-2,Second Round,Fortworth3,Louisville,Alabama,3,6,0.693,False
-2,Second Round,Fortworth3,Michigan,Tennessee,2,10,0.826,False
-2,Second Round,Sacramento2,UCLA,Oklahoma State,1,8,0.997,False
-2,Second Round,Sacramento2,Minnesota,Ole Miss,4,5,0.664,False
-2,Second Round,Sacramento2,Duke,Baylor,3,6,0.827,False
-2,Second Round,Sacramento2,LSU,Villanova,2,10,0.829,False
 2,Second Round,Sacramento4,South Carolina,USC,1,9,0.95,False
 2,Second Round,Sacramento4,Oklahoma,Michigan State,4,5,0.595,False
 2,Second Round,Sacramento4,TCU,Washington,3,6,0.64,False
 2,Second Round,Sacramento4,Iowa,Georgia,2,7,0.938,False
-3,Sweet Sixteen,Fortworth1,UConn,Maryland,1,5,0.977,False
-3,Sweet Sixteen,Fortworth1,Vanderbilt,Ohio State,2,3,0.508,False
-3,Sweet Sixteen,Fortworth3,Texas,West Virginia,1,4,0.931,False
-3,Sweet Sixteen,Fortworth3,Michigan,Louisville,2,3,0.797,False
-3,Sweet Sixteen,Sacramento2,UCLA,Minnesota,1,4,0.989,False
-3,Sweet Sixteen,Sacramento2,LSU,Duke,2,3,0.555,False
 3,Sweet Sixteen,Sacramento4,South Carolina,Oklahoma,1,4,0.947,False
 3,Sweet Sixteen,Sacramento4,Iowa,TCU,2,3,0.811,False
-4,Elite Eight,Fortworth1,UConn,Vanderbilt,1,2,0.954,False
-4,Elite Eight,Fortworth3,Texas,Michigan,1,2,0.828,False
-4,Elite Eight,Sacramento2,UCLA,LSU,1,2,0.963,False
 4,Elite Eight,Sacramento4,South Carolina,Iowa,1,2,0.838,False
-5,Final Four,Fortworth1 vs Fortworth3,UConn,Texas,1,1,0.635,False
-5,Final Four,Sacramento2 vs Sacramento4,UCLA,South Carolina,1,1,0.827,False
-6,Championship,National,UCLA,UConn,1,1,0.685,False
+5,Final Four,Sacramento4 vs Fortworth3,South Carolina,Texas,1,1,0.581,False
+5,Final Four,Sacramento2 vs Fortworth1,UCLA,UConn,1,1,0.717,False
+6,Championship,National,UCLA,South Carolina,1,1,0.815,False

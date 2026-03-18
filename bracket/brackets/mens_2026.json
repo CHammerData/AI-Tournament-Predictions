@@ -2,729 +2,1138 @@
   "gender": "mens",
   "year": 2026,
   "champion": "Michigan",
-  "rounds": {
-    "1": [
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "Duke",
-        "loser": "Siena",
-        "winner_seed": 1,
-        "loser_seed": 16,
-        "win_prob": 0.986,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "Ohio State",
-        "loser": "TCU",
-        "winner_seed": 8,
-        "loser_seed": 9,
-        "win_prob": 0.707,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "St. John's",
-        "loser": "Northern Iowa",
-        "winner_seed": 5,
-        "loser_seed": 12,
-        "win_prob": 0.919,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "Kansas",
-        "loser": "California Baptist",
-        "winner_seed": 4,
-        "loser_seed": 13,
-        "win_prob": 0.972,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "Louisville",
-        "loser": "South Florida",
-        "winner_seed": 6,
-        "loser_seed": 11,
-        "win_prob": 0.87,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "Michigan State",
-        "loser": "North Dakota State",
-        "winner_seed": 3,
-        "loser_seed": 14,
-        "win_prob": 0.942,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "UCLA",
-        "loser": "UCF",
-        "winner_seed": 7,
-        "loser_seed": 10,
-        "win_prob": 0.609,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "East",
-        "winner": "UConn",
-        "loser": "Furman",
-        "winner_seed": 2,
-        "loser_seed": 15,
-        "win_prob": 0.991,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Saint Louis",
-        "loser": "Georgia",
-        "winner_seed": 9,
-        "loser_seed": 8,
-        "win_prob": 0.598,
-        "upset": true
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Texas Tech",
-        "loser": "Akron",
-        "winner_seed": 5,
-        "loser_seed": 12,
-        "win_prob": 0.833,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Alabama",
-        "loser": "Hofstra",
-        "winner_seed": 4,
-        "loser_seed": 13,
-        "win_prob": 0.95,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Virginia",
-        "loser": "Wright State",
-        "winner_seed": 3,
-        "loser_seed": 14,
-        "win_prob": 0.986,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Santa Clara",
-        "loser": "Kentucky",
-        "winner_seed": 10,
-        "loser_seed": 7,
-        "win_prob": 0.62,
-        "upset": true
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "Midwest",
-        "winner": "Iowa State",
-        "loser": "Tennessee State",
-        "winner_seed": 2,
-        "loser_seed": 15,
-        "win_prob": 0.972,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Iowa",
-        "loser": "Clemson",
-        "winner_seed": 9,
-        "loser_seed": 8,
-        "win_prob": 0.625,
-        "upset": true
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Vanderbilt",
-        "loser": "McNeese",
-        "winner_seed": 5,
-        "loser_seed": 12,
-        "win_prob": 0.932,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Nebraska",
-        "loser": "Troy",
-        "winner_seed": 4,
-        "loser_seed": 13,
-        "win_prob": 0.993,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "UNC",
-        "loser": "VCU",
-        "winner_seed": 6,
-        "loser_seed": 11,
-        "win_prob": 0.802,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Illinois",
-        "loser": "Penn",
-        "winner_seed": 3,
-        "loser_seed": 14,
-        "win_prob": 0.973,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Saint Mary's",
-        "loser": "Texas A&M",
-        "winner_seed": 7,
-        "loser_seed": 10,
-        "win_prob": 0.697,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "South",
-        "winner": "Houston",
-        "loser": "Idaho",
-        "winner_seed": 2,
-        "loser_seed": 15,
-        "win_prob": 0.984,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Arizona",
-        "loser": "LIU",
-        "winner_seed": 1,
-        "loser_seed": 16,
-        "win_prob": 0.991,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Villanova",
-        "loser": "Utah State",
-        "winner_seed": 8,
-        "loser_seed": 9,
-        "win_prob": 0.583,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Wisconsin",
-        "loser": "High Point",
-        "winner_seed": 5,
-        "loser_seed": 12,
-        "win_prob": 0.876,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Arkansas",
-        "loser": "Hawaii",
-        "winner_seed": 4,
-        "loser_seed": 13,
-        "win_prob": 0.967,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Gonzaga",
-        "loser": "Kennesaw State",
-        "winner_seed": 3,
-        "loser_seed": 14,
-        "win_prob": 0.952,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Miami",
-        "loser": "Missouri",
-        "winner_seed": 7,
-        "loser_seed": 10,
-        "win_prob": 0.75,
-        "upset": false
-      },
-      {
-        "round": 1,
-        "round_name": "First Round",
-        "region": "West",
-        "winner": "Purdue",
-        "loser": "Queens (NC)",
-        "winner_seed": 2,
-        "loser_seed": 15,
-        "win_prob": 0.98,
-        "upset": false
-      }
-    ],
-    "2": [
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "East",
-        "winner": "Duke",
-        "loser": "Ohio State",
-        "winner_seed": 1,
-        "loser_seed": 8,
-        "win_prob": 0.952,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "East",
-        "winner": "St. John's",
-        "loser": "Kansas",
-        "winner_seed": 5,
-        "loser_seed": 4,
-        "win_prob": 0.569,
-        "upset": true
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "East",
-        "winner": "Michigan State",
-        "loser": "Louisville",
-        "winner_seed": 3,
-        "loser_seed": 6,
-        "win_prob": 0.633,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "East",
-        "winner": "UConn",
-        "loser": "UCLA",
-        "winner_seed": 2,
-        "loser_seed": 7,
-        "win_prob": 0.713,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "Midwest",
-        "winner": "Michigan",
-        "loser": "Saint Louis",
-        "winner_seed": 1,
-        "loser_seed": 9,
-        "win_prob": 0.951,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "Midwest",
-        "winner": "Texas Tech",
-        "loser": "Alabama",
-        "winner_seed": 5,
-        "loser_seed": 4,
-        "win_prob": 0.571,
-        "upset": true
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "Midwest",
-        "winner": "Virginia",
-        "loser": "Tennessee",
-        "winner_seed": 3,
-        "loser_seed": 6,
-        "win_prob": 0.681,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "Midwest",
-        "winner": "Iowa State",
-        "loser": "Santa Clara",
-        "winner_seed": 2,
-        "loser_seed": 10,
-        "win_prob": 0.763,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "South",
-        "winner": "Florida",
-        "loser": "Iowa",
-        "winner_seed": 1,
-        "loser_seed": 9,
-        "win_prob": 0.802,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "South",
-        "winner": "Vanderbilt",
-        "loser": "Nebraska",
-        "winner_seed": 5,
-        "loser_seed": 4,
-        "win_prob": 0.564,
-        "upset": true
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "South",
-        "winner": "Illinois",
-        "loser": "UNC",
-        "winner_seed": 3,
-        "loser_seed": 6,
-        "win_prob": 0.678,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "South",
-        "winner": "Houston",
-        "loser": "Saint Mary's",
-        "winner_seed": 2,
-        "loser_seed": 7,
-        "win_prob": 0.828,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "West",
-        "winner": "Arizona",
-        "loser": "Villanova",
-        "winner_seed": 1,
-        "loser_seed": 8,
-        "win_prob": 0.921,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "West",
-        "winner": "Arkansas",
-        "loser": "Wisconsin",
-        "winner_seed": 4,
-        "loser_seed": 5,
-        "win_prob": 0.699,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "West",
-        "winner": "Gonzaga",
-        "loser": "BYU",
-        "winner_seed": 3,
-        "loser_seed": 6,
-        "win_prob": 0.717,
-        "upset": false
-      },
-      {
-        "round": 2,
-        "round_name": "Second Round",
-        "region": "West",
-        "winner": "Purdue",
-        "loser": "Miami",
-        "winner_seed": 2,
-        "loser_seed": 7,
-        "win_prob": 0.832,
-        "upset": false
-      }
-    ],
-    "3": [
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "East",
-        "winner": "Duke",
-        "loser": "St. John's",
-        "winner_seed": 1,
-        "loser_seed": 5,
-        "win_prob": 0.862,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "East",
-        "winner": "UConn",
-        "loser": "Michigan State",
-        "winner_seed": 2,
-        "loser_seed": 3,
-        "win_prob": 0.537,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "Midwest",
-        "winner": "Michigan",
-        "loser": "Texas Tech",
-        "winner_seed": 1,
-        "loser_seed": 5,
-        "win_prob": 0.935,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "Midwest",
-        "winner": "Iowa State",
-        "loser": "Virginia",
-        "winner_seed": 2,
-        "loser_seed": 3,
-        "win_prob": 0.688,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "South",
-        "winner": "Vanderbilt",
-        "loser": "Florida",
-        "winner_seed": 5,
-        "loser_seed": 1,
-        "win_prob": 0.509,
-        "upset": true
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "South",
-        "winner": "Houston",
-        "loser": "Illinois",
-        "winner_seed": 2,
-        "loser_seed": 3,
-        "win_prob": 0.686,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "West",
-        "winner": "Arizona",
-        "loser": "Arkansas",
-        "winner_seed": 1,
-        "loser_seed": 4,
-        "win_prob": 0.885,
-        "upset": false
-      },
-      {
-        "round": 3,
-        "round_name": "Sweet Sixteen",
-        "region": "West",
-        "winner": "Purdue",
-        "loser": "Gonzaga",
-        "winner_seed": 2,
-        "loser_seed": 3,
-        "win_prob": 0.678,
-        "upset": false
-      }
-    ],
-    "4": [
-      {
-        "round": 4,
-        "round_name": "Elite Eight",
-        "region": "East",
-        "winner": "Duke",
-        "loser": "UConn",
-        "winner_seed": 1,
-        "loser_seed": 2,
-        "win_prob": 0.889,
-        "upset": false
-      },
-      {
-        "round": 4,
-        "round_name": "Elite Eight",
-        "region": "Midwest",
-        "winner": "Michigan",
-        "loser": "Iowa State",
-        "winner_seed": 1,
-        "loser_seed": 2,
-        "win_prob": 0.933,
-        "upset": false
-      },
-      {
-        "round": 4,
-        "round_name": "Elite Eight",
-        "region": "South",
-        "winner": "Houston",
-        "loser": "Vanderbilt",
-        "winner_seed": 2,
-        "loser_seed": 5,
-        "win_prob": 0.678,
-        "upset": false
-      },
-      {
-        "round": 4,
-        "round_name": "Elite Eight",
-        "region": "West",
-        "winner": "Arizona",
-        "loser": "Purdue",
-        "winner_seed": 1,
-        "loser_seed": 2,
-        "win_prob": 0.757,
-        "upset": false
-      }
-    ],
-    "5": [
-      {
-        "round": 5,
-        "round_name": "Final Four",
-        "region": "East vs Midwest",
-        "winner": "Michigan",
-        "loser": "Duke",
-        "winner_seed": 1,
-        "loser_seed": 1,
-        "win_prob": 0.673,
-        "upset": false
-      },
-      {
-        "round": 5,
-        "round_name": "Final Four",
-        "region": "South vs West",
-        "winner": "Arizona",
-        "loser": "Houston",
-        "winner_seed": 1,
-        "loser_seed": 2,
-        "win_prob": 0.776,
-        "upset": false
-      }
-    ],
-    "6": [
-      {
-        "round": 6,
-        "round_name": "Championship",
-        "region": "National",
-        "winner": "Michigan",
-        "loser": "Arizona",
-        "winner_seed": 1,
-        "loser_seed": 1,
-        "win_prob": 0.728,
-        "upset": false
-      }
-    ]
-  },
-  "team_championship_probability": {
-    "Duke": 0.0,
-    "UConn": 0.0,
-    "Michigan State": 0.0,
-    "Kansas": 0.0,
-    "St. John's": 0.0,
-    "Louisville": 0.0,
-    "UCLA": 0.0,
-    "Ohio State": 0.0,
-    "TCU": 0.0,
-    "UCF": 0.0,
-    "South Florida": 0.0,
-    "Northern Iowa": 0.0,
-    "California Baptist": 0.0,
-    "North Dakota State": 0.0,
-    "Furman": 0.0,
-    "Siena": 0.0,
-    "Michigan": 0.4068,
-    "Iowa State": 0.0,
-    "Virginia": 0.0,
-    "Alabama": 0.0,
-    "Texas Tech": 0.0,
-    "Tennessee": 0.0,
-    "Kentucky": 0.0,
-    "Georgia": 0.0,
-    "Saint Louis": 0.0,
-    "Santa Clara": 0.0,
-    "Akron": 0.0,
-    "Hofstra": 0.0,
-    "Wright State": 0.0,
-    "Tennessee State": 0.0,
-    "Florida": 0.0,
-    "Houston": 0.0,
-    "Illinois": 0.0,
-    "Nebraska": 0.0,
-    "Vanderbilt": 0.0,
-    "UNC": 0.0,
-    "Saint Mary's": 0.0,
-    "Clemson": 0.0,
-    "Iowa": 0.0,
-    "Texas A&M": 0.0,
-    "VCU": 0.0,
-    "McNeese": 0.0,
-    "Troy": 0.0,
-    "Penn": 0.0,
-    "Idaho": 0.0,
-    "Arizona": 0.4743,
-    "Purdue": 0.0,
-    "Gonzaga": 0.0,
-    "Arkansas": 0.0,
-    "Wisconsin": 0.0,
-    "BYU": 0.0,
-    "Miami": 0.0,
-    "Villanova": 0.0,
-    "Utah State": 0.0,
-    "Missouri": 0.0,
-    "High Point": 0.0,
-    "Hawaii": 0.0,
-    "Kennesaw State": 0.0,
-    "Queens (NC)": 0.0,
-    "LIU": 0.0
+  "expected_espn_score": 1263.2,
+  "games": [
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "Duke",
+      "loser": "Siena",
+      "winner_seed": 1,
+      "loser_seed": 16,
+      "win_prob": 0.986,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "Ohio State",
+      "loser": "TCU",
+      "winner_seed": 8,
+      "loser_seed": 9,
+      "win_prob": 0.707,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "St. John's",
+      "loser": "Northern Iowa",
+      "winner_seed": 5,
+      "loser_seed": 12,
+      "win_prob": 0.919,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "Kansas",
+      "loser": "California Baptist",
+      "winner_seed": 4,
+      "loser_seed": 13,
+      "win_prob": 0.972,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "Louisville",
+      "loser": "South Florida",
+      "winner_seed": 6,
+      "loser_seed": 11,
+      "win_prob": 0.87,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "Michigan State",
+      "loser": "North Dakota State",
+      "winner_seed": 3,
+      "loser_seed": 14,
+      "win_prob": 0.942,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "UCLA",
+      "loser": "UCF",
+      "winner_seed": 7,
+      "loser_seed": 10,
+      "win_prob": 0.609,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "East",
+      "winner": "UConn",
+      "loser": "Furman",
+      "winner_seed": 2,
+      "loser_seed": 15,
+      "win_prob": 0.991,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "East",
+      "winner": "Duke",
+      "loser": "Ohio State",
+      "winner_seed": 1,
+      "loser_seed": 8,
+      "win_prob": 0.952,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "East",
+      "winner": "St. John's",
+      "loser": "Kansas",
+      "winner_seed": 5,
+      "loser_seed": 4,
+      "win_prob": 0.569,
+      "upset": true
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "East",
+      "winner": "Michigan State",
+      "loser": "Louisville",
+      "winner_seed": 3,
+      "loser_seed": 6,
+      "win_prob": 0.633,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "East",
+      "winner": "UConn",
+      "loser": "UCLA",
+      "winner_seed": 2,
+      "loser_seed": 7,
+      "win_prob": 0.713,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "East",
+      "winner": "Duke",
+      "loser": "St. John's",
+      "winner_seed": 1,
+      "loser_seed": 5,
+      "win_prob": 0.862,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "East",
+      "winner": "UConn",
+      "loser": "Michigan State",
+      "winner_seed": 2,
+      "loser_seed": 3,
+      "win_prob": 0.537,
+      "upset": false
+    },
+    {
+      "round": 4,
+      "round_name": "Elite Eight",
+      "region": "East",
+      "winner": "Duke",
+      "loser": "UConn",
+      "winner_seed": 1,
+      "loser_seed": 2,
+      "win_prob": 0.889,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Saint Louis",
+      "loser": "Georgia",
+      "winner_seed": 9,
+      "loser_seed": 8,
+      "win_prob": 0.598,
+      "upset": true
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Texas Tech",
+      "loser": "Akron",
+      "winner_seed": 5,
+      "loser_seed": 12,
+      "win_prob": 0.833,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Alabama",
+      "loser": "Hofstra",
+      "winner_seed": 4,
+      "loser_seed": 13,
+      "win_prob": 0.95,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Virginia",
+      "loser": "Wright State",
+      "winner_seed": 3,
+      "loser_seed": 14,
+      "win_prob": 0.986,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Santa Clara",
+      "loser": "Kentucky",
+      "winner_seed": 10,
+      "loser_seed": 7,
+      "win_prob": 0.62,
+      "upset": true
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "Midwest",
+      "winner": "Iowa State",
+      "loser": "Tennessee State",
+      "winner_seed": 2,
+      "loser_seed": 15,
+      "win_prob": 0.972,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "Midwest",
+      "winner": "Michigan",
+      "loser": "Saint Louis",
+      "winner_seed": 1,
+      "loser_seed": 9,
+      "win_prob": 0.951,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "Midwest",
+      "winner": "Texas Tech",
+      "loser": "Alabama",
+      "winner_seed": 5,
+      "loser_seed": 4,
+      "win_prob": 0.571,
+      "upset": true
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "Midwest",
+      "winner": "Virginia",
+      "loser": "Tennessee",
+      "winner_seed": 3,
+      "loser_seed": 6,
+      "win_prob": 0.681,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "Midwest",
+      "winner": "Iowa State",
+      "loser": "Santa Clara",
+      "winner_seed": 2,
+      "loser_seed": 10,
+      "win_prob": 0.763,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "Midwest",
+      "winner": "Michigan",
+      "loser": "Texas Tech",
+      "winner_seed": 1,
+      "loser_seed": 5,
+      "win_prob": 0.935,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "Midwest",
+      "winner": "Iowa State",
+      "loser": "Virginia",
+      "winner_seed": 2,
+      "loser_seed": 3,
+      "win_prob": 0.688,
+      "upset": false
+    },
+    {
+      "round": 4,
+      "round_name": "Elite Eight",
+      "region": "Midwest",
+      "winner": "Michigan",
+      "loser": "Iowa State",
+      "winner_seed": 1,
+      "loser_seed": 2,
+      "win_prob": 0.933,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Iowa",
+      "loser": "Clemson",
+      "winner_seed": 9,
+      "loser_seed": 8,
+      "win_prob": 0.625,
+      "upset": true
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Vanderbilt",
+      "loser": "McNeese",
+      "winner_seed": 5,
+      "loser_seed": 12,
+      "win_prob": 0.932,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Nebraska",
+      "loser": "Troy",
+      "winner_seed": 4,
+      "loser_seed": 13,
+      "win_prob": 0.993,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "UNC",
+      "loser": "VCU",
+      "winner_seed": 6,
+      "loser_seed": 11,
+      "win_prob": 0.802,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Illinois",
+      "loser": "Penn",
+      "winner_seed": 3,
+      "loser_seed": 14,
+      "win_prob": 0.973,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Saint Mary's",
+      "loser": "Texas A&M",
+      "winner_seed": 7,
+      "loser_seed": 10,
+      "win_prob": 0.697,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "South",
+      "winner": "Houston",
+      "loser": "Idaho",
+      "winner_seed": 2,
+      "loser_seed": 15,
+      "win_prob": 0.984,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "South",
+      "winner": "Florida",
+      "loser": "Iowa",
+      "winner_seed": 1,
+      "loser_seed": 9,
+      "win_prob": 0.802,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "South",
+      "winner": "Vanderbilt",
+      "loser": "Nebraska",
+      "winner_seed": 5,
+      "loser_seed": 4,
+      "win_prob": 0.564,
+      "upset": true
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "South",
+      "winner": "Illinois",
+      "loser": "UNC",
+      "winner_seed": 3,
+      "loser_seed": 6,
+      "win_prob": 0.678,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "South",
+      "winner": "Houston",
+      "loser": "Saint Mary's",
+      "winner_seed": 2,
+      "loser_seed": 7,
+      "win_prob": 0.828,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "South",
+      "winner": "Vanderbilt",
+      "loser": "Florida",
+      "winner_seed": 5,
+      "loser_seed": 1,
+      "win_prob": 0.509,
+      "upset": true
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "South",
+      "winner": "Houston",
+      "loser": "Illinois",
+      "winner_seed": 2,
+      "loser_seed": 3,
+      "win_prob": 0.686,
+      "upset": false
+    },
+    {
+      "round": 4,
+      "round_name": "Elite Eight",
+      "region": "South",
+      "winner": "Houston",
+      "loser": "Vanderbilt",
+      "winner_seed": 2,
+      "loser_seed": 5,
+      "win_prob": 0.678,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Arizona",
+      "loser": "LIU",
+      "winner_seed": 1,
+      "loser_seed": 16,
+      "win_prob": 0.991,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Villanova",
+      "loser": "Utah State",
+      "winner_seed": 8,
+      "loser_seed": 9,
+      "win_prob": 0.583,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Wisconsin",
+      "loser": "High Point",
+      "winner_seed": 5,
+      "loser_seed": 12,
+      "win_prob": 0.876,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Arkansas",
+      "loser": "Hawaii",
+      "winner_seed": 4,
+      "loser_seed": 13,
+      "win_prob": 0.967,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Gonzaga",
+      "loser": "Kennesaw State",
+      "winner_seed": 3,
+      "loser_seed": 14,
+      "win_prob": 0.952,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Miami",
+      "loser": "Missouri",
+      "winner_seed": 7,
+      "loser_seed": 10,
+      "win_prob": 0.75,
+      "upset": false
+    },
+    {
+      "round": 1,
+      "round_name": "First Round",
+      "region": "West",
+      "winner": "Purdue",
+      "loser": "Queens (NC)",
+      "winner_seed": 2,
+      "loser_seed": 15,
+      "win_prob": 0.98,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "West",
+      "winner": "Arizona",
+      "loser": "Villanova",
+      "winner_seed": 1,
+      "loser_seed": 8,
+      "win_prob": 0.921,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "West",
+      "winner": "Arkansas",
+      "loser": "Wisconsin",
+      "winner_seed": 4,
+      "loser_seed": 5,
+      "win_prob": 0.699,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "West",
+      "winner": "Gonzaga",
+      "loser": "BYU",
+      "winner_seed": 3,
+      "loser_seed": 6,
+      "win_prob": 0.717,
+      "upset": false
+    },
+    {
+      "round": 2,
+      "round_name": "Second Round",
+      "region": "West",
+      "winner": "Purdue",
+      "loser": "Miami",
+      "winner_seed": 2,
+      "loser_seed": 7,
+      "win_prob": 0.832,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "West",
+      "winner": "Arizona",
+      "loser": "Arkansas",
+      "winner_seed": 1,
+      "loser_seed": 4,
+      "win_prob": 0.885,
+      "upset": false
+    },
+    {
+      "round": 3,
+      "round_name": "Sweet Sixteen",
+      "region": "West",
+      "winner": "Purdue",
+      "loser": "Gonzaga",
+      "winner_seed": 2,
+      "loser_seed": 3,
+      "win_prob": 0.678,
+      "upset": false
+    },
+    {
+      "round": 4,
+      "round_name": "Elite Eight",
+      "region": "West",
+      "winner": "Arizona",
+      "loser": "Purdue",
+      "winner_seed": 1,
+      "loser_seed": 2,
+      "win_prob": 0.757,
+      "upset": false
+    },
+    {
+      "round": 5,
+      "round_name": "Final Four",
+      "region": "West vs East",
+      "winner": "Duke",
+      "loser": "Arizona",
+      "winner_seed": 1,
+      "loser_seed": 1,
+      "win_prob": 0.632,
+      "upset": false
+    },
+    {
+      "round": 5,
+      "round_name": "Final Four",
+      "region": "South vs Midwest",
+      "winner": "Michigan",
+      "loser": "Houston",
+      "winner_seed": 1,
+      "loser_seed": 2,
+      "win_prob": 0.818,
+      "upset": false
+    },
+    {
+      "round": 6,
+      "round_name": "Championship",
+      "region": "National",
+      "winner": "Michigan",
+      "loser": "Duke",
+      "winner_seed": 1,
+      "loser_seed": 1,
+      "win_prob": 0.673,
+      "upset": false
+    }
+  ],
+  "team_probs": {
+    "Duke": {
+      "p_champion": 0.2518,
+      "p_final_four": 0.5257,
+      "p_elite_eight": 0.7598,
+      "p_sweet_sixteen": 0.84,
+      "p_round2": 0.9457,
+      "p_round1_win": 0.9873
+    },
+    "UConn": {
+      "p_champion": 0.0048,
+      "p_final_four": 0.0254,
+      "p_elite_eight": 0.0855,
+      "p_sweet_sixteen": 0.4465,
+      "p_round2": 0.7439,
+      "p_round1_win": 0.9901
+    },
+    "Michigan State": {
+      "p_champion": 0.0025,
+      "p_final_four": 0.0155,
+      "p_elite_eight": 0.0631,
+      "p_sweet_sixteen": 0.3413,
+      "p_round2": 0.6344,
+      "p_round1_win": 0.9393
+    },
+    "Kansas": {
+      "p_champion": 0.0006,
+      "p_final_four": 0.0041,
+      "p_elite_eight": 0.0248,
+      "p_sweet_sixteen": 0.0519,
+      "p_round2": 0.4596,
+      "p_round1_win": 0.9737
+    },
+    "St. John's": {
+      "p_champion": 0.0017,
+      "p_final_four": 0.0102,
+      "p_elite_eight": 0.0422,
+      "p_sweet_sixteen": 0.094,
+      "p_round2": 0.5283,
+      "p_round1_win": 0.9207
+    },
+    "Louisville": {
+      "p_champion": 0.0005,
+      "p_final_four": 0.0019,
+      "p_elite_eight": 0.0136,
+      "p_sweet_sixteen": 0.1361,
+      "p_round2": 0.3461,
+      "p_round1_win": 0.8706
+    },
+    "UCLA": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0006,
+      "p_elite_eight": 0.0056,
+      "p_sweet_sixteen": 0.0538,
+      "p_round2": 0.1793,
+      "p_round1_win": 0.6152
+    },
+    "Ohio State": {
+      "p_champion": 0.0002,
+      "p_final_four": 0.0005,
+      "p_elite_eight": 0.0038,
+      "p_sweet_sixteen": 0.0128,
+      "p_round2": 0.0431,
+      "p_round1_win": 0.7183
+    },
+    "TCU": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0012,
+      "p_round2": 0.0108,
+      "p_round1_win": 0.2817
+    },
+    "UCF": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0005,
+      "p_elite_eight": 0.0015,
+      "p_sweet_sixteen": 0.0201,
+      "p_round2": 0.0762,
+      "p_round1_win": 0.3848
+    },
+    "South Florida": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0001,
+      "p_sweet_sixteen": 0.0021,
+      "p_round2": 0.0151,
+      "p_round1_win": 0.1294
+    },
+    "Northern Iowa": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0001,
+      "p_round2": 0.0104,
+      "p_round1_win": 0.0793
+    },
+    "California Baptist": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0017,
+      "p_round1_win": 0.0263
+    },
+    "North Dakota State": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0001,
+      "p_round2": 0.0044,
+      "p_round1_win": 0.0607
+    },
+    "Furman": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0006,
+      "p_round1_win": 0.0099
+    },
+    "Siena": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0004,
+      "p_round1_win": 0.0127
+    },
+    "Michigan": {
+      "p_champion": 0.5499,
+      "p_final_four": 0.7357,
+      "p_elite_eight": 0.8347,
+      "p_sweet_sixteen": 0.901,
+      "p_round2": 0.9582,
+      "p_round1_win": 0.9582
+    },
+    "Iowa State": {
+      "p_champion": 0.004,
+      "p_final_four": 0.022,
+      "p_elite_eight": 0.0565,
+      "p_sweet_sixteen": 0.4979,
+      "p_round2": 0.726,
+      "p_round1_win": 0.9728
+    },
+    "Virginia": {
+      "p_champion": 0.0016,
+      "p_final_four": 0.0134,
+      "p_elite_eight": 0.04,
+      "p_sweet_sixteen": 0.2865,
+      "p_round2": 0.6723,
+      "p_round1_win": 0.9865
+    },
+    "Alabama": {
+      "p_champion": 0.0006,
+      "p_final_four": 0.0028,
+      "p_elite_eight": 0.0195,
+      "p_sweet_sixteen": 0.036,
+      "p_round2": 0.4691,
+      "p_round1_win": 0.9515
+    },
+    "Texas Tech": {
+      "p_champion": 0.0024,
+      "p_final_four": 0.0139,
+      "p_elite_eight": 0.0293,
+      "p_sweet_sixteen": 0.0484,
+      "p_round2": 0.4993,
+      "p_round1_win": 0.8311
+    },
+    "Tennessee": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0021,
+      "p_elite_eight": 0.0087,
+      "p_sweet_sixteen": 0.1198,
+      "p_round2": 0.3274,
+      "p_round1_win": 0.3274
+    },
+    "Kentucky": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0006,
+      "p_elite_eight": 0.0017,
+      "p_sweet_sixteen": 0.0408,
+      "p_round2": 0.1216,
+      "p_round1_win": 0.3938
+    },
+    "Georgia": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0001,
+      "p_elite_eight": 0.0007,
+      "p_sweet_sixteen": 0.0022,
+      "p_round2": 0.0114,
+      "p_round1_win": 0.3976
+    },
+    "Saint Louis": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0007,
+      "p_elite_eight": 0.0031,
+      "p_sweet_sixteen": 0.0114,
+      "p_round2": 0.0304,
+      "p_round1_win": 0.6024
+    },
+    "Santa Clara": {
+      "p_champion": 0.0002,
+      "p_final_four": 0.0012,
+      "p_elite_eight": 0.0058,
+      "p_sweet_sixteen": 0.055,
+      "p_round2": 0.1517,
+      "p_round1_win": 0.6062
+    },
+    "Akron": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0009,
+      "p_round2": 0.0293,
+      "p_round1_win": 0.1689
+    },
+    "Hofstra": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0001,
+      "p_round2": 0.0023,
+      "p_round1_win": 0.0485
+    },
+    "Wright State": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0003,
+      "p_round1_win": 0.0135
+    },
+    "Tennessee State": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0007,
+      "p_round1_win": 0.0272
+    },
+    "Florida": {
+      "p_champion": 0.0029,
+      "p_final_four": 0.0236,
+      "p_elite_eight": 0.1492,
+      "p_sweet_sixteen": 0.3622,
+      "p_round2": 0.7615,
+      "p_round1_win": 0.7615
+    },
+    "Houston": {
+      "p_champion": 0.0252,
+      "p_final_four": 0.1067,
+      "p_elite_eight": 0.4075,
+      "p_sweet_sixteen": 0.6005,
+      "p_round2": 0.8413,
+      "p_round1_win": 0.9838
+    },
+    "Illinois": {
+      "p_champion": 0.0036,
+      "p_final_four": 0.0202,
+      "p_elite_eight": 0.1367,
+      "p_sweet_sixteen": 0.2533,
+      "p_round2": 0.6862,
+      "p_round1_win": 0.9716
+    },
+    "Nebraska": {
+      "p_champion": 0.0034,
+      "p_final_four": 0.0304,
+      "p_elite_eight": 0.1227,
+      "p_sweet_sixteen": 0.2767,
+      "p_round2": 0.4654,
+      "p_round1_win": 0.9932
+    },
+    "Vanderbilt": {
+      "p_champion": 0.0025,
+      "p_final_four": 0.0295,
+      "p_elite_eight": 0.1202,
+      "p_sweet_sixteen": 0.3046,
+      "p_round2": 0.5318,
+      "p_round1_win": 0.9286
+    },
+    "UNC": {
+      "p_champion": 0.0003,
+      "p_final_four": 0.0061,
+      "p_elite_eight": 0.035,
+      "p_sweet_sixteen": 0.0856,
+      "p_round2": 0.271,
+      "p_round1_win": 0.8008
+    },
+    "Saint Mary's": {
+      "p_champion": 0.0,
+      "p_final_four": 0.003,
+      "p_elite_eight": 0.0148,
+      "p_sweet_sixteen": 0.0492,
+      "p_round2": 0.1305,
+      "p_round1_win": 0.6926
+    },
+    "Clemson": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0003,
+      "p_elite_eight": 0.0056,
+      "p_sweet_sixteen": 0.0269,
+      "p_round2": 0.116,
+      "p_round1_win": 0.3707
+    },
+    "Iowa": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0005,
+      "p_elite_eight": 0.0065,
+      "p_sweet_sixteen": 0.0293,
+      "p_round2": 0.1225,
+      "p_round1_win": 0.6293
+    },
+    "Texas A&M": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0002,
+      "p_elite_eight": 0.0013,
+      "p_sweet_sixteen": 0.0062,
+      "p_round2": 0.0279,
+      "p_round1_win": 0.3074
+    },
+    "VCU": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0001,
+      "p_elite_eight": 0.0005,
+      "p_sweet_sixteen": 0.0052,
+      "p_round2": 0.0426,
+      "p_round1_win": 0.1992
+    },
+    "McNeese": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0003,
+      "p_round2": 0.0026,
+      "p_round1_win": 0.0714
+    },
+    "Troy": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0002,
+      "p_round1_win": 0.0068
+    },
+    "Penn": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0002,
+      "p_round1_win": 0.0284
+    },
+    "Idaho": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0003,
+      "p_round1_win": 0.0162
+    },
+    "Arizona": {
+      "p_champion": 0.1176,
+      "p_final_four": 0.2871,
+      "p_elite_eight": 0.6398,
+      "p_sweet_sixteen": 0.8122,
+      "p_round2": 0.9016,
+      "p_round1_win": 0.9932
+    },
+    "Purdue": {
+      "p_champion": 0.0197,
+      "p_final_four": 0.0922,
+      "p_elite_eight": 0.2145,
+      "p_sweet_sixteen": 0.5997,
+      "p_round2": 0.8327,
+      "p_round1_win": 0.9797
+    },
+    "Gonzaga": {
+      "p_champion": 0.0022,
+      "p_final_four": 0.0105,
+      "p_elite_eight": 0.0694,
+      "p_sweet_sixteen": 0.2781,
+      "p_round2": 0.686,
+      "p_round1_win": 0.951
+    },
+    "Arkansas": {
+      "p_champion": 0.0009,
+      "p_final_four": 0.0061,
+      "p_elite_eight": 0.0382,
+      "p_sweet_sixteen": 0.115,
+      "p_round2": 0.7086,
+      "p_round1_win": 0.9666
+    },
+    "Wisconsin": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0011,
+      "p_elite_eight": 0.006,
+      "p_sweet_sixteen": 0.0271,
+      "p_round2": 0.2805,
+      "p_round1_win": 0.879
+    },
+    "BYU": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0016,
+      "p_elite_eight": 0.015,
+      "p_sweet_sixteen": 0.0897,
+      "p_round2": 0.3135,
+      "p_round1_win": 0.3135
+    },
+    "Miami": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0006,
+      "p_elite_eight": 0.0021,
+      "p_sweet_sixteen": 0.031,
+      "p_round2": 0.1494,
+      "p_round1_win": 0.7539
+    },
+    "Villanova": {
+      "p_champion": 0.0001,
+      "p_final_four": 0.0017,
+      "p_elite_eight": 0.0065,
+      "p_sweet_sixteen": 0.0221,
+      "p_round2": 0.0507,
+      "p_round1_win": 0.5905
+    },
+    "Utah State": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0016,
+      "p_elite_eight": 0.0085,
+      "p_sweet_sixteen": 0.0231,
+      "p_round2": 0.0476,
+      "p_round1_win": 0.4095
+    },
+    "Missouri": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0015,
+      "p_round2": 0.0173,
+      "p_round1_win": 0.2461
+    },
+    "High Point": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0005,
+      "p_round2": 0.009,
+      "p_round1_win": 0.121
+    },
+    "Hawaii": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0019,
+      "p_round1_win": 0.0334
+    },
+    "Kennesaw State": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0005,
+      "p_round1_win": 0.049
+    },
+    "Queens (NC)": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0006,
+      "p_round1_win": 0.0203
+    },
+    "LIU": {
+      "p_champion": 0.0,
+      "p_final_four": 0.0,
+      "p_elite_eight": 0.0,
+      "p_sweet_sixteen": 0.0,
+      "p_round2": 0.0001,
+      "p_round1_win": 0.0068
+    }
   }
 }
