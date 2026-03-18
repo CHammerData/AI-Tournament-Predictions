@@ -1,0 +1,304 @@
+gender: womens
+years_covered:
+- 2014
+- 2015
+- 2016
+- 2017
+- 2018
+- 2019
+- 2021
+- 2022
+- 2023
+- 2024
+- 2025
+total_games: 668
+seed_win_rates:
+  1v1:
+    games: 5
+    lower_seed_wins: 5
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v2:
+    games: 25
+    lower_seed_wins: 17
+    lower_seed_win_pct: 0.68
+    upset_pct: 0.32
+  1v3:
+    games: 11
+    lower_seed_wins: 9
+    lower_seed_win_pct: 0.818
+    upset_pct: 0.182
+  1v4:
+    games: 24
+    lower_seed_wins: 19
+    lower_seed_win_pct: 0.792
+    upset_pct: 0.208
+  1v5:
+    games: 17
+    lower_seed_wins: 17
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v6:
+    games: 2
+    lower_seed_wins: 2
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v7:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v8:
+    games: 23
+    lower_seed_wins: 22
+    lower_seed_win_pct: 0.957
+    upset_pct: 0.043
+  1v9:
+    games: 21
+    lower_seed_wins: 20
+    lower_seed_win_pct: 0.952
+    upset_pct: 0.048
+  1v10:
+    games: 2
+    lower_seed_wins: 2
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v12:
+    games: 2
+    lower_seed_wins: 2
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  1v16:
+    games: 43
+    lower_seed_wins: 43
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  2v3:
+    games: 23
+    lower_seed_wins: 13
+    lower_seed_win_pct: 0.565
+    upset_pct: 0.435
+  2v4:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  2v5:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  2v6:
+    games: 9
+    lower_seed_wins: 7
+    lower_seed_win_pct: 0.778
+    upset_pct: 0.222
+  2v7:
+    games: 28
+    lower_seed_wins: 22
+    lower_seed_win_pct: 0.786
+    upset_pct: 0.214
+  2v10:
+    games: 16
+    lower_seed_wins: 13
+    lower_seed_win_pct: 0.812
+    upset_pct: 0.188
+  2v11:
+    games: 4
+    lower_seed_wins: 4
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  2v15:
+    games: 44
+    lower_seed_wins: 44
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  3v4:
+    games: 2
+    lower_seed_wins: 1
+    lower_seed_win_pct: 0.5
+    upset_pct: 0.5
+  3v6:
+    games: 30
+    lower_seed_wins: 21
+    lower_seed_win_pct: 0.7
+    upset_pct: 0.3
+  3v7:
+    games: 6
+    lower_seed_wins: 3
+    lower_seed_win_pct: 0.5
+    upset_pct: 0.5
+  3v9:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  3v10:
+    games: 3
+    lower_seed_wins: 1
+    lower_seed_win_pct: 0.333
+    upset_pct: 0.667
+  3v11:
+    games: 14
+    lower_seed_wins: 10
+    lower_seed_win_pct: 0.714
+    upset_pct: 0.286
+  3v14:
+    games: 44
+    lower_seed_wins: 44
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  4v5:
+    games: 33
+    lower_seed_wins: 16
+    lower_seed_win_pct: 0.485
+    upset_pct: 0.515
+  4v7:
+    games: 2
+    lower_seed_wins: 1
+    lower_seed_win_pct: 0.5
+    upset_pct: 0.5
+  4v9:
+    games: 1
+    lower_seed_wins: 0
+    lower_seed_win_pct: 0.0
+    upset_pct: 1.0
+  4v12:
+    games: 10
+    lower_seed_wins: 8
+    lower_seed_win_pct: 0.8
+    upset_pct: 0.2
+  4v13:
+    games: 42
+    lower_seed_wins: 41
+    lower_seed_win_pct: 0.976
+    upset_pct: 0.024
+  5v8:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  5v12:
+    games: 44
+    lower_seed_wins: 34
+    lower_seed_win_pct: 0.773
+    upset_pct: 0.227
+  5v13:
+    games: 1
+    lower_seed_wins: 1
+    lower_seed_win_pct: 1.0
+    upset_pct: 0.0
+  6v11:
+    games: 44
+    lower_seed_wins: 30
+    lower_seed_win_pct: 0.682
+    upset_pct: 0.318
+  7v10:
+    games: 44
+    lower_seed_wins: 28
+    lower_seed_win_pct: 0.636
+    upset_pct: 0.364
+  8v9:
+    games: 44
+    lower_seed_wins: 23
+    lower_seed_win_pct: 0.523
+    upset_pct: 0.477
+upset_rates_by_round:
+  First Round:
+    games: 349
+    upsets: 62
+    upset_rate: 0.178
+  Second Round:
+    games: 176
+    upsets: 43
+    upset_rate: 0.244
+  Sweet Sixteen:
+    games: 88
+    upsets: 22
+    upset_rate: 0.25
+  Elite Eight:
+    games: 44
+    upsets: 11
+    upset_rate: 0.25
+  Championship:
+    games: 11
+    upsets: 2
+    upset_rate: 0.182
+conf_champion_win_rates:
+  regular_season_champ:
+    games: 518
+    wins: 270
+    win_pct: 0.521
+  tournament_champ:
+    games: 549
+    wins: 237
+    win_pct: 0.432
+feature_correlations:
+  srs_diff: 0.663
+  seed_diff: 0.638
+  drtg_diff: 0.599
+  sos_diff: 0.591
+  prospect_diff: 0.573
+  ortg_diff: 0.43
+  win_pct_diff: 0.426
+  efg_pct_diff: 0.367
+  orb_pct_diff: 0.271
+  tov_pct_diff: 0.27
+  conf_win_pct_diff: 0.218
+  ft_rate_diff: 0.002
+yearly_summary:
+  2014:
+    games: 59
+    upsets: 14
+    upset_rate: 0.237
+    champ_seed: 1
+  2015:
+    games: 61
+    upsets: 10
+    upset_rate: 0.164
+    champ_seed: 1
+  2016:
+    games: 61
+    upsets: 19
+    upset_rate: 0.311
+    champ_seed: 1
+  2017:
+    games: 61
+    upsets: 11
+    upset_rate: 0.18
+    champ_seed: 1
+  2018:
+    games: 61
+    upsets: 15
+    upset_rate: 0.246
+    champ_seed: 1
+  2019:
+    games: 61
+    upsets: 11
+    upset_rate: 0.18
+    champ_seed: 1
+  2021:
+    games: 61
+    upsets: 11
+    upset_rate: 0.18
+    champ_seed: 1
+  2022:
+    games: 60
+    upsets: 15
+    upset_rate: 0.25
+    champ_seed: 1
+  2023:
+    games: 61
+    upsets: 15
+    upset_rate: 0.246
+    champ_seed: 3
+  2024:
+    games: 61
+    upsets: 9
+    upset_rate: 0.148
+    champ_seed: 1
+  2025:
+    games: 61
+    upsets: 10
+    upset_rate: 0.164
+    champ_seed: 2

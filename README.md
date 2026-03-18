@@ -9,8 +9,8 @@ A data-driven NCAA March Madness bracket prediction system covering both the Men
 |---|---|
 | Phase 1 — Data scraping (mens + womens, 2014–2025) | ✅ Complete |
 | Phase 1 — YAML processing | ✅ Complete |
-| Phase 2 — Feature engineering | 🔲 Not started |
-| Phase 2 — Trend analysis | 🔲 Not started |
+| Phase 2 — Feature engineering | ✅ Complete |
+| Phase 2 — Trend analysis | ✅ Complete |
 | Phase 3 — Model training | 🔲 Not started |
 | Phase 4 — Bracket generation | 🔲 Not started |
 
